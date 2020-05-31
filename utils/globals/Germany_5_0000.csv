@@ -1,0 +1,385 @@
+,length_km,n_baseline,source_tile,target_tile,source_kommune,target_kommune,source_region,target_region
+"(49.445,8.567) → (49.559,8.604)",13.031984987363998,944.9821643652091,"(49.445,8.567)","(49.559,8.604)",Karlsruhe Region,Karlsruhe Region,Baden-Württemberg,Hesse
+"(49.486,8.572) → (49.57,8.597)",9.564533933458199,944.8320023959592,"(49.486,8.572)","(49.57,8.597)",Karlsruhe Region,Regierungsbezirk Darmstadt,Baden-Württemberg,Hesse
+"(49.49,8.564) → (49.535,8.59)",5.3606598736702,944.7539227550884,"(49.49,8.564)","(49.535,8.59)",Karlsruhe Region,Regierungsbezirk Darmstadt,Baden-Württemberg,Baden-Württemberg
+"(49.491,8.551) → (49.548,8.589)",6.8419204681894,944.7951679169546,"(49.491,8.551)","(49.548,8.589)",Karlsruhe Region,Regierungsbezirk Darmstadt,Baden-Württemberg,Hesse
+"(49.493,8.554) → (49.538,8.579)",5.39259075584,944.7265757493446,"(49.493,8.554)","(49.538,8.579)",Karlsruhe Region,Regierungsbezirk Darmstadt,Baden-Württemberg,Hesse
+"(49.502,8.548) → (49.547,8.591)",5.855650101128401,944.6891877312403,"(49.502,8.548)","(49.547,8.591)",Karlsruhe Region,Regierungsbezirk Darmstadt,Baden-Württemberg,Hesse
+"(49.504,8.56) → (49.566,8.58)",7.069030827928,944.8098933165822,"(49.504,8.56)","(49.566,8.58)",Karlsruhe Region,Regierungsbezirk Darmstadt,Baden-Württemberg,Hesse
+"(48.653,8.942)",0.005151067478603,677165.4001241362,"(48.653,8.942)","(48.653,8.942)",Regierungsbezirk Stuttgart,Regierungsbezirk Stuttgart,Baden-Württemberg,Baden-Württemberg
+"(48.653,8.943)",0.00434147633532015,1354258.99453608,"(48.653,8.943)","(48.653,8.943)",Regierungsbezirk Stuttgart,Regierungsbezirk Stuttgart,Baden-Württemberg,Baden-Württemberg
+"(48.653,8.944)",0.00784637911291075,1354362.862257789,"(48.653,8.944)","(48.653,8.944)",Regierungsbezirk Stuttgart,Regierungsbezirk Stuttgart,Baden-Württemberg,Baden-Württemberg
+"(48.654,8.944)",0.009457662820897,677063.0442033665,"(48.654,8.944)","(48.654,8.944)",Regierungsbezirk Stuttgart,Regierungsbezirk Stuttgart,Baden-Württemberg,Baden-Württemberg
+"(48.654,8.945)",0.0063881778097845,677139.0006852411,"(48.654,8.945)","(48.654,8.945)",Regierungsbezirk Stuttgart,Regierungsbezirk Stuttgart,Baden-Württemberg,Baden-Württemberg
+"(49.757,9.511) → (50.086,8.949)",54.394764865587995,371.7534958520023,"(49.757,9.511)","(50.086,8.949)",Regierungsbezirk Stuttgart,Regierungsbezirk Darmstadt,Baden-Württemberg,Hesse
+"(48.452,10.041) → (48.47,9.985)",4.5400337727257005,1226.335677606605,"(48.452,10.041)","(48.47,9.985)",Swabia,Tübingen Region,Baden-Württemberg,Baden-Württemberg
+"(48.43,10.041) → (48.457,9.996)",4.4839485086759,1226.3892157950231,"(48.43,10.041)","(48.457,9.996)",Tübingen Region,Tübingen Region,Baden-Württemberg,Baden-Württemberg
+"(48.437,9.995) → (48.406,10.041)",4.829882774734,1142.5879792129447,"(48.437,9.995)","(48.406,10.041)",Tübingen Region,Swabia,Baden-Württemberg,Bavaria
+"(48.445,9.947) → (48.454,10.012)",4.9153226338687,1142.3618798197624,"(48.445,9.947)","(48.454,10.012)",Tübingen Region,Tübingen Region,Baden-Württemberg,Baden-Württemberg
+"(48.446,10.028) → (48.456,9.973)",4.262247750292,1226.4370287065985,"(48.446,10.028)","(48.456,9.973)",Tübingen Region,Tübingen Region,Baden-Württemberg,Baden-Württemberg
+"(48.458,9.962) → (48.435,10.02)",5.008060487456599,1142.406416779843,"(48.458,9.962)","(48.435,10.02)",Tübingen Region,Tübingen Region,Baden-Württemberg,Baden-Württemberg
+"(48.462,10.035) → (48.484,9.974)",5.120466098722,1226.4083300664702,"(48.462,10.035)","(48.484,9.974)",Tübingen Region,Tübingen Region,Baden-Württemberg,Baden-Württemberg
+"(48.467,10.019) → (48.495,9.98)",4.257932994559,1226.251648456343,"(48.467,10.019)","(48.495,9.98)",Tübingen Region,Tübingen Region,Baden-Württemberg,Baden-Württemberg
+"(48.47,9.943) → (48.448,9.998)",4.677025082701,1142.3796844569695,"(48.47,9.943)","(48.448,9.998)",Tübingen Region,Tübingen Region,Baden-Württemberg,Baden-Württemberg
+"(48.47,9.952) → (48.441,10.031)",6.6926230039003,1142.3120098561524,"(48.47,9.952)","(48.441,10.031)",Tübingen Region,Tübingen Region,Baden-Württemberg,Baden-Württemberg
+"(48.483,9.944) → (48.474,9.994)",3.8002104478029,1142.2789443008344,"(48.483,9.944)","(48.474,9.994)",Tübingen Region,Tübingen Region,Baden-Württemberg,Baden-Württemberg
+"(48.522,10.048) → (48.551,9.969)",6.655978168655301,1226.631946108766,"(48.522,10.048)","(48.551,9.969)",Tübingen Region,Tübingen Region,Baden-Württemberg,Baden-Württemberg
+"(48.557,9.935) → (48.545,10.009)",5.608674293158,1142.2337380507447,"(48.557,9.935)","(48.545,10.009)",Tübingen Region,Tübingen Region,Baden-Württemberg,Baden-Württemberg
+"(50.054,8.976) → (50.03,9.104)",9.4952851038416,360.67652349649603,"(50.054,8.976)","(50.03,9.104)",Regierungsbezirk Darmstadt,Regierungsbezirk Unterfranken,Bavaria,Bavaria
+"(49.855,9.224) → (50.054,8.927)",30.654212217027002,371.8433071927309,"(49.855,9.224)","(50.054,8.927)",Regierungsbezirk Unterfranken,Regierungsbezirk Darmstadt,Bavaria,Hesse
+"(49.863,9.226) → (50.037,8.945)",27.861696496872,371.7697255100555,"(49.863,9.226)","(50.037,8.945)",Regierungsbezirk Unterfranken,Regierungsbezirk Darmstadt,Bavaria,Hesse
+"(49.948,9.188) → (50.05,8.944)",20.820276108178,371.7280231115987,"(49.948,9.188)","(50.05,8.944)",Regierungsbezirk Unterfranken,Regierungsbezirk Darmstadt,Bavaria,Hesse
+"(49.995,9.227) → (50.033,8.93)",21.664760780454998,371.7755198430109,"(49.995,9.227)","(50.033,8.93)",Regierungsbezirk Unterfranken,Regierungsbezirk Darmstadt,Bavaria,Hesse
+"(49.998,9.09) → (50.015,8.975)",8.387053803859098,371.7842195978894,"(49.998,9.09)","(50.015,8.975)",Regierungsbezirk Unterfranken,Regierungsbezirk Darmstadt,Bavaria,Hesse
+"(50.051,9.044) → (50.066,8.907)",9.902426364277,371.7427350128658,"(50.051,9.044)","(50.066,8.907)",Regierungsbezirk Unterfranken,Regierungsbezirk Darmstadt,Bavaria,Hesse
+"(48.412,10.03) → (48.443,9.973)",5.4829498155673,1226.3001798880864,"(48.412,10.03)","(48.443,9.973)",Swabia,Tübingen Region,Bavaria,Baden-Württemberg
+"(48.829,11.361)",0.017310586806152,815990.2905347273,"(48.829,11.361)","(48.829,11.361)",Upper Bavaria,Upper Bavaria,Bavaria,Bavaria
+"(48.83,11.359) → (48.829,11.359)",0.014985487059164,816009.3851634266,"(48.83,11.359)","(48.829,11.359)",Upper Bavaria,Upper Bavaria,Bavaria,Bavaria
+"(48.831,11.359)",0.0085621083575072,815977.5728618861,"(48.831,11.359)","(48.831,11.359)",Upper Bavaria,Upper Bavaria,Bavaria,Bavaria
+"(48.831,11.362)",0.01116674537262625,1632081.0246284779,"(48.831,11.362)","(48.831,11.362)",Upper Bavaria,Upper Bavaria,Bavaria,Bavaria
+"(48.832,11.362) → (48.831,11.362)",0.012980255238015,815918.3328569154,"(48.832,11.362)","(48.831,11.362)",Upper Bavaria,Upper Bavaria,Bavaria,Bavaria
+"(48.832,11.362)",0.017649755346544997,815886.0424882695,"(48.832,11.362)","(48.832,11.362)",Upper Bavaria,Upper Bavaria,Bavaria,Bavaria
+"(50.006,11.181) → (50.424,11.139)",46.595309115313995,120.90860730848446,"(50.006,11.181)","(50.424,11.139)",Upper Franconia,Upper Franconia,Bavaria,Thuringia
+"(50.078,11.048) → (50.474,11.013)",44.068498956526,120.94131821593783,"(50.078,11.048)","(50.474,11.013)",Upper Franconia,Upper Franconia,Bavaria,Thuringia
+"(50.297,11.129) → (50.378,11.203)",10.398387614674,120.91210725065123,"(50.297,11.129)","(50.378,11.203)",Upper Franconia,Upper Franconia,Bavaria,Thuringia
+"(50.312,11.102) → (50.379,11.142)",7.8939122732405,120.91927051123287,"(50.312,11.102)","(50.379,11.142)",Upper Franconia,Upper Franconia,Bavaria,Thuringia
+"(50.328,11.135) → (50.373,11.186)",6.1962559555863,120.92210008972145,"(50.328,11.135)","(50.373,11.186)",Upper Franconia,Upper Franconia,Bavaria,Thuringia
+"(50.331,11.14) → (50.408,11.147)",8.586608779833,120.90382229098303,"(50.331,11.14)","(50.408,11.147)",Upper Franconia,Upper Franconia,Bavaria,Thuringia
+"(50.389,11.292) → (50.266,11.254)",13.974211655407,93.04084185050111,"(50.389,11.292)","(50.266,11.254)",Upper Franconia,Upper Franconia,Bavaria,Bavaria
+"(52.493,13.303) → (52.504,13.367)",4.4709854761032,2008.8557940952385,"(52.493,13.303)","(52.504,13.367)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.5,13.356) → (52.485,13.277)",5.639023906527999,2881.635130951667,"(52.5,13.356)","(52.485,13.277)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.501,13.313) → (52.508,13.368)",3.8318474202468997,2008.536577761475,"(52.501,13.313)","(52.508,13.368)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.501,13.326) → (52.502,13.364)",2.5456293790091,2008.48957798319,"(52.501,13.326)","(52.502,13.364)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.501,13.365) → (52.477,13.304)",4.9176004127235995,2881.3969965155193,"(52.501,13.365)","(52.477,13.304)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.502,13.305) → (52.508,13.367)",4.2498571387332005,2008.4582745306195,"(52.502,13.305)","(52.508,13.367)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.503,13.361) → (52.481,13.287)",5.5800746308887,2881.567700657515,"(52.503,13.361)","(52.481,13.287)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.504,13.361) → (52.479,13.306)",4.6785284177321,2881.1995617139346,"(52.504,13.361)","(52.479,13.306)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.506,13.35) → (52.481,13.275)",5.8115976142957,2881.3135911140535,"(52.506,13.35)","(52.481,13.275)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.507,13.301) → (52.509,13.354)",3.615531782622,2008.3124603782164,"(52.507,13.301)","(52.509,13.354)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.507,13.303) → (52.502,13.358)",3.765845304735,2008.3705950108172,"(52.507,13.303)","(52.502,13.358)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.507,13.358) → (52.475,13.297)",5.4879089806620005,2881.5227897857662,"(52.507,13.358)","(52.475,13.297)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.508,13.351) → (52.501,13.282)",4.749852602115,2882.0931086713317,"(52.508,13.351)","(52.501,13.282)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.509,13.273) → (52.51,13.35)",5.220024612410099,2008.2329804264978,"(52.509,13.273)","(52.51,13.35)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.511,13.408) → (52.511,13.407)",0.03696876708722,241051.03318393914,"(52.511,13.408)","(52.511,13.407)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.511,13.408)",0.030141323039374997,1446246.2183765327,"(52.511,13.408)","(52.511,13.408)",Upper Franconia,Upper Franconia,Berlin,Berlin
+"(52.988,11.733) → (53.046,11.795)",7.6634026826655,38.12120443506473,"(52.988,11.733)","(53.046,11.795)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Brandenburg,Brandenburg
+"(52.408,13.467) → (52.409,13.467)",0.016271676366296,133186.94043011733,"(52.408,13.467)","(52.409,13.467)",Upper Franconia,Upper Franconia,Brandenburg,Brandenburg
+"(52.409,13.467)",0.024836665151820002,133192.75497799504,"(52.409,13.467)","(52.409,13.467)",Upper Franconia,Upper Franconia,Brandenburg,Brandenburg
+"(52.409,13.469) → (52.409,13.47)",0.025239244404516,133194.8308952003,"(52.409,13.469)","(52.409,13.47)",Upper Franconia,Upper Franconia,Brandenburg,Brandenburg
+"(52.409,13.47) → (52.409,13.471)",0.0079207165185096,133183.08517856747,"(52.409,13.47)","(52.409,13.471)",Upper Franconia,Upper Franconia,Brandenburg,Brandenburg
+"(52.41,13.466) → (52.41,13.467)",0.012439570022179,133177.81439257748,"(52.41,13.466)","(52.41,13.467)",Upper Franconia,Upper Franconia,Brandenburg,Brandenburg
+"(52.41,13.47)",0.020388680105318,133197.94772866037,"(52.41,13.47)","(52.41,13.47)",Upper Franconia,Upper Franconia,Brandenburg,Brandenburg
+"(52.411,13.465) → (52.411,13.466)",0.012108678753988,133219.11685299175,"(52.411,13.465)","(52.411,13.466)",Upper Franconia,Upper Franconia,Brandenburg,Brandenburg
+"(53.029,12.144) → (52.733,11.834)",38.934581895456,23.364609169878385,"(53.029,12.144)","(52.733,11.834)",Upper Franconia,Regierungsbezirk Kassel,Brandenburg,Saxony-Anhalt
+"(51.419,13.899) → (51.454,13.862)",4.7123056266215,51.230433174145354,"(51.419,13.899)","(51.454,13.862)",Upper Palatinate,Upper Palatinate,Brandenburg,Brandenburg
+"(51.439,13.765) → (51.512,13.96)",15.776352391578,51.23246072393409,"(51.439,13.765)","(51.512,13.96)",Upper Palatinate,Upper Palatinate,Brandenburg,Brandenburg
+"(51.46,13.904) → (51.473,13.822)",5.793432136042201,51.23618047271988,"(51.46,13.904)","(51.473,13.822)",Upper Palatinate,Upper Palatinate,Brandenburg,Brandenburg
+"(53.474,9.96) → (53.648,9.989)",19.459113451766,89.35938243918399,"(53.474,9.96)","(53.648,9.989)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.48,9.984) → (53.419,9.944)",7.2798467080750004,784.9688870231071,"(53.48,9.984)","(53.419,9.944)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Lower Saxony
+"(53.483,9.963) → (53.425,9.951)",6.4334540603917,784.8812982906703,"(53.483,9.963)","(53.425,9.951)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Lower Saxony
+"(53.495,9.975) → (53.414,9.934)",9.411859889824902,784.9505187424099,"(53.495,9.975)","(53.414,9.934)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Lower Saxony
+"(53.497,9.965) → (53.417,9.969)",8.9036830689517,784.9382848420686,"(53.497,9.965)","(53.417,9.969)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Lower Saxony
+"(53.501,9.956) → (53.425,9.92)",8.830987666271199,784.8502362279067,"(53.501,9.956)","(53.425,9.92)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Lower Saxony
+"(53.503,9.988) → (53.425,9.948)",9.057650700847802,784.9040182542275,"(53.503,9.988)","(53.425,9.948)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.506,10.078) → (53.588,10.036)",9.502736941305901,89.35199790048125,"(53.506,10.078)","(53.588,10.036)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.514,9.948) → (53.432,9.9)",9.5919454426335,785.093641978037,"(53.514,9.948)","(53.432,9.9)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Lower Saxony
+"(53.53,9.976) → (53.315,8.648)",91.137666285825,25.00216455013466,"(53.53,9.976)","(53.315,8.648)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Lower Saxony
+"(53.56,10.015) → (53.561,10.015)",0.04575156597318,109150.84602776711,"(53.56,10.015)","(53.561,10.015)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.56,10.016) → (53.561,10.016)",0.052614781408042,109146.59075853815,"(53.56,10.016)","(53.561,10.016)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.561,10.015)",0.034611755816856,436592.65869210905,"(53.561,10.015)","(53.561,10.015)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.561,10.016) → (53.561,10.015)",0.026073848927707997,109138.66671161073,"(53.561,10.016)","(53.561,10.015)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.567,10.026) → (53.611,10.065)",5.5287222083493,3107.493019593825,"(53.567,10.026)","(53.611,10.065)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.567,10.031) → (53.617,10.049)",5.6806927366887,3107.0233111455673,"(53.567,10.031)","(53.617,10.049)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.567,10.039) → (53.602,10.061)",4.1395477983096,3107.3718733095156,"(53.567,10.039)","(53.602,10.061)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.569,10.034) → (53.603,10.062)",4.2767090311722,3107.9868928644905,"(53.569,10.034)","(53.603,10.062)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.569,10.035) → (53.61,10.064)",5.020902149692501,3107.146277985155,"(53.569,10.035)","(53.61,10.064)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.571,10.029) → (53.612,10.056)",4.919205839051,3107.2362205667355,"(53.571,10.029)","(53.612,10.056)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.572,10.034) → (53.612,10.058)",4.7894339379438,3107.420304222564,"(53.572,10.034)","(53.612,10.058)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.606,9.963) → (53.54,9.961)",7.325146800515599,88.52969213095811,"(53.606,9.963)","(53.54,9.961)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.609,10.054) → (53.572,10.013)",4.9582465274495995,2411.274328662987,"(53.609,10.054)","(53.572,10.013)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.612,10.051) → (53.571,10.028)",4.8046775461237,2411.8568646249564,"(53.612,10.051)","(53.571,10.028)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.615,10.059) → (53.574,10.021)",5.166448785156001,2411.473609585869,"(53.615,10.059)","(53.574,10.021)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.616,10.039) → (53.574,10.015)",4.940760345133,2411.3795977680884,"(53.616,10.039)","(53.574,10.015)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.617,10.054) → (53.575,10.017)",5.2153424060848,2411.417181076552,"(53.617,10.054)","(53.575,10.017)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.623,10.041) → (53.574,10.013)",5.7603088824657,2411.1091069079766,"(53.623,10.041)","(53.574,10.013)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(53.628,10.046) → (53.576,10.018)",6.076259985349901,2411.204531511234,"(53.628,10.046)","(53.576,10.018)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Hamburg,Hamburg
+"(49.561,8.612) → (49.488,8.565)",8.8092590887426,720.1443133538786,"(49.561,8.612)","(49.488,8.565)",Karlsruhe Region,Karlsruhe Region,Hesse,Baden-Württemberg
+"(49.572,8.612) → (49.497,8.581)",8.6710305052018,720.1757527245506,"(49.572,8.612)","(49.497,8.581)",Karlsruhe Region,Karlsruhe Region,Hesse,Baden-Württemberg
+"(49.583,8.611) → (49.492,8.567)",10.538000922066999,720.186977248258,"(49.583,8.611)","(49.492,8.567)",Karlsruhe Region,Karlsruhe Region,Hesse,Baden-Württemberg
+"(49.565,8.586) → (49.486,8.569)",8.7871524991367,720.1234679356176,"(49.565,8.586)","(49.486,8.569)",Regierungsbezirk Darmstadt,Karlsruhe Region,Hesse,Baden-Württemberg
+"(49.565,8.593) → (49.482,8.564)",9.3813557884826,720.3182918827212,"(49.565,8.593)","(49.482,8.564)",Regierungsbezirk Darmstadt,Karlsruhe Region,Hesse,Baden-Württemberg
+"(49.572,8.598) → (49.485,8.575)",9.8077825253976,720.094968695787,"(49.572,8.598)","(49.485,8.575)",Regierungsbezirk Darmstadt,Karlsruhe Region,Hesse,Baden-Württemberg
+"(49.598,8.598) → (49.489,8.563)",12.426912800751,720.2038300259003,"(49.598,8.598)","(49.489,8.563)",Regierungsbezirk Darmstadt,Karlsruhe Region,Hesse,Baden-Württemberg
+"(50.001,8.289) → (49.96,8.22)",6.781403325650799,1741.0150409901557,"(50.001,8.289)","(49.96,8.22)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Hesse,Rheinland-Pfalz
+"(50.009,8.297) → (49.963,8.206)",8.2864497131239,1741.1343444093777,"(50.009,8.297)","(49.963,8.206)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Hesse,Rheinland-Pfalz
+"(50.012,8.926) → (49.969,9.14)",16.006694982067,360.70833237249127,"(50.012,8.926)","(49.969,9.14)",Regierungsbezirk Darmstadt,Regierungsbezirk Unterfranken,Hesse,Bavaria
+"(50.038,8.955) → (49.987,9.125)",13.41723638088,360.7167731489996,"(50.038,8.955)","(49.987,9.125)",Regierungsbezirk Darmstadt,Regierungsbezirk Unterfranken,Hesse,Bavaria
+"(50.063,8.91) → (49.92,9.322)",33.450791653345,360.68696400194267,"(50.063,8.91)","(49.92,9.322)",Regierungsbezirk Darmstadt,Regierungsbezirk Unterfranken,Hesse,Bavaria
+"(50.065,8.962) → (49.957,9.315)",27.932744421135997,360.6622495459833,"(50.065,8.962)","(49.957,9.315)",Regierungsbezirk Darmstadt,Regierungsbezirk Unterfranken,Hesse,Bavaria
+"(50.068,8.97) → (49.935,9.295)",27.544103573123003,360.77410179669585,"(50.068,8.97)","(49.935,9.295)",Regierungsbezirk Darmstadt,Regierungsbezirk Unterfranken,Hesse,Bavaria
+"(50.071,8.917) → (50.027,9.203)",21.06100567114,360.702710527948,"(50.071,8.917)","(50.027,9.203)",Regierungsbezirk Darmstadt,Regierungsbezirk Unterfranken,Hesse,Bavaria
+"(50.309,8.794)",0.01664368666397235,853483.5181126909,"(50.309,8.794)","(50.309,8.794)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Hesse,Hesse
+"(50.31,8.796) → (50.31,8.795)",0.028487127558912997,426740.09157159814,"(50.31,8.796)","(50.31,8.795)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Hesse,Hesse
+"(50.311,8.796) → (50.311,8.795)",0.022605078844017,426714.8114779983,"(50.311,8.796)","(50.311,8.795)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Hesse,Hesse
+"(50.311,8.796)",0.0081751093453323,426685.5727600294,"(50.311,8.796)","(50.311,8.796)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Hesse,Hesse
+"(50.312,8.796)",0.0097258868531188,426702.4597193875,"(50.312,8.796)","(50.312,8.796)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Hesse,Hesse
+"(50.312,8.797) → (50.312,8.796)",0.017404677287476,426817.9008362833,"(50.312,8.797)","(50.312,8.796)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Hesse,Hesse
+"(50.834,10.02) → (50.847,9.954)",4.8788976666481,44.67794937221174,"(50.834,10.02)","(50.847,9.954)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(50.844,9.994) → (50.875,9.919)",6.3563769395567,44.67470575127053,"(50.844,9.994)","(50.875,9.919)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(50.864,10.011) → (50.875,9.976)",2.7598131078807997,44.672937727854745,"(50.864,10.011)","(50.875,9.976)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(50.869,10.015) → (50.875,9.976)",2.8262517900011,44.67864571431994,"(50.869,10.015)","(50.875,9.976)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(50.887,9.976) → (50.891,10.032)",3.9873233612059,41.39702655022296,"(50.887,9.976)","(50.891,10.032)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(50.89,9.934) → (50.872,10.017)",6.1584837240541,41.40702759257532,"(50.89,9.934)","(50.872,10.017)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(50.891,9.932) → (50.887,10.02)",6.1809977293545995,41.398833821957666,"(50.891,9.932)","(50.887,10.02)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(50.898,9.91) → (50.866,10.012)",8.0438980664336,41.3994790563882,"(50.898,9.91)","(50.866,10.012)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(50.916,9.964) → (50.892,10.09)",9.240471150412901,41.400447827328364,"(50.916,9.964)","(50.892,10.09)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Thuringia
+"(51.092,8.757) → (51.219,8.493)",23.13776985144,117.62507456783773,"(51.092,8.757)","(51.219,8.493)",Regierungsbezirk Kassel,Regierungsbezirk Arnsberg,Hesse,North Rhine-Westphalia
+"(51.164,8.809) → (51.169,8.697)",7.820461579632901,117.66155365414967,"(51.164,8.809)","(51.169,8.697)",Regierungsbezirk Kassel,Regierungsbezirk Arnsberg,Hesse,North Rhine-Westphalia
+"(51.205,9.525) → (51.411,9.703)",26.056321867481998,98.77904355053202,"(51.205,9.525)","(51.411,9.703)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Lower Saxony
+"(51.206,8.776) → (51.177,8.817)",4.338818313768,194.7050764156532,"(51.206,8.776)","(51.177,8.817)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(51.21,8.759) → (51.197,8.826)",4.918853113617099,194.6889862510486,"(51.21,8.759)","(51.197,8.826)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(51.215,9.539) → (51.39,9.66)",21.132659331661998,98.77227515975224,"(51.215,9.539)","(51.39,9.66)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Lower Saxony
+"(51.22,9.102) → (51.492,8.867)",34.289529408863004,117.62972982215267,"(51.22,9.102)","(51.492,8.867)",Regierungsbezirk Kassel,Regierungsbezirk Arnsberg,Hesse,North Rhine-Westphalia
+"(51.253,9.513) → (51.386,9.647)",17.472696893665,98.78489557019363,"(51.253,9.513)","(51.386,9.647)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Lower Saxony
+"(51.264,8.859) → (51.305,8.811)",5.6793348309902,117.63827036536485,"(51.264,8.859)","(51.305,8.811)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(51.269,9.517) → (51.422,9.693)",20.949812034513,98.78335595140395,"(51.269,9.517)","(51.422,9.693)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Lower Saxony
+"(51.272,8.854) → (51.282,8.83)",1.9465761395967,117.63313485063357,"(51.272,8.854)","(51.282,8.83)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(51.274,9.513) → (51.431,9.665)",20.413126227166,98.78720719194195,"(51.274,9.513)","(51.431,9.665)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Lower Saxony
+"(51.277,9.54) → (51.429,9.687)",19.778970078746,98.77618427574494,"(51.277,9.54)","(51.429,9.687)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Lower Saxony
+"(51.31,9.546) → (51.427,9.642)",14.566577224805,98.80290742386785,"(51.31,9.546)","(51.427,9.642)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(51.311,8.89) → (51.312,8.789)",7.0270393209324,117.64010385330113,"(51.311,8.89)","(51.312,8.789)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(51.344,8.856) → (51.33,8.924)",5.0041902861059,194.70052031469697,"(51.344,8.856)","(51.33,8.924)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Hesse,Hesse
+"(52.138,8.321) → (52.215,8.46)",12.749414587531,520.1269969528014,"(52.138,8.321)","(52.215,8.46)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,North Rhine-Westphalia
+"(52.175,8.31) → (52.246,8.494)",14.836514633109,520.1119412693789,"(52.175,8.31)","(52.246,8.494)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,North Rhine-Westphalia
+"(52.183,8.43) → (52.217,8.535)",8.1087207785225,520.0913575839236,"(52.183,8.43)","(52.217,8.535)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,North Rhine-Westphalia
+"(52.191,8.376) → (52.226,8.405)",4.376644692117799,520.1699830978188,"(52.191,8.376)","(52.226,8.405)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(52.194,8.477) → (52.153,8.432)",5.505527841299799,521.3874986111465,"(52.194,8.477)","(52.153,8.432)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(52.202,8.33) → (52.246,8.423)",7.990607585123099,520.1578111144221,"(52.202,8.33)","(52.246,8.423)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(52.683,9.116)",0.014788950708118,513089.27680307353,"(52.683,9.116)","(52.683,9.116)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(52.683,9.118)",0.0016085087003462,513011.7215627221,"(52.683,9.118)","(52.683,9.118)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(52.684,9.116)",0.005025204271254,513170.82198360335,"(52.684,9.116)","(52.684,9.116)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(52.685,9.115)",0.0065727752079133,513046.8757980633,"(52.685,9.115)","(52.685,9.115)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(52.685,9.117)",0.0084528286533017,513077.27050828293,"(52.685,9.117)","(52.685,9.117)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(52.685,9.119)",0.0039214056840825,513069.27390716615,"(52.685,9.119)","(52.685,9.119)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(52.686,9.114)",0.007609187402895001,513032.02505701705,"(52.686,9.114)","(52.686,9.114)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.18,8.75)",0.021599655934154,46692.97684780149,"(53.18,8.75)","(53.18,8.75)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.182,8.748) → (53.182,8.749)",0.04747344451360701,46695.01532506177,"(53.182,8.748)","(53.182,8.749)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.182,8.749)",0.027923587616207002,93381.40268610488,"(53.182,8.749)","(53.182,8.749)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.183,8.749)",0.019036164511316664,140096.83624647176,"(53.183,8.749)","(53.183,8.749)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.208,8.665) → (53.227,8.701)",3.15403346573,1129.2630178252425,"(53.208,8.665)","(53.227,8.701)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.229,8.642) → (53.247,8.7)",4.3557092315366,1129.1187471581636,"(53.229,8.642)","(53.247,8.7)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.23,8.646) → (53.237,8.703)",3.8633182537079,1129.2454176187462,"(53.23,8.646)","(53.237,8.703)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.233,8.686) → (53.232,8.702)",1.0571083657583,1129.2894432107885,"(53.233,8.686)","(53.232,8.702)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.234,8.622) → (53.261,8.687)",5.2477447718687005,1129.1634343555074,"(53.234,8.622)","(53.261,8.687)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.238,8.697) → (53.224,8.665)",2.6065336915583996,1536.9129952243604,"(53.238,8.697)","(53.224,8.665)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.24,8.706) → (53.227,8.666)",3.0934679061006998,1537.1453401235779,"(53.24,8.706)","(53.227,8.666)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.245,8.7) → (53.219,8.632)",5.3407534408254005,1537.3896383381928,"(53.245,8.7)","(53.219,8.632)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.246,8.669) → (53.254,8.692)",1.7379378306963997,1129.196120256082,"(53.246,8.669)","(53.254,8.692)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.248,8.69) → (53.223,8.642)",4.2643712657301,1537.1093709055024,"(53.248,8.69)","(53.223,8.642)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.249,8.609) → (53.282,8.687)",6.3636537044249,1129.4689209657922,"(53.249,8.609)","(53.282,8.687)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.264,8.676) → (53.231,8.644)",4.194658136962,1537.0183125082783,"(53.264,8.676)","(53.231,8.644)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.273,8.681) → (53.248,8.658)",3.1709867601262998,1537.0854141815964,"(53.273,8.681)","(53.248,8.658)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.279,8.672) → (53.255,8.646)",3.223742191236,1536.9738217180227,"(53.279,8.672)","(53.255,8.646)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Lower Saxony
+"(53.396,9.957) → (53.516,9.992)",13.524710971506,610.3491763850686,"(53.396,9.957)","(53.516,9.992)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Hamburg
+"(53.398,9.606) → (53.597,10.292)",50.456204932992,89.34941150254106,"(53.398,9.606)","(53.597,10.292)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Schleswig-Holstein
+"(53.403,9.987) → (53.509,9.978)",11.849348299166,610.2569199704194,"(53.403,9.987)","(53.509,9.978)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Hamburg
+"(53.406,9.947) → (53.506,9.966)",11.167325974939,610.2987379532871,"(53.406,9.947)","(53.506,9.966)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Hamburg
+"(53.411,9.901) → (53.5,9.959)",10.628031759437,610.3253817910393,"(53.411,9.901)","(53.5,9.959)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Hamburg
+"(53.416,9.921) → (53.505,9.962)",10.308077618847,610.2810721435029,"(53.416,9.921)","(53.505,9.962)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Hamburg
+"(53.416,9.961) → (53.521,9.96)",11.668820055092,610.3348942075448,"(53.416,9.961)","(53.521,9.96)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Hamburg
+"(53.419,10.016) → (53.662,10.314)",33.448312577908,89.35729142863988,"(53.419,10.016)","(53.662,10.314)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Schleswig-Holstein
+"(53.424,9.921) → (53.509,9.959)",9.7992096528591,610.4461790628184,"(53.424,9.921)","(53.509,9.959)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Hamburg
+"(53.479,9.214) → (53.789,9.902)",57.007406434738996,89.37358430872693,"(53.479,9.214)","(53.789,9.902)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Lower Saxony,Schleswig-Holstein
+"(51.389,9.651) → (51.361,9.577)",5.984587135171799,72.95713590039296,"(51.389,9.651)","(51.361,9.577)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Lower Saxony
+"(51.414,9.653) → (51.376,9.578)",6.738931428452901,72.96145813898119,"(51.414,9.653)","(51.376,9.578)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Lower Saxony
+"(51.445,9.683) → (51.427,9.624)",4.5406545554017,72.96032099315312,"(51.445,9.683)","(51.427,9.624)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Lower Saxony
+"(51.481,10.093) → (51.372,10.151)",12.844194516979,30.329616748568984,"(51.481,10.093)","(51.372,10.151)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Thuringia
+"(51.482,9.677) → (51.139,9.39)",43.007620559409,72.95213683998298,"(51.482,9.677)","(51.139,9.39)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Hesse
+"(51.49,9.658) → (51.268,9.495)",27.117858567739,72.96316547786583,"(51.49,9.658)","(51.268,9.495)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Hesse
+"(51.636,9.673) → (51.117,9.404)",60.602247226464996,72.97476149978621,"(51.636,9.673)","(51.117,9.404)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Hesse
+"(52.143,11.025) → (52.175,10.953)",6.0755691981845,52.46355840028257,"(52.143,11.025)","(52.175,10.953)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Lower Saxony
+"(52.223,10.298) → (52.061,11.323)",72.253854754145,70.09218731329092,"(52.223,10.298)","(52.061,11.323)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Saxony-Anhalt
+"(52.233,10.969) → (52.229,10.875)",6.462075481095099,52.459963570324845,"(52.233,10.969)","(52.229,10.875)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Lower Saxony
+"(52.244,11.046) → (52.251,10.999)",3.2451444359884,52.46584880406516,"(52.244,11.046)","(52.251,10.999)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Lower Saxony
+"(52.262,10.951) → (52.294,10.784)",11.916752187236,52.47623298861031,"(52.262,10.951)","(52.294,10.784)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Lower Saxony
+"(52.341,11.048) → (52.356,10.96)",6.179760419948701,52.46203978130851,"(52.341,11.048)","(52.356,10.96)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Lower Saxony
+"(52.353,10.998) → (52.31,10.902)",8.1177643321316,52.467894276218125,"(52.353,10.998)","(52.31,10.902)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Lower Saxony
+"(52.429,10.8) → (52.438,11.03)",15.670370407464,70.09382750963516,"(52.429,10.8)","(52.438,11.03)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Lower Saxony,Saxony-Anhalt
+"(53.828,10.833) → (53.873,10.7)",10.060462156306,56.97552068156396,"(53.828,10.833)","(53.873,10.7)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Mecklenburg-Vorpommern,Schleswig-Holstein
+"(53.842,10.793) → (53.878,10.711)",6.7419124177745,56.97685394058062,"(53.842,10.793)","(53.878,10.711)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Mecklenburg-Vorpommern,Schleswig-Holstein
+"(53.856,10.83) → (53.858,10.703)",8.303637461564,56.98590926106901,"(53.856,10.83)","(53.858,10.703)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Mecklenburg-Vorpommern,Schleswig-Holstein
+"(53.836,12.429)",0.0057559529004714,95741.89257663519,"(53.836,12.429)","(53.836,12.429)",Upper Franconia,Upper Franconia,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern
+"(53.837,12.432)",0.0072425665501231,95771.58502763516,"(53.837,12.432)","(53.837,12.432)",Upper Franconia,Upper Franconia,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern
+"(53.838,12.43)",0.0072257868038083,95745.68175900278,"(53.838,12.43)","(53.838,12.43)",Upper Franconia,Upper Franconia,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern
+"(53.839,12.43)",0.0018100842017328,95754.12578660021,"(53.839,12.43)","(53.839,12.43)",Upper Franconia,Upper Franconia,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern
+"(53.839,12.435)",0.013769852268881002,95752.6334040816,"(53.839,12.435)","(53.839,12.435)",Upper Franconia,Upper Franconia,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern
+"(53.84,12.43)",0.0060102077374294,95756.36648664226,"(53.84,12.43)","(53.84,12.43)",Upper Franconia,Upper Franconia,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern
+"(53.84,12.433)",0.0093205080756888,95748.4533098157,"(53.84,12.433)","(53.84,12.433)",Upper Franconia,Upper Franconia,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern
+"(51.077,8.247) → (50.836,8.569)",35.059223369922,194.67564606175233,"(51.077,8.247)","(50.836,8.569)",Regierungsbezirk Arnsberg,Regierungsbezirk Gießen,North Rhine-Westphalia,Hesse
+"(51.108,8.272) → (50.889,8.745)",41.109223107187,194.69748579633557,"(51.108,8.272)","(50.889,8.745)",Regierungsbezirk Arnsberg,Regierungsbezirk Gießen,North Rhine-Westphalia,Hesse
+"(51.22,8.735) → (51.222,8.67)",4.5392872682952,117.64285669745782,"(51.22,8.735)","(51.222,8.67)",Regierungsbezirk Arnsberg,Regierungsbezirk Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia
+"(51.379,7.207)",0.008718525064904099,3721451.379883368,"(51.379,7.207)","(51.379,7.207)",Regierungsbezirk Arnsberg,Regierungsbezirk Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia
+"(51.379,7.208)",0.010221893516316,1240505.0576330863,"(51.379,7.208)","(51.379,7.208)",Regierungsbezirk Arnsberg,Regierungsbezirk Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia
+"(51.379,7.209)",0.011414891169703999,1240346.5750746792,"(51.379,7.209)","(51.379,7.209)",Regierungsbezirk Arnsberg,Regierungsbezirk Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia
+"(51.38,7.209)",0.009683621657890199,2481126.9083314636,"(51.38,7.209)","(51.38,7.209)",Regierungsbezirk Arnsberg,Regierungsbezirk Arnsberg,North Rhine-Westphalia,North Rhine-Westphalia
+"(52.131,8.469) → (52.177,8.566)",8.3524875467431,520.2526536136444,"(52.131,8.469)","(52.177,8.566)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,North Rhine-Westphalia,North Rhine-Westphalia
+"(52.147,8.472) → (52.2,8.565)",8.6590765192158,520.1497041590522,"(52.147,8.472)","(52.2,8.565)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,North Rhine-Westphalia,North Rhine-Westphalia
+"(52.165,8.677) → (52.134,8.608)",5.8542541087615,521.4825653243149,"(52.165,8.677)","(52.134,8.608)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,North Rhine-Westphalia,North Rhine-Westphalia
+"(52.166,8.672) → (52.145,8.629)",3.7705510688060997,521.3415203267533,"(52.166,8.672)","(52.145,8.629)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,North Rhine-Westphalia,North Rhine-Westphalia
+"(52.174,8.593) → (52.123,8.498)",8.6158302988377,521.3208879801031,"(52.174,8.593)","(52.123,8.498)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,North Rhine-Westphalia,North Rhine-Westphalia
+"(52.182,8.502) → (52.15,8.327)",12.474065935075,521.3793724903976,"(52.182,8.502)","(52.15,8.327)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,North Rhine-Westphalia,Lower Saxony
+"(52.195,8.542) → (52.153,8.46)",7.301002824420401,521.3996993699176,"(52.195,8.542)","(52.153,8.46)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,North Rhine-Westphalia,North Rhine-Westphalia
+"(52.203,8.483) → (52.166,8.437)",5.1442006040189,521.356611602808,"(52.203,8.483)","(52.166,8.437)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,North Rhine-Westphalia,Lower Saxony
+"(50.775,7.614) → (50.725,7.588)",5.8709106961617,416.1201287768708,"(50.775,7.614)","(50.725,7.588)",Regierungsbezirk Köln,Regierungsbezirk Köln,North Rhine-Westphalia,North Rhine-Westphalia
+"(50.782,7.562) → (50.705,7.584)",8.7073310503331,416.04426972508935,"(50.782,7.562)","(50.705,7.584)",Regierungsbezirk Köln,Regierungsbezirk Köln,North Rhine-Westphalia,Rheinland-Pfalz
+"(50.785,7.52) → (50.733,7.548)",6.1406359350824,416.01962325224065,"(50.785,7.52)","(50.733,7.548)",Regierungsbezirk Köln,Regierungsbezirk Köln,North Rhine-Westphalia,Rheinland-Pfalz
+"(50.809,7.614) → (50.72,7.626)",9.9019248952677,416.0540053934484,"(50.809,7.614)","(50.72,7.626)",Regierungsbezirk Köln,Regierungsbezirk Köln,North Rhine-Westphalia,Rheinland-Pfalz
+"(50.828,7.683) → (50.726,7.676)",11.351587329872,416.00758107834486,"(50.828,7.683)","(50.726,7.676)",Regierungsbezirk Köln,Regierungsbezirk Köln,North Rhine-Westphalia,Rheinland-Pfalz
+"(50.841,7.451) → (50.681,7.576)",19.848328484303,416.03778543848546,"(50.841,7.451)","(50.681,7.576)",Regierungsbezirk Köln,Regierungsbezirk Köln,North Rhine-Westphalia,Rheinland-Pfalz
+"(51.036,7.611) → (50.65,8.434)",71.948763598458,194.73602085617108,"(51.036,7.611)","(50.65,8.434)",Regierungsbezirk Köln,Regierungsbezirk Gießen,North Rhine-Westphalia,Hesse
+"(49.395,8.374) → (49.387,8.492)",8.5472008194923,1355.815840598192,"(49.395,8.374)","(49.387,8.492)",Karlsruhe Region,Karlsruhe Region,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.397,8.482) → (49.4,8.379)",7.44897263989,1728.9810785710004,"(49.397,8.482)","(49.4,8.379)",Karlsruhe Region,Karlsruhe Region,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.403,8.376) → (49.397,8.488)",8.1475719058331,1355.935413054774,"(49.403,8.376)","(49.397,8.488)",Karlsruhe Region,Karlsruhe Region,Rheinland-Pfalz,Baden-Württemberg
+"(49.408,8.38) → (49.399,8.495)",8.3585211499497,1355.967142701012,"(49.408,8.38)","(49.399,8.495)",Karlsruhe Region,Karlsruhe Region,Rheinland-Pfalz,Baden-Württemberg
+"(49.409,8.38) → (49.401,8.493)",8.2174034871875,1355.8550874073026,"(49.409,8.38)","(49.401,8.493)",Karlsruhe Region,Karlsruhe Region,Rheinland-Pfalz,Baden-Württemberg
+"(49.412,8.381) → (49.398,8.498)",8.6479724415922,1355.7621835205825,"(49.412,8.381)","(49.398,8.498)",Karlsruhe Region,Karlsruhe Region,Rheinland-Pfalz,Baden-Württemberg
+"(49.415,8.381) → (49.403,8.494)",8.2658349877176,1356.1826462993977,"(49.415,8.381)","(49.403,8.494)",Karlsruhe Region,Karlsruhe Region,Rheinland-Pfalz,Baden-Württemberg
+"(49.415,8.487) → (49.423,8.381)",7.718602468211301,1728.9406203945093,"(49.415,8.487)","(49.423,8.381)",Karlsruhe Region,Karlsruhe Region,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.416,8.484) → (49.418,8.383)",7.280447013849501,1729.2558652027992,"(49.416,8.484)","(49.418,8.383)",Karlsruhe Region,Karlsruhe Region,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.418,8.386) → (49.4,8.503)",8.668848847251901,1355.914280030059,"(49.418,8.386)","(49.4,8.503)",Karlsruhe Region,Karlsruhe Region,Rheinland-Pfalz,Baden-Württemberg
+"(49.419,8.48) → (49.418,8.394)",6.2479238164388,1728.9136738714599,"(49.419,8.48)","(49.418,8.394)",Karlsruhe Region,Karlsruhe Region,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.425,8.485) → (49.434,8.381)",7.5445228035797,1728.7197370283607,"(49.425,8.485)","(49.434,8.381)",Karlsruhe Region,Karlsruhe Region,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.434,8.486) → (49.446,8.385)",7.433372543258701,1728.788154668432,"(49.434,8.486)","(49.446,8.385)",Karlsruhe Region,Karlsruhe Region,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.436,8.487) → (49.437,8.387)",7.2232638018887005,1728.8381979093115,"(49.436,8.487)","(49.437,8.387)",Karlsruhe Region,Karlsruhe Region,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.416,7.279) → (49.385,7.259)",3.7416378653163,146.7340149007903,"(49.416,7.279)","(49.385,7.259)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Saarland
+"(49.856,7.713)",0.0081104446788189,266567.55658159347,"(49.856,7.713)","(49.856,7.713)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.856,7.714)",0.012793701994873001,266573.79441135103,"(49.856,7.714)","(49.856,7.714)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.857,7.713)",0.0097978800147108,533167.9260463961,"(49.857,7.713)","(49.857,7.713)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.857,7.715)",0.020244925047625,266563.40197459137,"(49.857,7.715)","(49.857,7.715)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.858,7.711) → (49.859,7.711)",0.0091040356402544,266544.04946076847,"(49.858,7.711)","(49.859,7.711)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.858,7.712)",0.0040360506328186,266533.50084913557,"(49.858,7.712)","(49.858,7.712)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.886,8.231) → (49.942,8.298)",7.840076474978201,1812.7376474339592,"(49.886,8.231)","(49.942,8.298)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.91,8.21) → (49.967,8.278)",8.0090100667322,1812.96926600401,"(49.91,8.21)","(49.967,8.278)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.918,8.203) → (49.979,8.278)",8.745050182217701,1812.8093902556839,"(49.918,8.203)","(49.979,8.278)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.92,8.224) → (49.97,8.294)",7.4359522350535,1813.011690497756,"(49.92,8.224)","(49.97,8.294)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.921,8.214) → (49.985,8.281)",8.5978496855621,1812.9410098467204,"(49.921,8.214)","(49.985,8.281)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.922,8.214) → (49.97,8.279)",7.0635922480397,1813.2998320986203,"(49.922,8.214)","(49.97,8.279)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.927,8.212) → (49.973,8.297)",7.9354588279968,1812.8618656597641,"(49.927,8.212)","(49.973,8.297)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.967,8.292) → (49.917,8.223)",7.441954953825199,1741.2374953617532,"(49.967,8.292)","(49.917,8.223)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.976,8.304) → (49.92,8.208)",9.2353657161882,1741.278241291989,"(49.976,8.304)","(49.92,8.208)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.984,8.299) → (49.936,8.221)",7.7721739627442,1741.5549823095046,"(49.984,8.299)","(49.936,8.221)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.987,8.282) → (49.945,8.225)",6.1205004188864,1741.0839452421762,"(49.987,8.282)","(49.945,8.225)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.996,8.282) → (49.95,8.208)",7.3197821779693,1741.2103571849125,"(49.996,8.282)","(49.95,8.208)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Rheinland-Pfalz,Rheinland-Pfalz
+"(50.664,7.577) → (50.769,7.531)",12.148173187971,321.3583324773104,"(50.664,7.577)","(50.769,7.531)",Regierungsbezirk Köln,Regierungsbezirk Köln,Rheinland-Pfalz,North Rhine-Westphalia
+"(50.668,7.574) → (50.777,7.474)",14.032859099769,321.3172768682397,"(50.668,7.574)","(50.777,7.474)",Regierungsbezirk Köln,Regierungsbezirk Köln,Rheinland-Pfalz,North Rhine-Westphalia
+"(50.67,7.635) → (50.804,7.576)",15.45132569827,321.3299936605147,"(50.67,7.635)","(50.804,7.576)",Regierungsbezirk Köln,Regierungsbezirk Köln,Rheinland-Pfalz,North Rhine-Westphalia
+"(50.671,7.544) → (50.769,7.521)",11.011345356959,321.41692705523815,"(50.671,7.544)","(50.769,7.521)",Regierungsbezirk Köln,Regierungsbezirk Köln,Rheinland-Pfalz,North Rhine-Westphalia
+"(50.678,7.549) → (50.764,7.503)",10.006183943199,321.33929520173075,"(50.678,7.549)","(50.764,7.503)",Regierungsbezirk Köln,Regierungsbezirk Köln,Rheinland-Pfalz,North Rhine-Westphalia
+"(50.694,7.567) → (50.765,7.542)",8.038958952506501,321.35332392489914,"(50.694,7.567)","(50.765,7.542)",Regierungsbezirk Köln,Regierungsbezirk Köln,Rheinland-Pfalz,North Rhine-Westphalia
+"(50.701,7.611) → (50.774,7.606)",8.172062706267099,321.365852441836,"(50.701,7.611)","(50.774,7.606)",Regierungsbezirk Köln,Regierungsbezirk Köln,Rheinland-Pfalz,North Rhine-Westphalia
+"(50.789,7.689) → (50.745,7.666)",5.247856556304599,415.99111737406025,"(50.789,7.689)","(50.745,7.666)",Regierungsbezirk Köln,Regierungsbezirk Köln,Rheinland-Pfalz,Rheinland-Pfalz
+"(49.323,7.363) → (49.309,7.3)",4.8670601106454,146.7427079424453,"(49.323,7.363)","(49.309,7.3)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Saarland,Saarland
+"(49.328,7.381) → (49.347,7.31)",5.6288574253606996,146.72396061075227,"(49.328,7.381)","(49.347,7.31)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Saarland,Saarland
+"(49.334,7.22) → (49.359,7.207)",3.0314832090828996,146.74614180379754,"(49.334,7.22)","(49.359,7.207)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Saarland,Saarland
+"(49.35,7.372) → (49.323,7.331)",4.2434015126287,146.72976751334724,"(49.35,7.372)","(49.323,7.331)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Saarland,Saarland
+"(49.354,7.248) → (49.369,7.333)",6.389549948996001,151.23223873007706,"(49.354,7.248)","(49.369,7.333)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Saarland,Saarland
+"(49.356,7.181) → (49.363,7.245)",4.7428343577592,151.2492047554691,"(49.356,7.181)","(49.363,7.245)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Saarland,Saarland
+"(49.359,7.31) → (49.364,7.331)",1.6445879121623999,151.25156209710144,"(49.359,7.31)","(49.364,7.331)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Saarland,Saarland
+"(49.361,7.256) → (49.358,7.332)",5.4625403928692995,151.25510146816006,"(49.361,7.256)","(49.358,7.332)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Saarland,Saarland
+"(49.371,7.33) → (49.378,7.28)",3.7074514249417,146.74042087386974,"(49.371,7.33)","(49.378,7.28)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Saarland,Saarland
+"(49.399,7.157) → (49.418,7.213)",4.5446717618529,151.23822405705343,"(49.399,7.157)","(49.418,7.213)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Saarland,Saarland
+"(49.404,7.173) → (49.4,7.089)",6.1335332214325,146.76946414001944,"(49.404,7.173)","(49.4,7.089)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Saarland,Saarland
+"(49.405,7.132) → (49.383,7.194)",5.1501570097916,151.27914041247814,"(49.405,7.132)","(49.383,7.194)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Saarland,Saarland
+"(49.411,7.134) → (49.427,7.171)",3.2677822276467996,151.2426019508146,"(49.411,7.134)","(49.427,7.171)",Regierungsbezirk Darmstadt,Regierungsbezirk Darmstadt,Saarland,Saarland
+"(49.332,6.942)",0.0091860394010755,148686.971186394,"(49.332,6.942)","(49.332,6.942)",Regierungsbezirk Köln,Regierungsbezirk Köln,Saarland,Saarland
+"(49.332,6.943)",0.0081140651757597,74335.83886448682,"(49.332,6.943)","(49.332,6.943)",Regierungsbezirk Köln,Regierungsbezirk Köln,Saarland,Saarland
+"(49.333,6.942) → (49.332,6.942)",0.027608647444432505,148660.71880489128,"(49.333,6.942)","(49.332,6.942)",Regierungsbezirk Köln,Regierungsbezirk Köln,Saarland,Saarland
+"(49.333,6.942) → (49.333,6.941)",0.013790032942703999,74326.34197944625,"(49.333,6.942)","(49.333,6.941)",Regierungsbezirk Köln,Regierungsbezirk Köln,Saarland,Saarland
+"(49.333,6.943)",0.020808017849346,74334.68029815335,"(49.333,6.943)","(49.333,6.943)",Regierungsbezirk Köln,Regierungsbezirk Köln,Saarland,Saarland
+"(50.691,12.355) → (50.721,12.315)",4.386870789801399,135.253696311186,"(50.691,12.355)","(50.721,12.315)",Upper Franconia,Upper Franconia,Saxony,Saxony
+"(50.719,12.332) → (50.768,12.3)",5.8147400045691,135.2656246396842,"(50.719,12.332)","(50.768,12.3)",Upper Franconia,Upper Franconia,Saxony,Saxony
+"(50.722,12.315) → (50.678,12.361)",5.8600557661589,74.1928817499647,"(50.722,12.315)","(50.678,12.361)",Upper Franconia,Upper Franconia,Saxony,Saxony
+"(50.731,12.393) → (50.774,12.357)",5.4034212111228,135.2576115007285,"(50.731,12.393)","(50.774,12.357)",Upper Franconia,Upper Franconia,Saxony,Saxony
+"(50.74,12.33) → (50.699,12.371)",5.4559543494630995,74.1911456357056,"(50.74,12.33)","(50.699,12.371)",Upper Franconia,Upper Franconia,Saxony,Saxony
+"(50.748,12.374) → (50.792,12.342)",5.3328799153285,135.2635164479805,"(50.748,12.374)","(50.792,12.342)",Upper Franconia,Upper Franconia,Saxony,Saxony
+"(50.768,12.305) → (50.714,12.383)",8.1243934160312,74.1899893244984,"(50.768,12.305)","(50.714,12.383)",Upper Franconia,Upper Franconia,Saxony,Saxony
+"(50.786,12.321) → (50.731,12.317)",6.1872342651331,74.18675055039958,"(50.786,12.321)","(50.731,12.317)",Upper Franconia,Upper Franconia,Saxony,Saxony
+"(50.788,12.382) → (50.822,12.358)",4.1866538969427,135.26878993087485,"(50.788,12.382)","(50.822,12.358)",Upper Franconia,Upper Franconia,Saxony,Saxony
+"(50.801,12.352) → (50.779,12.401)",4.2835438164270006,74.18460312825657,"(50.801,12.352)","(50.779,12.401)",Upper Franconia,Upper Franconia,Saxony,Saxony
+"(50.829,12.369) → (50.784,12.302)",6.8995941803141,135.24834357974373,"(50.829,12.369)","(50.784,12.302)",Upper Franconia,Upper Franconia,Saxony,Saxony
+"(51.366,12.283) → (51.392,12.129)",11.069412164914999,263.5293482478037,"(51.366,12.283)","(51.392,12.129)",Upper Franconia,Upper Franconia,Saxony,Saxony-Anhalt
+"(51.37,12.327) → (51.488,12.185)",16.478604130525998,263.55891235167104,"(51.37,12.327)","(51.488,12.185)",Upper Franconia,Upper Franconia,Saxony,Saxony-Anhalt
+"(51.376,12.304) → (51.475,12.166)",14.610714276796,263.5691876531895,"(51.376,12.304)","(51.475,12.166)",Upper Franconia,Upper Franconia,Saxony,Saxony-Anhalt
+"(51.385,12.325) → (51.47,12.139)",16.013441726548,263.6110766537221,"(51.385,12.325)","(51.47,12.139)",Upper Franconia,Upper Franconia,Saxony,Saxony-Anhalt
+"(51.388,12.287) → (51.499,12.196)",13.840850845799999,263.53977796391695,"(51.388,12.287)","(51.499,12.196)",Upper Franconia,Upper Franconia,Saxony,Saxony
+"(51.394,12.317) → (51.47,12.161)",13.716079828612001,263.5630201312635,"(51.394,12.317)","(51.47,12.161)",Upper Franconia,Upper Franconia,Saxony,Saxony-Anhalt
+"(51.395,12.311) → (51.481,12.179)",13.27682864836,263.54740665141946,"(51.395,12.311)","(51.481,12.179)",Upper Franconia,Upper Franconia,Saxony,Saxony-Anhalt
+"(51.038,13.147)",0.0046077757614859,212653.51266008307,"(51.038,13.147)","(51.038,13.147)",Upper Palatinate,Upper Palatinate,Saxony,Saxony
+"(51.039,13.143)",0.0063352855361035,212695.60162595272,"(51.039,13.143)","(51.039,13.143)",Upper Palatinate,Upper Palatinate,Saxony,Saxony
+"(51.039,13.144)",0.006278605977418,212656.82703769894,"(51.039,13.144)","(51.039,13.144)",Upper Palatinate,Upper Palatinate,Saxony,Saxony
+"(51.04,13.143)",0.0033839403078265553,425306.0325682601,"(51.04,13.143)","(51.04,13.143)",Upper Palatinate,Upper Palatinate,Saxony,Saxony
+"(51.04,13.146)",0.016162304622045,425267.73275664716,"(51.04,13.146)","(51.04,13.146)",Upper Palatinate,Upper Palatinate,Saxony,Saxony
+"(51.461,14.244) → (51.519,14.134)",9.9863615189335,51.24632127793976,"(51.461,14.244)","(51.519,14.134)",Upper Palatinate,Upper Palatinate,Saxony,Saxony
+"(51.477,14.168) → (51.502,14.103)",5.257373391104,51.23817800411926,"(51.477,14.168)","(51.502,14.103)",Upper Palatinate,Upper Palatinate,Saxony,Saxony
+"(51.478,14.106) → (51.487,13.999)",7.5073619452772995,51.23394375027595,"(51.478,14.106)","(51.487,13.999)",Upper Palatinate,Upper Palatinate,Saxony,Brandenburg
+"(52.228,11.206) → (52.282,11.008)",14.733339059387,52.46666652690782,"(52.228,11.206)","(52.282,11.008)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Saxony-Anhalt,Saxony-Anhalt
+"(52.842,11.843) → (52.901,11.981)",11.343393839793999,38.12031239845646,"(52.842,11.843)","(52.901,11.981)",Regierungsbezirk Kassel,Upper Franconia,Saxony-Anhalt,Brandenburg
+"(52.863,11.828) → (52.934,11.997)",13.887831860896,38.11544228156414,"(52.863,11.828)","(52.934,11.997)",Regierungsbezirk Kassel,Upper Franconia,Saxony-Anhalt,Brandenburg
+"(51.134,11.747) → (51.177,11.774)",5.086076646861,22.95280680012362,"(51.134,11.747)","(51.177,11.774)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony-Anhalt
+"(51.168,11.78) → (51.235,11.754)",7.717991559763499,22.95470374584543,"(51.168,11.78)","(51.235,11.754)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony-Anhalt
+"(51.169,11.875) → (51.194,11.828)",4.3382355881054995,22.95416660552217,"(51.169,11.875)","(51.194,11.828)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony-Anhalt
+"(51.202,11.714) → (51.151,11.606)",9.4125362355568,34.02215019473519,"(51.202,11.714)","(51.151,11.606)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony-Anhalt
+"(51.354,12.149) → (51.352,12.271)",8.5001163650526,213.13320600114793,"(51.354,12.149)","(51.352,12.271)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony
+"(51.366,12.144) → (51.374,12.274)",9.0839403012585,213.1270366115658,"(51.366,12.144)","(51.374,12.274)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony
+"(51.39,12.137) → (51.39,12.287)",10.403339452395,213.15082049713612,"(51.39,12.137)","(51.39,12.287)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony
+"(51.391,12.142) → (51.376,12.261)",8.3733308737183,213.1425107665147,"(51.391,12.142)","(51.376,12.261)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony
+"(51.399,12.173) → (51.397,12.261)",6.1007605296902,213.145832765563,"(51.399,12.173)","(51.397,12.261)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony
+"(51.405,12.14) → (51.366,12.296)",11.631695167641,213.11860200444465,"(51.405,12.14)","(51.366,12.296)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony
+"(51.414,12.115) → (51.393,12.261)",10.352104794465,213.1846965162294,"(51.414,12.115)","(51.393,12.261)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony
+"(51.831,11.745) → (51.832,11.745)",0.010580826769246,146343.26982964587,"(51.831,11.745)","(51.832,11.745)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony-Anhalt
+"(51.831,11.747)",0.01246761059933065,292715.7771615761,"(51.831,11.747)","(51.831,11.747)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony-Anhalt
+"(51.831,11.748)",0.023819384314712998,146353.89512838353,"(51.831,11.748)","(51.831,11.748)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony-Anhalt
+"(51.832,11.746)",0.0100488207077,292684.98425202473,"(51.832,11.746)","(51.832,11.746)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony-Anhalt
+"(51.832,11.747)",0.0087433415925472,146382.86189229868,"(51.832,11.747)","(51.832,11.747)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony-Anhalt
+"(52.637,12.021) → (52.668,12.179)",11.239259415929,38.1180541502053,"(52.637,12.021)","(52.668,12.179)",Upper Franconia,Upper Franconia,Saxony-Anhalt,Saxony-Anhalt
+"(52.85,11.971) → (52.813,11.865)",8.1940303758008,23.362678350125833,"(52.85,11.971)","(52.813,11.865)",Upper Franconia,Regierungsbezirk Kassel,Saxony-Anhalt,Saxony-Anhalt
+"(52.86,11.985) → (52.832,11.851)",9.578294777439599,23.36369829556027,"(52.86,11.985)","(52.832,11.851)",Upper Franconia,Regierungsbezirk Kassel,Saxony-Anhalt,Saxony-Anhalt
+"(53.591,9.831) → (53.651,9.87)",7.176012568484,89.34587545570949,"(53.591,9.831)","(53.651,9.87)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(53.623,9.618) → (53.735,9.667)",12.93070500659,89.35589874442348,"(53.623,9.618)","(53.735,9.667)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(53.644,9.881) → (53.584,9.847)",7.0585604182084,88.53749976415695,"(53.644,9.881)","(53.584,9.847)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Hamburg
+"(53.656,9.824) → (53.583,9.858)",8.4094357684313,88.52618852492317,"(53.656,9.824)","(53.583,9.858)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Hamburg
+"(53.686,9.826) → (53.594,9.81)",10.225310980002,88.53225480047684,"(53.686,9.826)","(53.594,9.81)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(53.726,9.631) → (53.667,9.595)",6.9057186544968,88.53611985685997,"(53.726,9.631)","(53.667,9.595)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(53.732,10.04) → (53.541,9.564)",37.919411578649004,88.5536431682799,"(53.732,10.04)","(53.541,9.564)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Lower Saxony
+"(53.737,10.792) → (53.779,10.691)",8.0922363518559,56.96824168964963,"(53.737,10.792)","(53.779,10.691)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(53.773,9.5) → (53.714,9.509)",6.5468866246926,88.53957159111809,"(53.773,9.5)","(53.714,9.509)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(53.822,10.783) → (53.863,10.708)",6.675320793115,56.97463268566451,"(53.822,10.783)","(53.863,10.708)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(53.827,10.767) → (53.871,10.691)",7.041182764288401,56.970496325014715,"(53.827,10.767)","(53.871,10.691)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(53.827,10.767) → (53.886,10.695)",8.072582780107599,56.972145450306854,"(53.827,10.767)","(53.886,10.695)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(53.854,10.699) → (53.827,10.767)",5.3627559883775,71.31276297841032,"(53.854,10.699)","(53.827,10.767)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(53.859,10.679) → (53.827,10.767)",6.7992173813759,71.33487921889213,"(53.859,10.679)","(53.827,10.767)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(53.865,10.679) → (53.827,10.78)",7.9128439301291005,71.31764970038411,"(53.865,10.679)","(53.827,10.78)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(53.865,10.706) → (53.788,10.882)",14.425665963506,71.32187481001532,"(53.865,10.706)","(53.788,10.882)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Mecklenburg-Vorpommern
+"(53.868,10.723) → (53.834,10.78)",5.298518224194299,71.31558532771625,"(53.868,10.723)","(53.834,10.78)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(53.878,10.708) → (53.837,10.784)",6.7988150791398,71.32076321802607,"(53.878,10.708)","(53.837,10.784)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(54.058,9.964)",0.015042139451391,175931.86026630388,"(54.058,9.964)","(54.058,9.964)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(54.059,9.963)",0.011691085491567001,175944.6338538763,"(54.059,9.963)","(54.059,9.963)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(54.059,9.966)",0.015041252548871,175979.4572978749,"(54.059,9.966)","(54.059,9.966)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(54.06,9.963)",0.0116527375819135,351872.2737703674,"(54.06,9.963)","(54.06,9.963)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(54.06,9.964)",0.011678770164424,175936.9529668976,"(54.06,9.964)","(54.06,9.964)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(54.064,9.964)",0.0089345802967677,175951.4933607215,"(54.064,9.964)","(54.064,9.964)",Regierungsbezirk Detmold,Regierungsbezirk Detmold,Schleswig-Holstein,Schleswig-Holstein
+"(51.477,10.409) → (51.552,10.34)",9.543381133668099,22.541390596623955,"(51.477,10.409)","(51.552,10.34)",Regierungsbezirk Kassel,Regierungsbezirk Kassel,Thuringia,Lower Saxony
+"(50.307,11.151) → (50.426,11.113)",13.519925300917,120.91738591561892,"(50.307,11.151)","(50.426,11.113)",Upper Franconia,Upper Franconia,Thuringia,Thuringia
+"(50.358,11.138) → (50.311,11.118)",5.470047059715901,93.0633194407386,"(50.358,11.138)","(50.311,11.118)",Upper Franconia,Upper Franconia,Thuringia,Bavaria
+"(50.373,11.14) → (50.297,11.065)",10.014849290295,93.03814867466431,"(50.373,11.14)","(50.297,11.065)",Upper Franconia,Upper Franconia,Thuringia,Bavaria
+"(50.373,11.181) → (50.304,11.108)",9.343537706432699,93.04490373845931,"(50.373,11.181)","(50.304,11.108)",Upper Franconia,Upper Franconia,Thuringia,Bavaria
+"(50.383,11.212) → (50.293,11.157)",10.794261823803,93.04635391881308,"(50.383,11.212)","(50.293,11.157)",Upper Franconia,Upper Franconia,Thuringia,Thuringia
+"(50.391,11.11) → (50.286,11.081)",11.814604563327,93.04853125548057,"(50.391,11.11)","(50.286,11.081)",Upper Franconia,Upper Franconia,Thuringia,Bavaria
+"(50.414,11.143) → (50.155,11.316)",31.282660074553,93.03446664424796,"(50.414,11.143)","(50.155,11.316)",Upper Franconia,Upper Franconia,Thuringia,Bavaria
+"(50.826,12.2) → (50.822,12.68)",33.72143802825,74.18166723616247,"(50.826,12.2)","(50.822,12.68)",Upper Franconia,Upper Franconia,Thuringia,Saxony
+"(50.92,11.079)",0.0065509176922952,129157.10005854351,"(50.92,11.079)","(50.92,11.079)",Upper Franconia,Upper Franconia,Thuringia,Thuringia
+"(50.92,11.082)",0.0046930289158822,129154.07778096394,"(50.92,11.082)","(50.92,11.082)",Upper Franconia,Upper Franconia,Thuringia,Thuringia
+"(50.92,11.084)",0.013271455805395,129152.06484119447,"(50.92,11.084)","(50.92,11.084)",Upper Franconia,Upper Franconia,Thuringia,Thuringia
+"(50.921,11.079)",0.0085994331709341,129137.57751073167,"(50.921,11.079)","(50.921,11.079)",Upper Franconia,Upper Franconia,Thuringia,Thuringia
+"(50.921,11.08)",0.012690748286530001,129146.42669019559,"(50.921,11.08)","(50.921,11.08)",Upper Franconia,Upper Franconia,Thuringia,Thuringia
+"(50.921,11.081)",0.0075679857550473,258320.31536776345,"(50.921,11.081)","(50.921,11.081)",Upper Franconia,Upper Franconia,Thuringia,Thuringia

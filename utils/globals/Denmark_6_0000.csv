@@ -1,0 +1,852 @@
+,length_km,n_baseline,source_tile,target_tile,source_kommune,target_kommune,source_region,target_region
+"(55.665,12.344) → (55.648,12.295)",3.6190561976256,678.571697136138,"(55.665,12.344)","(55.648,12.295)",Albertslund,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.348) → (55.644,12.288)",4.4220618327848,678.5671740465233,"(55.665,12.348)","(55.644,12.288)",Albertslund,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.348) → (55.656,12.283)",4.2024163549248,678.3376892046783,"(55.665,12.348)","(55.656,12.283)",Albertslund,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.349) → (55.651,12.291)",3.9822398982687,678.3174460033849,"(55.665,12.349)","(55.651,12.291)",Albertslund,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.349) → (55.654,12.283)",4.3071003599559,677.9497795140187,"(55.665,12.349)","(55.654,12.283)",Albertslund,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.351) → (55.645,12.294)",4.256061942062,678.4339416902656,"(55.665,12.351)","(55.645,12.294)",Albertslund,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.353) → (55.673,12.534)",11.388258077049999,1277.4001108737825,"(55.665,12.353)","(55.673,12.534)",Albertslund,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.353) → (55.644,12.302)",3.9484425461311,678.4462897827558,"(55.665,12.353)","(55.644,12.302)",Albertslund,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.356) → (55.694,12.526)",11.130725418471998,1278.5719346038811,"(55.665,12.356)","(55.694,12.526)",Albertslund,København,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.357) → (55.665,12.516)",9.9644458127703,1278.3356407485608,"(55.665,12.357)","(55.665,12.516)",Albertslund,København,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.36) → (55.674,12.415)",3.5582481678702997,546.2403497279779,"(55.665,12.36)","(55.674,12.415)",Albertslund,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.361) → (55.665,12.415)",3.3467218107027,546.4287876938375,"(55.665,12.361)","(55.665,12.415)",Albertslund,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.361) → (55.668,12.415)",3.3479463430467002,546.3178583084771,"(55.665,12.361)","(55.668,12.415)",Albertslund,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.361) → (55.64,12.371)",2.8195847114093,182.14292923127917,"(55.665,12.361)","(55.64,12.371)",Albertslund,Vallensbæk,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.365) → (55.678,12.536)",10.79736236432,1278.1310143961834,"(55.665,12.365)","(55.678,12.536)",Albertslund,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.365) → (55.692,12.504)",9.2430783958107,1278.3123743427109,"(55.665,12.365)","(55.692,12.504)",Albertslund,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.367) → (55.679,12.531)",10.352193393923,1278.5634121508174,"(55.665,12.367)","(55.679,12.531)",Albertslund,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.371) → (55.67,12.415)",2.8054817618447,546.4251454164108,"(55.665,12.371)","(55.67,12.415)",Albertslund,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.371) → (55.671,12.458)",5.5546849986112,192.85593367638032,"(55.665,12.371)","(55.671,12.458)",Albertslund,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.371) → (55.679,12.458)",5.719896070536,192.81806763828604,"(55.665,12.371)","(55.679,12.458)",Albertslund,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.371) → (55.64,12.371)",2.7569967367947994,182.10926725747655,"(55.665,12.371)","(55.64,12.371)",Albertslund,Vallensbæk,Region Hovedstaden,Region Hovedstaden
+"(55.666,12.354)",0.007352072902015119,202297.68795261203,"(55.666,12.354)","(55.666,12.354)",Albertslund,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.666,12.355)",0.0039450248234819,80920.24554699234,"(55.666,12.355)","(55.666,12.355)",Albertslund,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.668,12.365) → (55.661,12.527)",10.171997179593001,1278.09287194322,"(55.668,12.365)","(55.661,12.527)",Albertslund,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.668,12.365) → (55.673,12.415)",3.1567572750073,545.9279803454992,"(55.668,12.365)","(55.673,12.415)",Albertslund,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.669,12.364) → (55.672,12.415)",3.1992646728964003,546.2240486237785,"(55.669,12.364)","(55.672,12.415)",Albertslund,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.669,12.371) → (55.675,12.415)",2.8404289563262,546.3278017724297,"(55.669,12.371)","(55.675,12.415)",Albertslund,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.858,12.339)",0.012774516541485849,48134.93316265881,"(55.858,12.339)","(55.858,12.339)",Allerød,Allerød,Region Hovedstaden,Region Hovedstaden
+"(55.858,12.339) → (55.859,12.339)",0.018751819172483995,24078.580958378123,"(55.858,12.339)","(55.859,12.339)",Allerød,Allerød,Region Hovedstaden,Region Hovedstaden
+"(55.859,12.34) → (55.859,12.339)",0.011829850783039,24070.27737167338,"(55.859,12.34)","(55.859,12.339)",Allerød,Allerød,Region Hovedstaden,Region Hovedstaden
+"(55.859,12.34) → (55.859,12.341)",0.0193013919459215,48143.69003510611,"(55.859,12.34)","(55.859,12.341)",Allerød,Allerød,Region Hovedstaden,Region Hovedstaden
+"(55.859,12.341)",3.5366209960586e-13,24073.692815135637,"(55.859,12.341)","(55.859,12.341)",Allerød,Allerød,Region Hovedstaden,Region Hovedstaden
+"(55.715,12.401) → (55.697,12.504)",6.764968121766,1260.2424128378677,"(55.715,12.401)","(55.697,12.504)",Ballerup,København,Region Hovedstaden,Region Hovedstaden
+"(55.715,12.409) → (55.7,12.49)",5.328532255839599,1260.2800225750077,"(55.715,12.409)","(55.7,12.49)",Ballerup,København,Region Hovedstaden,Region Hovedstaden
+"(55.717,12.402) → (55.693,12.506)",7.0815668702140995,1260.7063812548563,"(55.717,12.402)","(55.693,12.506)",Ballerup,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.717,12.41) → (55.698,12.506)",6.3859388653200995,1260.4588495613882,"(55.717,12.41)","(55.698,12.506)",Ballerup,København,Region Hovedstaden,Region Hovedstaden
+"(55.718,12.401) → (55.707,12.492)",5.8902945631870995,1260.4817910174356,"(55.718,12.401)","(55.707,12.492)",Ballerup,København,Region Hovedstaden,Region Hovedstaden
+"(55.719,12.404) → (55.697,12.501)",6.623176326360401,1260.714784679246,"(55.719,12.404)","(55.697,12.501)",Ballerup,København,Region Hovedstaden,Region Hovedstaden
+"(55.72,12.405) → (55.739,12.415)",2.2410545667192,228.48587654850863,"(55.72,12.405)","(55.739,12.415)",Ballerup,Herlev,Region Hovedstaden,Region Hovedstaden
+"(55.721,12.404) → (55.739,12.415)",2.1754414586638,228.56999546830258,"(55.721,12.404)","(55.739,12.415)",Ballerup,Herlev,Region Hovedstaden,Region Hovedstaden
+"(55.721,12.404) → (55.712,12.468)",4.1485921202206,1259.559327202361,"(55.721,12.404)","(55.712,12.468)",Ballerup,København,Region Hovedstaden,Region Hovedstaden
+"(55.722,12.386)",0.009974573682936567,118203.21621542866,"(55.722,12.386)","(55.722,12.386)",Ballerup,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.722,12.387) → (55.722,12.386)",0.012084505043241,78756.29631122903,"(55.722,12.387)","(55.722,12.386)",Ballerup,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.722,12.387)",0.00595394808160365,78785.58633507324,"(55.722,12.387)","(55.722,12.387)",Ballerup,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.722,12.388) → (55.739,12.458)",4.805361792978901,178.50459105352235,"(55.722,12.388)","(55.739,12.458)",Ballerup,Herlev,Region Hovedstaden,Region Hovedstaden
+"(55.722,12.391) → (55.739,12.469)",5.2297057650353,178.53524781322778,"(55.722,12.391)","(55.739,12.469)",Ballerup,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.724,12.377) → (55.731,12.327)",3.2416124752922006,653.3268032558918,"(55.724,12.377)","(55.731,12.327)",Ballerup,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.724,12.399) → (55.739,12.458)",4.1404956364236005,178.5703089596114,"(55.724,12.399)","(55.739,12.458)",Ballerup,Herlev,Region Hovedstaden,Region Hovedstaden
+"(55.727,12.377) → (55.731,12.327)",3.1881098463397004,653.4509001591806,"(55.727,12.377)","(55.731,12.327)",Ballerup,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.727,12.382) → (55.729,12.327)",3.4472470041276,653.5716872416488,"(55.727,12.382)","(55.729,12.327)",Ballerup,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.728,12.327) → (55.724,12.371)",2.7751465409551,457.0585531168039,"(55.728,12.327)","(55.724,12.371)",Ballerup,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.728,12.327) → (55.729,12.371)",2.7554788935272003,456.98539062209915,"(55.728,12.327)","(55.729,12.371)",Ballerup,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.729,12.327) → (55.724,12.371)",2.8142919228427004,457.13999093660516,"(55.729,12.327)","(55.724,12.371)",Ballerup,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.73,12.327) → (55.729,12.371)",2.7544051635468,457.1430380706615,"(55.73,12.327)","(55.729,12.371)",Ballerup,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.73,12.371) → (55.741,12.3)",4.5725548904442,653.5673307921777,"(55.73,12.371)","(55.741,12.3)",Ballerup,Egedal,Region Hovedstaden,Region Hovedstaden
+"(55.731,12.327) → (55.723,12.378)",3.3388547793943,456.72406198839155,"(55.731,12.327)","(55.723,12.378)",Ballerup,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.734,12.371) → (55.732,12.327)",2.7544652309959,653.4390069964137,"(55.734,12.371)","(55.732,12.327)",Ballerup,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.735,12.379) → (55.735,12.327)",3.2670699709626003,652.9726823740285,"(55.735,12.379)","(55.735,12.327)",Ballerup,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.327) → (55.701,12.492)",11.204725859241,235.49834446276438,"(55.739,12.327)","(55.701,12.492)",Ballerup,København,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.415)",0.0,33390.324669561545,"(55.64,12.415)","(55.64,12.415)",Brøndby,Brøndby,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.415) → (55.665,12.415)",2.7569967367947994,742.7578326781314,"(55.64,12.415)","(55.665,12.415)",Brøndby,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.589,12.649)",0.009006009033257434,32609.087866817325,"(55.589,12.649)","(55.589,12.649)",Dragør,Dragør,Region Hovedstaden,Region Hovedstaden
+"(55.589,12.65)",0.0056595943122847,21745.861410799844,"(55.589,12.65)","(55.589,12.65)",Dragør,Dragør,Region Hovedstaden,Region Hovedstaden
+"(55.589,12.65) → (55.589,12.651)",0.0036770577481484,10872.994486255218,"(55.589,12.65)","(55.589,12.651)",Dragør,Dragør,Region Hovedstaden,Region Hovedstaden
+"(55.589,12.651)",0.0077787517094548,10875.004304102844,"(55.589,12.651)","(55.589,12.651)",Dragør,Dragør,Region Hovedstaden,Region Hovedstaden
+"(55.734,12.305) → (55.722,12.381)",4.9365585183926,457.0502344018632,"(55.734,12.305)","(55.722,12.381)",Egedal,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.735,12.317) → (55.723,12.376)",3.9156168806605,456.97175309701726,"(55.735,12.317)","(55.723,12.376)",Egedal,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.758,12.245) → (55.759,12.245)",0.014828157181966999,53625.02122367954,"(55.758,12.245)","(55.759,12.245)",Egedal,Egedal,Region Hovedstaden,Region Hovedstaden
+"(55.759,12.243)",0.0049958422761598,107190.98410784773,"(55.759,12.243)","(55.759,12.243)",Egedal,Egedal,Region Hovedstaden,Region Hovedstaden
+"(55.759,12.244)",0.007859317783999,107231.19221956207,"(55.759,12.244)","(55.759,12.244)",Egedal,Egedal,Region Hovedstaden,Region Hovedstaden
+"(55.759,12.245)",0.014777467143358002,107219.06361168507,"(55.759,12.245)","(55.759,12.245)",Egedal,Egedal,Region Hovedstaden,Region Hovedstaden
+"(55.912,12.502) → (55.888,12.502)",2.739567589115,196.3550501588746,"(55.912,12.502)","(55.888,12.502)",Fredensborg,Hørsholm,Region Hovedstaden,Region Hovedstaden
+"(55.918,12.502) → (55.888,12.502)",3.4240245768702002,196.4273398555725,"(55.918,12.502)","(55.888,12.502)",Fredensborg,Hørsholm,Region Hovedstaden,Region Hovedstaden
+"(55.92,12.502) → (55.888,12.502)",3.6521769061223,196.39234704237668,"(55.92,12.502)","(55.888,12.502)",Fredensborg,Hørsholm,Region Hovedstaden,Region Hovedstaden
+"(55.927,12.502) → (55.888,12.502)",4.3817426481196,196.248620385637,"(55.927,12.502)","(55.888,12.502)",Fredensborg,Hørsholm,Region Hovedstaden,Region Hovedstaden
+"(55.93,12.502) → (55.888,12.502)",4.7469602787901,196.38877259455057,"(55.93,12.502)","(55.888,12.502)",Fredensborg,Hørsholm,Region Hovedstaden,Region Hovedstaden
+"(55.939,12.473)",0.0049152332832370004,37307.45953018617,"(55.939,12.473)","(55.939,12.473)",Fredensborg,Fredensborg,Region Hovedstaden,Region Hovedstaden
+"(55.939,12.474)",0.00944200847664185,74635.06136552339,"(55.939,12.474)","(55.939,12.474)",Fredensborg,Fredensborg,Region Hovedstaden,Region Hovedstaden
+"(55.94,12.472)",0.010342247875796998,37308.57290625731,"(55.94,12.472)","(55.94,12.472)",Fredensborg,Fredensborg,Region Hovedstaden,Region Hovedstaden
+"(55.94,12.473) → (55.94,12.472)",0.0046988837983379,37314.54593805157,"(55.94,12.473)","(55.94,12.472)",Fredensborg,Fredensborg,Region Hovedstaden,Region Hovedstaden
+"(55.94,12.473)",0.010032719523118,37321.4433424876,"(55.94,12.473)","(55.94,12.473)",Fredensborg,Fredensborg,Region Hovedstaden,Region Hovedstaden
+"(55.941,12.472) → (55.94,12.472)",0.0067886525804442,37287.23787327103,"(55.941,12.472)","(55.94,12.472)",Fredensborg,Fredensborg,Region Hovedstaden,Region Hovedstaden
+"(55.671,12.529) → (55.639,12.458)",5.6662510365838,2134.978621812619,"(55.671,12.529)","(55.639,12.458)",Frederiksberg,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.672,12.522) → (55.637,12.458)",5.593244980141,2133.7577271020164,"(55.672,12.522)","(55.637,12.458)",Frederiksberg,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.673,12.529) → (55.64,12.076)",28.619562569815002,674.995767867331,"(55.673,12.529)","(55.64,12.076)",Frederiksberg,Roskilde,Region Hovedstaden,Region Sjælland
+"(55.675,12.525) → (55.637,12.458)",5.9822042834945,2135.3204278425683,"(55.675,12.525)","(55.637,12.458)",Frederiksberg,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.676,12.522) → (55.648,12.283)",15.352836795816,1350.000534302422,"(55.676,12.522)","(55.648,12.283)",Frederiksberg,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.676,12.54) → (55.616,12.371)",12.550283938367,1242.8576347546107,"(55.676,12.54)","(55.616,12.371)",Frederiksberg,Vallensbæk,Region Hovedstaden,Region Hovedstaden
+"(55.677,12.54) → (55.616,12.371)",12.659814246951,1242.6053247800653,"(55.677,12.54)","(55.616,12.371)",Frederiksberg,Vallensbæk,Region Hovedstaden,Region Hovedstaden
+"(55.679,12.519) → (55.676,12.458)",3.8301862800879003,4177.132086155125,"(55.679,12.519)","(55.676,12.458)",Frederiksberg,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.679,12.522) → (55.616,12.362)",12.239652793076,1241.7185435309393,"(55.679,12.522)","(55.616,12.362)",Frederiksberg,Ishøj,Region Hovedstaden,Region Hovedstaden
+"(55.68,12.528) → (55.665,12.368)",10.198071911518001,1392.8484098849688,"(55.68,12.528)","(55.665,12.368)",Frederiksberg,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.681,12.522) → (55.677,12.458)",4.018676872435701,4177.800837083286,"(55.681,12.522)","(55.677,12.458)",Frederiksberg,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.682,12.542)",0.00907867914916875,2433811.3858819786,"(55.682,12.542)","(55.682,12.542)",Frederiksberg,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.682,12.543) → (55.682,12.542)",0.0157602941878832,1217403.567303996,"(55.682,12.543)","(55.682,12.542)",Frederiksberg,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.682,12.543)",0.00439142784871,608475.7397077838,"(55.682,12.543)","(55.682,12.543)",Frederiksberg,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.683,12.516) → (55.668,12.368)",9.4341850645566,1392.3358102174743,"(55.683,12.516)","(55.668,12.368)",Frederiksberg,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.683,12.522) → (55.801,12.363)",16.474080087552,696.1679051087372,"(55.683,12.522)","(55.801,12.363)",Frederiksberg,Furesø,Region Hovedstaden,Region Hovedstaden
+"(55.684,12.526) → (55.655,12.283)",15.579050774605,1349.7510396730613,"(55.684,12.526)","(55.655,12.283)",Frederiksberg,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.684,12.546) → (55.668,12.415)",8.443413201168902,1210.2611273428815,"(55.684,12.546)","(55.668,12.415)",Frederiksberg,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.685,12.505) → (55.665,12.368)",8.9309299285456,1392.6002790277619,"(55.685,12.505)","(55.665,12.368)",Frederiksberg,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.685,12.518) → (55.665,12.371)",9.513358735998,1392.5749329431767,"(55.685,12.518)","(55.665,12.371)",Frederiksberg,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.685,12.519) → (55.667,12.415)",6.823892548868001,1209.6051329223806,"(55.685,12.519)","(55.667,12.415)",Frederiksberg,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.685,12.52) → (55.644,12.283)",15.562496105367998,1349.726473468002,"(55.685,12.52)","(55.644,12.283)",Frederiksberg,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.685,12.523) → (55.677,12.458)",4.1285712902977005,4178.5452296549065,"(55.685,12.523)","(55.677,12.458)",Frederiksberg,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.685,12.536) → (55.772,12.493)",10.028327747329,1585.704343561349,"(55.685,12.536)","(55.772,12.493)",Frederiksberg,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.686,12.517) → (55.672,12.415)",6.609465300926,1210.706694746165,"(55.686,12.517)","(55.672,12.415)",Frederiksberg,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.686,12.519) → (55.665,12.367)",9.8472457672216,1392.8576941215465,"(55.686,12.519)","(55.665,12.367)",Frederiksberg,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.686,12.526) → (55.677,12.458)",4.3644212162994,4177.007430652423,"(55.686,12.526)","(55.677,12.458)",Frederiksberg,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.686,12.53) → (55.616,12.366)",12.891896785597,1242.3919537325155,"(55.686,12.53)","(55.616,12.366)",Frederiksberg,Ishøj,Region Hovedstaden,Region Hovedstaden
+"(55.686,12.542) → (55.766,12.502)",9.2395667881483,1585.3930005814627,"(55.686,12.542)","(55.766,12.502)",Frederiksberg,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.687,12.518) → (55.768,12.496)",9.1104976617352,1585.4218561239134,"(55.687,12.518)","(55.768,12.496)",Frederiksberg,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.688,12.532) → (55.665,12.371)",10.424822428752,1391.5811263708804,"(55.688,12.532)","(55.665,12.371)",Frederiksberg,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.688,12.534) → (55.645,12.288)",16.145178505015,1349.991535734662,"(55.688,12.534)","(55.645,12.288)",Frederiksberg,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.689,12.505) → (55.669,12.415)",6.0626026414903995,1210.2972454757155,"(55.689,12.505)","(55.669,12.415)",Frederiksberg,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.69,12.52) → (55.669,12.415)",7.014606245554099,1210.4910117702852,"(55.69,12.52)","(55.669,12.415)",Frederiksberg,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.691,12.537) → (55.772,12.499)",9.383413665443099,1585.1680737204063,"(55.691,12.537)","(55.772,12.499)",Frederiksberg,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.693,12.528) → (55.771,12.502)",8.8148887221608,1585.1207685552786,"(55.693,12.528)","(55.771,12.502)",Frederiksberg,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.696,12.515) → (55.743,12.483)",5.5464160201438,3105.979884331289,"(55.696,12.515)","(55.743,12.483)",Frederiksberg,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.823,12.046)",0.0091906002792207,43597.961318912305,"(55.823,12.046)","(55.823,12.046)",Frederikssund,Frederikssund,Region Hovedstaden,Region Hovedstaden
+"(55.823,12.049)",0.015211892970911002,43574.33003907998,"(55.823,12.049)","(55.823,12.049)",Frederikssund,Frederikssund,Region Hovedstaden,Region Hovedstaden
+"(55.824,12.046)",0.014537283217781399,87219.46118619824,"(55.824,12.046)","(55.824,12.046)",Frederikssund,Frederikssund,Region Hovedstaden,Region Hovedstaden
+"(55.824,12.046) → (55.824,12.047)",0.013322586009587,43599.26242403965,"(55.824,12.046)","(55.824,12.047)",Frederikssund,Frederikssund,Region Hovedstaden,Region Hovedstaden
+"(55.824,12.047) → (55.823,12.047)",0.018879964161198998,43614.302975929044,"(55.824,12.047)","(55.823,12.047)",Frederikssund,Frederikssund,Region Hovedstaden,Region Hovedstaden
+"(55.824,12.048)",0.0094584623729269,43606.242583300074,"(55.824,12.048)","(55.824,12.048)",Frederikssund,Frederikssund,Region Hovedstaden,Region Hovedstaden
+"(55.779,12.375) → (55.692,12.546)",14.416575581454001,346.3583807576619,"(55.779,12.375)","(55.692,12.546)",Furesø,København,Region Hovedstaden,Region Hovedstaden
+"(55.795,12.373)",0.015838931898819998,33957.40413407593,"(55.795,12.373)","(55.795,12.373)",Furesø,Furesø,Region Hovedstaden,Region Hovedstaden
+"(55.795,12.374)",2.3390896508662997e-06,33958.022188600036,"(55.795,12.374)","(55.795,12.374)",Furesø,Furesø,Region Hovedstaden,Region Hovedstaden
+"(55.796,12.373)",0.006137418555640221,169765.70212607426,"(55.796,12.373)","(55.796,12.373)",Furesø,Furesø,Region Hovedstaden,Region Hovedstaden
+"(55.805,12.371) → (55.698,12.517)",15.034549533624,346.29890664383333,"(55.805,12.371)","(55.698,12.517)",Furesø,København,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.546) → (55.739,12.502)",2.7508897778049,717.5556005909156,"(55.739,12.546)","(55.739,12.502)",Gentofte,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.546) → (55.744,12.494)",3.3463668115071,239.23723206972525,"(55.739,12.546)","(55.744,12.494)",Gentofte,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.743,12.553) → (55.739,12.486)",4.2209099385268996,239.28421400587925,"(55.743,12.553)","(55.739,12.486)",Gentofte,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.745,12.557) → (55.69,12.558)",6.1479724048711,1166.7872521109691,"(55.745,12.557)","(55.69,12.558)",Gentofte,København,Region Hovedstaden,Region Hovedstaden
+"(55.746,12.557) → (55.694,12.558)",5.8264769577723,1167.6205206985098,"(55.746,12.557)","(55.694,12.558)",Gentofte,København,Region Hovedstaden,Region Hovedstaden
+"(55.747,12.554) → (55.686,12.565)",6.7717893306388,1167.8498205958585,"(55.747,12.554)","(55.686,12.565)",Gentofte,København,Region Hovedstaden,Region Hovedstaden
+"(55.747,12.56) → (55.701,12.548)",5.217715956903099,1167.454865104894,"(55.747,12.56)","(55.701,12.548)",Gentofte,København,Region Hovedstaden,Region Hovedstaden
+"(55.748,12.546) → (55.764,12.502)",3.3048685143009,257.0466111170722,"(55.748,12.546)","(55.764,12.502)",Gentofte,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.748,12.561) → (55.739,12.495)",4.2265031731504,239.19615201171996,"(55.748,12.561)","(55.739,12.495)",Gentofte,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.749,12.546) → (55.764,12.502)",3.2287300614853,257.0542822249308,"(55.749,12.546)","(55.764,12.502)",Gentofte,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.749,12.556) → (55.697,12.542)",5.882120789214199,1167.6417724155851,"(55.749,12.556)","(55.697,12.542)",Gentofte,København,Region Hovedstaden,Region Hovedstaden
+"(55.749,12.557) → (55.69,12.542)",6.6605848282101,1167.4200254900363,"(55.749,12.557)","(55.69,12.542)",Gentofte,København,Region Hovedstaden,Region Hovedstaden
+"(55.751,12.556) → (55.689,12.549)",6.8507694811482,1167.857605071143,"(55.751,12.556)","(55.689,12.549)",Gentofte,København,Region Hovedstaden,Region Hovedstaden
+"(55.752,12.568) → (55.764,12.502)",4.347539936134799,257.1412449018404,"(55.752,12.568)","(55.764,12.502)",Gentofte,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.753,12.56)",0.008707050944738311,217761.9003337498,"(55.753,12.56)","(55.753,12.56)",Gentofte,Gentofte,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.495) → (55.75,12.559)",4.1567006805017,250.00009894489298,"(55.739,12.495)","(55.75,12.559)",Gladsaxe,Gentofte,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.502) → (55.739,12.546)",2.7508897778049,249.90642747493132,"(55.739,12.502)","(55.739,12.546)",Gladsaxe,Gentofte,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.502) → (55.747,12.546)",2.8778298534656,249.99843254345592,"(55.739,12.502)","(55.747,12.546)",Gladsaxe,Gentofte,Region Hovedstaden,Region Hovedstaden
+"(55.741,12.48) → (55.704,12.509)",4.446387644502201,2317.0587383886123,"(55.741,12.48)","(55.704,12.509)",Gladsaxe,København,Region Hovedstaden,Region Hovedstaden
+"(55.741,12.486) → (55.705,12.508)",4.2606621687549,2317.429695100045,"(55.741,12.486)","(55.705,12.508)",Gladsaxe,København,Region Hovedstaden,Region Hovedstaden
+"(55.741,12.487) → (55.7,12.508)",4.6575248137186,2315.733720550517,"(55.741,12.487)","(55.7,12.508)",Gladsaxe,København,Region Hovedstaden,Region Hovedstaden
+"(55.742,12.484) → (55.699,12.525)",5.4061395979573,2317.842610295756,"(55.742,12.484)","(55.699,12.525)",Gladsaxe,København,Region Hovedstaden,Region Hovedstaden
+"(55.743,12.479) → (55.697,12.514)",5.5632527688694005,2317.3875166156968,"(55.743,12.479)","(55.697,12.514)",Gladsaxe,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.743,12.484) → (55.697,12.511)",5.396926136335501,2316.9895918747206,"(55.743,12.484)","(55.697,12.511)",Gladsaxe,København,Region Hovedstaden,Region Hovedstaden
+"(55.744,12.478) → (55.705,12.515)",4.8950542043743,2317.8580602176507,"(55.744,12.478)","(55.705,12.515)",Gladsaxe,København,Region Hovedstaden,Region Hovedstaden
+"(55.745,12.479)",0.007104273315584257,377940.4862672977,"(55.745,12.479)","(55.745,12.479)",Gladsaxe,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.747,12.48) → (55.764,12.502)",2.3178724261306,503.571627874713,"(55.747,12.48)","(55.764,12.502)",Gladsaxe,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.747,12.482) → (55.767,12.502)",2.533611292865,503.3829467709331,"(55.747,12.482)","(55.767,12.502)",Gladsaxe,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.748,12.482) → (55.769,12.498)",2.4972136932987996,503.46939883330236,"(55.748,12.482)","(55.769,12.498)",Gladsaxe,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.749,12.478) → (55.769,12.502)",2.690592972709,503.4785624177293,"(55.749,12.478)","(55.769,12.502)",Gladsaxe,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.75,12.484) → (55.77,12.502)",2.4608161039818,503.1100995340875,"(55.75,12.484)","(55.77,12.502)",Gladsaxe,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.752,12.472) → (55.772,12.502)",2.8788012705138,503.39796935715606,"(55.752,12.472)","(55.772,12.502)",Gladsaxe,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.754,12.476) → (55.764,12.502)",1.9828050880869998,503.5682712661041,"(55.754,12.476)","(55.764,12.502)",Gladsaxe,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.415) → (55.665,12.36)",3.4123438036608,557.0299731772707,"(55.665,12.415)","(55.665,12.36)",Glostrup,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.415) → (55.665,12.371)",2.7561238659655,557.1393639539875,"(55.665,12.415)","(55.665,12.371)",Glostrup,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.415) → (55.688,12.502)",6.0530068924864,942.5323681580794,"(55.665,12.415)","(55.688,12.502)",Glostrup,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.415) → (55.64,12.283)",8.7183880625397,210.6354174431564,"(55.665,12.415)","(55.64,12.283)",Glostrup,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.415) → (55.648,12.283)",8.4923950008619,210.52124732277423,"(55.665,12.415)","(55.648,12.283)",Glostrup,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.415) → (55.673,12.567)",9.5770939449491,942.683265803408,"(55.665,12.415)","(55.673,12.567)",Glostrup,København,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.415) → (55.671,12.458)",2.8202722265014,449.8449938936288,"(55.665,12.415)","(55.671,12.458)",Glostrup,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.668,12.415) → (55.672,12.458)",2.7908126179821005,449.5877485198229,"(55.668,12.415)","(55.672,12.458)",Glostrup,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.669,12.415) → (55.665,12.363)",3.271903512755,557.0401116111047,"(55.669,12.415)","(55.665,12.363)",Glostrup,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.669,12.415) → (55.677,12.54)",7.8884885872895,942.6661084538426,"(55.669,12.415)","(55.677,12.54)",Glostrup,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.669,12.415) → (55.686,12.521)",6.9318297673116,942.8575160207391,"(55.669,12.415)","(55.686,12.521)",Glostrup,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.669,12.415) → (55.669,12.458)",2.75585665229725,899.9060030675546,"(55.669,12.415)","(55.669,12.458)",Glostrup,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.67,12.415) → (55.665,12.371)",2.8150852555334995,556.9509448206833,"(55.67,12.415)","(55.665,12.371)",Glostrup,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.67,12.415) → (55.667,12.367)",3.0086159452988,557.1430776486186,"(55.67,12.415)","(55.667,12.367)",Glostrup,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.67,12.415) → (55.697,12.514)",6.9066370615395,942.851231306748,"(55.67,12.415)","(55.697,12.514)",Glostrup,København,Region Hovedstaden,Region Hovedstaden
+"(55.67,12.415) → (55.67,12.458)",2.7558159115793996,449.9170132243538,"(55.67,12.415)","(55.67,12.458)",Glostrup,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.671,12.415) → (55.665,12.365)",3.1613304837865,556.9343240869897,"(55.671,12.415)","(55.665,12.365)",Glostrup,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.671,12.415) → (55.676,12.542)",8.0348234044672,942.504240762598,"(55.671,12.415)","(55.676,12.542)",Glostrup,København,Region Hovedstaden,Region Hovedstaden
+"(55.671,12.415) → (55.673,12.458)",2.7725922929569,449.83156945487633,"(55.671,12.415)","(55.673,12.458)",Glostrup,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.672,12.415) → (55.668,12.364)",3.1876632399,556.6324505483522,"(55.672,12.415)","(55.668,12.364)",Glostrup,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.672,12.415)",0.004707652657529372,192969.08441144065,"(55.672,12.415)","(55.672,12.415)",Glostrup,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.672,12.415) → (55.668,12.458)",2.7881978601463,450.0001781008073,"(55.672,12.415)","(55.668,12.458)",Glostrup,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.673,12.415) → (55.693,12.512)",6.5185945500711,941.9933778510575,"(55.673,12.415)","(55.693,12.512)",Glostrup,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(56.06,12.222)",0.012210854895907,44590.446845169885,"(56.06,12.222)","(56.06,12.222)",Gribskov,Gribskov,Region Hovedstaden,Region Hovedstaden
+"(56.06,12.223)",0.0017300230448872,44598.91662835063,"(56.06,12.223)","(56.06,12.223)",Gribskov,Gribskov,Region Hovedstaden,Region Hovedstaden
+"(56.061,12.219)",0.015242840683030001,44606.86317811092,"(56.061,12.219)","(56.061,12.219)",Gribskov,Gribskov,Region Hovedstaden,Region Hovedstaden
+"(56.061,12.221)",0.008833979298322348,89205.26541548307,"(56.061,12.221)","(56.061,12.221)",Gribskov,Gribskov,Region Hovedstaden,Region Hovedstaden
+"(56.061,12.221) → (56.062,12.221)",0.0071916581195131,44566.277611211015,"(56.061,12.221)","(56.062,12.221)",Gribskov,Gribskov,Region Hovedstaden,Region Hovedstaden
+"(56.062,12.221) → (56.062,12.222)",0.0032295122310308,44591.77756929702,"(56.062,12.221)","(56.062,12.222)",Gribskov,Gribskov,Region Hovedstaden,Region Hovedstaden
+"(55.967,12.004)",0.015935469427598,34921.54995844053,"(55.967,12.004)","(55.967,12.004)",Halsnæs,Halsnæs,Region Hovedstaden,Region Hovedstaden
+"(55.968,12.003)",0.026166792402212,34953.58526248096,"(55.968,12.003)","(55.968,12.003)",Halsnæs,Halsnæs,Region Hovedstaden,Region Hovedstaden
+"(55.968,12.004)",0.0042959315048896,34947.125463704375,"(55.968,12.004)","(55.968,12.004)",Halsnæs,Halsnæs,Region Hovedstaden,Region Hovedstaden
+"(55.969,12.001) → (55.968,12.001)",0.010656360695513999,34953.35227575433,"(55.969,12.001)","(55.968,12.001)",Halsnæs,Halsnæs,Region Hovedstaden,Region Hovedstaden
+"(55.969,12.001)",0.011638570876835,34941.53139076941,"(55.969,12.001)","(55.969,12.001)",Halsnæs,Halsnæs,Region Hovedstaden,Region Hovedstaden
+"(55.969,12.003)",0.0070088109279621,34946.48940696121,"(55.969,12.003)","(55.969,12.003)",Halsnæs,Halsnæs,Region Hovedstaden,Region Hovedstaden
+"(55.969,12.004)",0.019654434082221,34940.48865281647,"(55.969,12.004)","(55.969,12.004)",Halsnæs,Halsnæs,Region Hovedstaden,Region Hovedstaden
+"(56.028,12.558)",0.0044457748029587,62774.13565463603,"(56.028,12.558)","(56.028,12.558)",Helsingør,Helsingør,Region Hovedstaden,Region Hovedstaden
+"(56.028,12.559)",0.022453075912481,62762.21421441846,"(56.028,12.559)","(56.028,12.559)",Helsingør,Helsingør,Region Hovedstaden,Region Hovedstaden
+"(56.029,12.557)",0.0070624588023595995,125549.82637827133,"(56.029,12.557)","(56.029,12.557)",Helsingør,Helsingør,Region Hovedstaden,Region Hovedstaden
+"(56.029,12.558)",0.0085293186562558,62772.99313113089,"(56.029,12.558)","(56.029,12.558)",Helsingør,Helsingør,Region Hovedstaden,Region Hovedstaden
+"(56.029,12.559)",0.0098719089285797,62728.19538871815,"(56.029,12.559)","(56.029,12.559)",Helsingør,Helsingør,Region Hovedstaden,Region Hovedstaden
+"(56.03,12.558) → (56.029,12.558)",0.029940866282162002,62785.32063019936,"(56.03,12.558)","(56.029,12.558)",Helsingør,Helsingør,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.415) → (55.715,12.404)",2.8325677509183502,392.6772695566243,"(55.739,12.415)","(55.715,12.404)",Herlev,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.415) → (55.723,12.394)",2.2898822876067,196.3550501588746,"(55.739,12.415)","(55.723,12.394)",Herlev,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.415) → (55.715,12.458)",3.8915787855027,457.0502344018632,"(55.739,12.415)","(55.715,12.458)",Herlev,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.415) → (55.739,12.469)",3.3981579308927,317.85514994810825,"(55.739,12.415)","(55.739,12.469)",Herlev,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.415) → (55.739,12.472)",3.5973173589771004,317.7476544169283,"(55.739,12.415)","(55.739,12.472)",Herlev,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.415) → (55.745,12.458)",2.8229470123968,317.85726865850677,"(55.739,12.415)","(55.745,12.458)",Herlev,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.415) → (55.746,12.465)",3.266158674148,317.7381720752698,"(55.739,12.415)","(55.746,12.465)",Herlev,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.415) → (55.715,12.415)",2.7517617627259,392.78824988850573,"(55.739,12.415)","(55.715,12.415)",Herlev,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.415)",0.0,102345.34395348393,"(55.739,12.415)","(55.739,12.415)",Herlev,Herlev,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.415) → (55.698,12.486)",6.4484285690284,457.1430380706615,"(55.739,12.415)","(55.698,12.486)",Herlev,København,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.415) → (55.704,12.498)",6.544416077577,456.98539062209915,"(55.739,12.415)","(55.704,12.498)",Herlev,København,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.415) → (55.705,12.5)",6.538591896233799,456.97175309701726,"(55.739,12.415)","(55.705,12.5)",Herlev,København,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.415) → (55.709,12.479)",5.2583568671187,457.0585531168039,"(55.739,12.415)","(55.709,12.479)",Herlev,København,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.415) → (55.715,12.467)",4.2720214695971,457.13999093660516,"(55.739,12.415)","(55.715,12.467)",Herlev,København,Region Hovedstaden,Region Hovedstaden
+"(55.739,12.458) → (55.739,12.415)",2.7508897778045,214.21190185410896,"(55.739,12.458)","(55.739,12.415)",Herlev,Herlev,Region Hovedstaden,Region Hovedstaden
+"(55.931,12.271) → (55.931,12.27)",0.0062955244780464,50980.91120488599,"(55.931,12.271)","(55.931,12.27)",Hillerød,Hillerød,Region Hovedstaden,Region Hovedstaden
+"(55.931,12.271)",0.024908836947311,51000.02018475817,"(55.931,12.271)","(55.931,12.271)",Hillerød,Hillerød,Region Hovedstaden,Region Hovedstaden
+"(55.932,12.27)",0.0153930799115,50953.27816557993,"(55.932,12.27)","(55.932,12.27)",Hillerød,Hillerød,Region Hovedstaden,Region Hovedstaden
+"(55.932,12.272) → (55.932,12.271)",0.011213801575893,50990.59483209343,"(55.932,12.272)","(55.932,12.271)",Hillerød,Hillerød,Region Hovedstaden,Region Hovedstaden
+"(55.932,12.272)",0.020174759459010448,101982.11288014294,"(55.932,12.272)","(55.932,12.272)",Hillerød,Hillerød,Region Hovedstaden,Region Hovedstaden
+"(55.932,12.273)",0.010589629067366999,50989.66677545786,"(55.932,12.273)","(55.932,12.273)",Hillerød,Hillerød,Region Hovedstaden,Region Hovedstaden
+"(55.631,12.458)",0.01185178689812827,208986.70822915575,"(55.631,12.458)","(55.631,12.458)",Hvidovre,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.632,12.458) → (55.631,12.458)",0.018304455313008,34842.63868419937,"(55.632,12.458)","(55.631,12.458)",Hvidovre,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.632,12.458) → (55.668,12.532)",6.0934726117065,1471.419345827198,"(55.632,12.458)","(55.668,12.532)",Hvidovre,København,Region Hovedstaden,Region Hovedstaden
+"(55.633,12.458) → (55.668,12.522)",5.539716354558,1471.4291537899417,"(55.633,12.458)","(55.668,12.522)",Hvidovre,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.633,12.458) → (55.669,12.525)",5.8026637114249,1471.1304419809971,"(55.633,12.458)","(55.669,12.525)",Hvidovre,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.633,12.458) → (55.674,12.525)",6.1350606997454,1470.8778302810244,"(55.633,12.458)","(55.674,12.525)",Hvidovre,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.634,12.458) → (55.674,12.519)",5.8672911237730005,1470.9217260648816,"(55.634,12.458)","(55.674,12.519)",Hvidovre,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.634,12.458) → (55.667,12.516)",5.1523512383807,1471.1572178447127,"(55.634,12.458)","(55.667,12.516)",Hvidovre,København,Region Hovedstaden,Region Hovedstaden
+"(55.635,12.458) → (55.665,12.458)",3.3087453183924,346.3646847838279,"(55.635,12.458)","(55.665,12.458)",Hvidovre,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.635,12.458) → (55.671,12.458)",4.0101772056328,346.3583807576619,"(55.635,12.458)","(55.671,12.458)",Hvidovre,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.636,12.458) → (55.67,12.458)",3.7300545125981004,346.29890664383333,"(55.636,12.458)","(55.67,12.458)",Hvidovre,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.636,12.458) → (55.672,12.458)",4.002861285030599,692.8551079195691,"(55.636,12.458)","(55.672,12.458)",Hvidovre,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.638,12.458) → (55.661,12.511)",4.1509189886383995,1470.0805745251353,"(55.638,12.458)","(55.661,12.511)",Hvidovre,København,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.458) → (55.665,12.458)",2.7569967367947994,346.30924133080947,"(55.64,12.458)","(55.665,12.458)",Hvidovre,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.458) → (55.672,12.458)",3.4917303781026,346.1112032255779,"(55.64,12.458)","(55.672,12.458)",Hvidovre,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.264) → (55.677,12.541)",17.849664799679,792.6965002907314,"(55.64,12.264)","(55.677,12.541)",Høje-Taastrup,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.283) → (55.687,12.502)",14.742290973022001,792.7109280619567,"(55.64,12.283)","(55.687,12.502)",Høje-Taastrup,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.283) → (55.616,12.356)",5.3620322392491,253.57152892982,"(55.64,12.283)","(55.616,12.356)",Høje-Taastrup,Ishøj,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.29) → (55.674,12.531)",15.535001191440001,792.5603842776393,"(55.64,12.29)","(55.674,12.531)",Høje-Taastrup,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.295) → (55.616,12.355)",4.665053052876599,253.4840838606956,"(55.64,12.295)","(55.616,12.355)",Høje-Taastrup,Ishøj,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.297) → (55.616,12.341)",3.9014516161401005,253.47651929600175,"(55.64,12.297)","(55.616,12.341)",Høje-Taastrup,Ishøj,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.302) → (55.665,12.349)",4.0406316509183995,749.9952976303678,"(55.64,12.302)","(55.665,12.349)",Høje-Taastrup,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.302) → (55.665,12.351)",4.1498295864514,749.8616887072563,"(55.64,12.302)","(55.665,12.351)",Høje-Taastrup,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.645,12.283) → (55.685,12.511)",14.994827152331,792.5840368602031,"(55.645,12.283)","(55.685,12.511)",Høje-Taastrup,København,Region Hovedstaden,Region Hovedstaden
+"(55.645,12.283) → (55.616,12.371)",6.433959460372701,253.56983872264814,"(55.645,12.283)","(55.616,12.371)",Høje-Taastrup,Vallensbæk,Region Hovedstaden,Region Hovedstaden
+"(55.645,12.288) → (55.665,12.348)",4.4051945745121,749.719282424794,"(55.645,12.288)","(55.665,12.348)",Høje-Taastrup,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.645,12.295) → (55.665,12.354)",4.3347446819268,750.0002968346789,"(55.645,12.295)","(55.665,12.354)",Høje-Taastrup,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.647,12.223) → (55.64,12.107)",7.330441783128901,300.0001187338716,"(55.647,12.223)","(55.64,12.107)",Høje-Taastrup,Roskilde,Region Hovedstaden,Region Sjælland
+"(55.647,12.283) → (55.685,12.558)",17.757708430764,792.8521717806746,"(55.647,12.283)","(55.685,12.558)",Høje-Taastrup,København,Region Hovedstaden,Region Hovedstaden
+"(55.647,12.291) → (55.665,12.348)",4.103323152296101,749.7416564893814,"(55.647,12.291)","(55.665,12.348)",Høje-Taastrup,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.647,12.294) → (55.665,12.353)",4.1740001224959,749.8480408155567,"(55.647,12.294)","(55.665,12.353)",Høje-Taastrup,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.648,12.264)",0.0016621658556345,58840.439240959495,"(55.648,12.264)","(55.648,12.264)",Høje-Taastrup,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.648,12.265) → (55.649,12.265)",0.01899380122606,58848.788384196145,"(55.648,12.265)","(55.649,12.265)",Høje-Taastrup,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.648,12.266)",0.009735182882675067,176517.388203057,"(55.648,12.266)","(55.648,12.266)",Høje-Taastrup,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.649,12.264) → (55.649,12.265)",0.010628579666898001,58860.3452392671,"(55.649,12.264)","(55.649,12.265)",Høje-Taastrup,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.649,12.265)",0.012395266227271998,58838.68330306204,"(55.649,12.265)","(55.649,12.265)",Høje-Taastrup,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.651,12.298) → (55.665,12.357)",4.0289956126847,749.3129141997049,"(55.651,12.298)","(55.665,12.357)",Høje-Taastrup,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.653,12.248) → (55.635,12.094)",9.8505977860144,299.8877129699176,"(55.653,12.248)","(55.635,12.094)",Høje-Taastrup,Roskilde,Region Hovedstaden,Region Sjælland
+"(55.655,12.195) → (55.64,12.094)",6.5540832347972,299.89666259575256,"(55.655,12.195)","(55.64,12.094)",Høje-Taastrup,Roskilde,Region Hovedstaden,Region Sjælland
+"(55.882,12.512) → (55.918,12.487)",4.2151495539687005,260.6167029381426,"(55.882,12.512)","(55.918,12.487)",Hørsholm,Fredensborg,Region Hovedstaden,Region Hovedstaden
+"(55.884,12.504)",0.0,28875.555320651776,"(55.884,12.504)","(55.884,12.504)",Hørsholm,Hørsholm,Region Hovedstaden,Region Hovedstaden
+"(55.884,12.505) → (55.884,12.504)",0.0085647006985894,14434.311986602708,"(55.884,12.505)","(55.884,12.504)",Hørsholm,Hørsholm,Region Hovedstaden,Region Hovedstaden
+"(55.884,12.505)",0.010113014884547826,57735.85323094711,"(55.884,12.505)","(55.884,12.505)",Hørsholm,Hørsholm,Region Hovedstaden,Region Hovedstaden
+"(55.888,12.502) → (55.912,12.502)",2.7395675891151665,781.9521484709056,"(55.888,12.502)","(55.912,12.502)",Hørsholm,Fredensborg,Region Hovedstaden,Region Hovedstaden
+"(55.888,12.502) → (55.918,12.502)",3.4240245768702002,260.7126510810326,"(55.888,12.502)","(55.918,12.502)",Hørsholm,Fredensborg,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.338) → (55.595,12.313)",2.8209555183384003,439.28588814602625,"(55.616,12.338)","(55.595,12.313)",Ishøj,Greve,Region Hovedstaden,Region Sjælland
+"(55.616,12.339) → (55.595,12.319)",2.6253573669786,439.1967096205404,"(55.616,12.339)","(55.595,12.319)",Ishøj,Greve,Region Hovedstaden,Region Sjælland
+"(55.616,12.34) → (55.598,12.313)",2.5568668724773,439.1343988009234,"(55.616,12.34)","(55.598,12.313)",Ishøj,Greve,Region Hovedstaden,Region Sjælland
+"(55.616,12.343) → (55.591,12.319)",3.1444396735124998,439.282960040644,"(55.616,12.343)","(55.591,12.319)",Ishøj,Greve,Region Hovedstaden,Region Sjælland
+"(55.616,12.344) → (55.596,12.318)",2.7604267954105,438.88327831697,"(55.616,12.344)","(55.596,12.318)",Ishøj,Greve,Region Hovedstaden,Region Sjælland
+"(55.616,12.347) → (55.64,12.283)",4.869554280334901,232.0628936752847,"(55.616,12.347)","(55.64,12.283)",Ishøj,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.356)",0.005616166218909644,274795.3740582554,"(55.616,12.356)","(55.616,12.356)",Ishøj,Ishøj,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.357) → (55.665,12.371)",5.5806329260052,264.23216676357714,"(55.616,12.357)","(55.665,12.371)",Ishøj,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.357) → (55.681,12.52)",12.508444313239,1038.8967199315002,"(55.616,12.357)","(55.681,12.52)",Ishøj,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.359) → (55.64,12.295)",4.8695542803347,232.09582215719612,"(55.616,12.359)","(55.64,12.295)",Ishøj,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.359) → (55.587,12.309)",4.4365391065630995,439.121293991665,"(55.616,12.359)","(55.587,12.309)",Ishøj,Greve,Region Hovedstaden,Region Sjælland
+"(55.616,12.36) → (55.665,12.364)",5.522630014939799,264.28405726022487,"(55.616,12.36)","(55.665,12.364)",Ishøj,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.36) → (55.675,12.546)",13.449056484870999,1039.2791981449384,"(55.616,12.36)","(55.675,12.546)",Ishøj,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.362) → (55.679,12.519)",12.100086742911,1038.9277239924286,"(55.616,12.362)","(55.679,12.519)",Ishøj,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.363) → (55.682,12.537)",13.200288782776001,1039.2861256137694,"(55.616,12.363)","(55.682,12.537)",Ishøj,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.363) → (55.64,12.275)",6.168736378315799,232.1414016474948,"(55.616,12.363)","(55.64,12.275)",Ishøj,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.365) → (55.665,12.371)",5.5285454539553,264.28581888460116,"(55.616,12.365)","(55.665,12.371)",Ishøj,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.365) → (55.688,12.536)",13.388041204553002,1039.0751422729859,"(55.616,12.365)","(55.688,12.536)",Ishøj,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.659,12.516) → (55.635,12.458)",4.5010358732942,2135.2815638462043,"(55.659,12.516)","(55.635,12.458)",København,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.661,12.583) → (55.633,12.623)",3.9823700220694,6934.435235569009,"(55.661,12.583)","(55.633,12.623)",København,Tårnby,Region Hovedstaden,Region Hovedstaden
+"(55.662,12.571) → (55.63,12.619)",4.666762460968799,6935.717030728316,"(55.662,12.571)","(55.63,12.619)",København,Tårnby,Region Hovedstaden,Region Hovedstaden
+"(55.662,12.571) → (55.632,12.622)",4.6190743234173,6933.118316518808,"(55.662,12.571)","(55.632,12.622)",København,Tårnby,Region Hovedstaden,Region Hovedstaden
+"(55.662,12.579) → (55.63,12.619)",4.432308877635401,6934.309025065767,"(55.662,12.579)","(55.63,12.619)",København,Tårnby,Region Hovedstaden,Region Hovedstaden
+"(55.662,12.579) → (55.632,12.623)",4.3112328548314,6929.360377980127,"(55.662,12.579)","(55.632,12.623)",København,Tårnby,Region Hovedstaden,Region Hovedstaden
+"(55.663,12.582) → (55.633,12.624)",4.2495046275864,6933.325223344659,"(55.663,12.582)","(55.633,12.624)",København,Tårnby,Region Hovedstaden,Region Hovedstaden
+"(55.664,12.578) → (55.628,12.616)",4.713384313704,6935.670799991306,"(55.664,12.578)","(55.628,12.616)",København,Tårnby,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.532) → (55.635,12.458)",5.7335723513226,2135.700895156952,"(55.665,12.532)","(55.635,12.458)",København,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.533) → (55.591,12.327)",15.364206834317,710.4482723930189,"(55.665,12.533)","(55.591,12.327)",København,Greve,Region Hovedstaden,Region Sjælland
+"(55.667,12.521) → (55.636,12.458)",5.240639510265099,2134.9149090001274,"(55.667,12.521)","(55.636,12.458)",København,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.667,12.544) → (55.616,12.367)",12.478607098736001,1242.8493503588952,"(55.667,12.544)","(55.616,12.367)",København,Ishøj,Region Hovedstaden,Region Hovedstaden
+"(55.669,12.509) → (55.636,12.458)",4.8511261378556,2135.715130986371,"(55.669,12.509)","(55.636,12.458)",København,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.67,12.546) → (55.646,12.289)",16.348309500206998,1349.4947083646289,"(55.67,12.546)","(55.646,12.289)",København,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.67,12.564) → (55.586,12.292)",19.507248404939002,710.7098296592533,"(55.67,12.564)","(55.586,12.292)",København,Greve,Region Hovedstaden,Region Sjælland
+"(55.671,12.545) → (55.665,12.415)",8.1842130743215,1210.7147648902674,"(55.671,12.545)","(55.665,12.415)",København,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.676,12.544) → (55.651,12.274)",17.105436353475,1348.7632455594687,"(55.676,12.544)","(55.651,12.274)",København,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.679,12.515) → (55.616,12.361)",11.949120910946,1242.429030753832,"(55.679,12.515)","(55.616,12.361)",København,Ishøj,Region Hovedstaden,Region Hovedstaden
+"(55.68,12.515) → (55.675,12.458)",3.5703409745249997,4178.57308236464,"(55.68,12.515)","(55.675,12.458)",København,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.681,12.511) → (55.665,12.365)",9.329929617360099,1392.3773620517081,"(55.681,12.511)","(55.665,12.365)",København,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.684,12.515) → (55.675,12.458)",3.7146348284087995,4177.72479882953,"(55.684,12.515)","(55.675,12.458)",København,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.687,12.506) → (55.68,12.458)",3.0828923114565003,4174.743379112641,"(55.687,12.506)","(55.68,12.458)",København,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.687,12.546) → (55.745,12.555)",6.4210113544825,1613.6815031238423,"(55.687,12.546)","(55.745,12.555)",København,Gentofte,Region Hovedstaden,Region Hovedstaden
+"(55.687,12.552) → (55.753,12.56)",7.2948599306893005,1613.9586402315792,"(55.687,12.552)","(55.753,12.56)",København,Gentofte,Region Hovedstaden,Region Hovedstaden
+"(55.69,12.546) → (55.805,12.371)",16.904688701357,696.2874664715883,"(55.69,12.546)","(55.805,12.371)",København,Furesø,Region Hovedstaden,Region Hovedstaden
+"(55.691,12.565) → (55.748,12.549)",6.3755786733378,1614.2863531870232,"(55.691,12.565)","(55.748,12.549)",København,Gentofte,Region Hovedstaden,Region Hovedstaden
+"(55.692,12.559) → (55.749,12.561)",6.2793269480856,1614.275592994887,"(55.692,12.559)","(55.749,12.561)",København,Gentofte,Region Hovedstaden,Region Hovedstaden
+"(55.692,12.561) → (55.739,12.546)",5.3554279482257,1613.7296606342875,"(55.692,12.561)","(55.739,12.546)",København,Gentofte,Region Hovedstaden,Region Hovedstaden
+"(55.695,12.528) → (55.803,12.361)",15.873930931275,696.1886810258541,"(55.695,12.528)","(55.803,12.361)",København,Furesø,Region Hovedstaden,Region Hovedstaden
+"(55.695,12.53) → (55.768,12.502)",8.3711462013156,1585.7149133076068,"(55.695,12.53)","(55.768,12.502)",København,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.696,12.508) → (55.719,12.406)",6.870028331681299,1335.443653642944,"(55.696,12.508)","(55.719,12.406)",København,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.696,12.55) → (55.743,12.553)",5.2971556919311,1613.9880156937138,"(55.696,12.55)","(55.743,12.553)",København,Gentofte,Region Hovedstaden,Region Hovedstaden
+"(55.697,12.497) → (55.719,12.404)",6.274055740906499,1335.7059110178932,"(55.697,12.497)","(55.719,12.404)",København,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.697,12.498) → (55.72,12.396)",6.919829783259701,1335.4679598881612,"(55.697,12.498)","(55.72,12.396)",København,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.697,12.527) → (55.742,12.478)",5.9292107781054995,3107.144086886527,"(55.697,12.527)","(55.742,12.478)",København,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.698,12.516) → (55.742,12.481)",5.3477314080167995,3107.123375897238,"(55.698,12.516)","(55.742,12.481)",København,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.699,12.492) → (55.723,12.389)",6.981103532939299,1335.254188223946,"(55.699,12.492)","(55.723,12.389)",København,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.699,12.513) → (55.739,12.415)",7.5809069364554,567.8573676033998,"(55.699,12.513)","(55.739,12.415)",København,Herlev,Region Hovedstaden,Region Hovedstaden
+"(55.7,12.472) → (55.739,12.415)",5.6745498922744,567.7420880460644,"(55.7,12.472)","(55.739,12.415)",København,Herlev,Region Hovedstaden,Region Hovedstaden
+"(55.7,12.524) → (55.745,12.475)",5.942023691352099,3106.5133119501634,"(55.7,12.524)","(55.745,12.475)",København,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.701,12.49) → (55.719,12.407)",5.5672410065326,1335.714814362714,"(55.701,12.49)","(55.719,12.407)",København,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.701,12.5) → (55.722,12.396)",6.874802877472,1335.2143410803471,"(55.701,12.5)","(55.722,12.396)",København,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.701,12.514) → (55.743,12.48)",5.0788370049994995,3106.569853215776,"(55.701,12.514)","(55.743,12.48)",København,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.701,12.517) → (55.742,12.479)",5.0603968402354,3106.07257688458,"(55.701,12.517)","(55.742,12.479)",København,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.701,12.523) → (55.739,12.415)",8.0675268147476,567.7524214497798,"(55.701,12.523)","(55.739,12.415)",København,Herlev,Region Hovedstaden,Region Hovedstaden
+"(55.701,12.533) → (55.767,12.502)",7.6595542184394,1584.2615900222331,"(55.701,12.533)","(55.767,12.502)",København,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.704,12.486) → (55.739,12.415)",5.9711080004668,567.6445995502011,"(55.704,12.486)","(55.739,12.415)",København,Herlev,Region Hovedstaden,Region Hovedstaden
+"(55.704,12.506) → (55.739,12.479)",4.2977857103899,3104.2963588273487,"(55.704,12.506)","(55.739,12.479)",København,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.704,12.535) → (55.746,12.557)",4.8434816549199,1612.8068438965076,"(55.704,12.535)","(55.746,12.557)",København,Gentofte,Region Hovedstaden,Region Hovedstaden
+"(55.707,12.529) → (55.937,12.313)",28.855872951887,321.30826389634024,"(55.707,12.529)","(55.937,12.313)",København,Hillerød,Region Hovedstaden,Region Hovedstaden
+"(55.71,12.494) → (55.739,12.415)",5.9534254780964995,567.3369207512051,"(55.71,12.494)","(55.739,12.415)",København,Herlev,Region Hovedstaden,Region Hovedstaden
+"(55.715,12.467) → (55.719,12.393)",4.6733625838293,1334.4906186223316,"(55.715,12.467)","(55.719,12.393)",København,Ballerup,Region Hovedstaden,Region Hovedstaden
+"(55.715,12.473) → (55.739,12.415)",4.586269536516401,567.8535824915642,"(55.715,12.473)","(55.739,12.415)",København,Herlev,Region Hovedstaden,Region Hovedstaden
+"(55.715,12.482) → (55.739,12.415)",5.0653570614333,567.6615399133888,"(55.715,12.482)","(55.739,12.415)",København,Herlev,Region Hovedstaden,Region Hovedstaden
+"(55.764,12.502) → (55.746,12.476)",2.5773054927074996,496.24276312879215,"(55.764,12.502)","(55.746,12.476)",Lyngby-Tårbæk,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.764,12.502) → (55.748,12.478)",2.3414475501937,495.97378606551894,"(55.764,12.502)","(55.748,12.478)",Lyngby-Tårbæk,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.764,12.502) → (55.749,12.476)",2.3765335237119998,496.25757262868575,"(55.764,12.502)","(55.749,12.476)",Lyngby-Tårbæk,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.767,12.507) → (55.748,12.475)",2.9533848539677994,496.42876790485894,"(55.767,12.507)","(55.748,12.475)",Lyngby-Tårbæk,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.768,12.502) → (55.681,12.537)",9.8716304472715,1438.9940973746159,"(55.768,12.502)","(55.681,12.537)",Lyngby-Tårbæk,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.768,12.502) → (55.752,12.48)",2.2252180187778,496.3279889207733,"(55.768,12.502)","(55.752,12.48)",Lyngby-Tårbæk,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.769,12.494) → (55.689,12.53)",9.1721351581295,1437.9671639165763,"(55.769,12.494)","(55.689,12.53)",Lyngby-Tårbæk,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.77,12.497) → (55.69,12.541)",9.305865014896801,1438.789940786765,"(55.77,12.497)","(55.69,12.541)",Lyngby-Tårbæk,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.771,12.497) → (55.747,12.483)",2.7829384738792,496.42545890771964,"(55.771,12.497)","(55.747,12.483)",Lyngby-Tårbæk,Gladsaxe,Region Hovedstaden,Region Hovedstaden
+"(55.772,12.494) → (55.692,12.528)",9.1527663402966,1439.2862839255981,"(55.772,12.494)","(55.692,12.528)",Lyngby-Tårbæk,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.773,12.495) → (55.753,12.562)",4.775558357248,253.47651929600175,"(55.773,12.495)","(55.753,12.562)",Lyngby-Tårbæk,Gentofte,Region Hovedstaden,Region Hovedstaden
+"(55.773,12.502) → (55.755,12.546)",3.4364329624848,253.56983872264814,"(55.773,12.502)","(55.755,12.546)",Lyngby-Tårbæk,Gentofte,Region Hovedstaden,Region Hovedstaden
+"(55.773,12.511) → (55.696,12.563)",9.1976404909281,1439.0202883286872,"(55.773,12.511)","(55.696,12.563)",Lyngby-Tårbæk,København,Region Hovedstaden,Region Hovedstaden
+"(55.774,12.495) → (55.684,12.539)",10.356878726858,1439.2766902144676,"(55.774,12.495)","(55.684,12.539)",Lyngby-Tårbæk,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.775,12.502) → (55.748,12.546)",4.0534215875326005,253.57152892982,"(55.775,12.502)","(55.748,12.546)",Lyngby-Tårbæk,Gentofte,Region Hovedstaden,Region Hovedstaden
+"(55.776,12.504) → (55.692,12.543)",9.7038678571082,1438.74700389139,"(55.776,12.504)","(55.692,12.543)",Lyngby-Tårbæk,København,Region Hovedstaden,Region Hovedstaden
+"(55.778,12.5)",0.0078883789097587,89300.83384649132,"(55.778,12.5)","(55.778,12.5)",Lyngby-Tårbæk,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.778,12.5) → (55.779,12.5)",0.014870624544208,44659.61133821749,"(55.778,12.5)","(55.779,12.5)",Lyngby-Tårbæk,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.778,12.501)",0.0063708393417941,44674.719895515576,"(55.778,12.501)","(55.778,12.501)",Lyngby-Tårbæk,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.779,12.5) → (55.778,12.5)",0.01140141476217165,89333.29627122261,"(55.779,12.5)","(55.778,12.5)",Lyngby-Tårbæk,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.779,12.501) → (55.778,12.501)",0.0069699770579664,44665.94829791333,"(55.779,12.501)","(55.778,12.501)",Lyngby-Tårbæk,Lyngby-Tårbæk,Region Hovedstaden,Region Hovedstaden
+"(55.789,12.485) → (55.821,12.472)",3.663804035051,178.50459105352235,"(55.789,12.485)","(55.821,12.472)",Lyngby-Tårbæk,Rudersdal,Region Hovedstaden,Region Hovedstaden
+"(55.831,12.48)",0.0060527511062951,29576.451170482636,"(55.831,12.48)","(55.831,12.48)",Rudersdal,Rudersdal,Region Hovedstaden,Region Hovedstaden
+"(55.831,12.481)",0.004964210697270426,118391.75971664937,"(55.831,12.481)","(55.831,12.481)",Rudersdal,Rudersdal,Region Hovedstaden,Region Hovedstaden
+"(55.831,12.482)",0.012271978703306999,29603.385819324372,"(55.831,12.482)","(55.831,12.482)",Rudersdal,Rudersdal,Region Hovedstaden,Region Hovedstaden
+"(55.832,12.48)",0.010389530520453001,29593.374241145153,"(55.832,12.48)","(55.832,12.48)",Rudersdal,Rudersdal,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.458) → (55.634,12.458)",3.4926615122563,517.6787628140967,"(55.665,12.458)","(55.634,12.458)",Rødovre,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.458) → (55.635,12.458)",3.3700507163462,517.8573478144211,"(55.665,12.458)","(55.635,12.458)",Rødovre,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.458) → (55.637,12.458)",3.1814187226374,517.7616422026294,"(55.665,12.458)","(55.637,12.458)",Rødovre,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.458) → (55.64,12.458)",2.7569967367947994,517.3827264712248,"(55.665,12.458)","(55.64,12.458)",Rødovre,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.665,12.458) → (55.647,12.259)",12.690124324985002,192.78495833780417,"(55.665,12.458)","(55.647,12.259)",Rødovre,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.668,12.458) → (55.635,12.458)",3.6761897335572002,517.853895982873,"(55.668,12.458)","(55.635,12.458)",Rødovre,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.67,12.458) → (55.633,12.458)",4.0700187400094,517.6633140552149,"(55.67,12.458)","(55.633,12.458)",Rødovre,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.67,12.458) → (55.636,12.458)",3.7781067484402002,517.7522186583606,"(55.67,12.458)","(55.636,12.458)",Rødovre,Hvidovre,Region Hovedstaden,Region Hovedstaden
+"(55.671,12.458) → (55.665,12.371)",5.5546849986110995,289.23236564422746,"(55.671,12.458)","(55.665,12.371)",Rødovre,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.672,12.458) → (55.668,12.415)",2.8069090914748998,528.4643335271543,"(55.672,12.458)","(55.668,12.415)",Rødovre,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.673,12.458) → (55.665,12.415)",2.9048417203507,528.3893579068022,"(55.673,12.458)","(55.665,12.415)",Rødovre,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.673,12.458) → (55.673,12.415)",2.7555421608722996,528.0871966740777,"(55.673,12.458)","(55.673,12.415)",Rødovre,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.674,12.458) → (55.668,12.415)",2.8281222113122,528.5681145204497,"(55.674,12.458)","(55.668,12.415)",Rødovre,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.674,12.458) → (55.674,12.415)",2.7554892757513,528.4739520413045,"(55.674,12.458)","(55.674,12.415)",Rødovre,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.675,12.458) → (55.669,12.371)",5.545184299464901,289.2839005145704,"(55.675,12.458)","(55.669,12.371)",Rødovre,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.675,12.458) → (55.682,12.521)",4.0161245712482,3124.4237029469014,"(55.675,12.458)","(55.682,12.521)",Rødovre,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.675,12.458) → (55.683,12.517)",3.7817178064781,3124.980406793199,"(55.675,12.458)","(55.683,12.517)",Rødovre,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.675,12.458) → (55.686,12.51)",3.4339642498056,3122.13714249877,"(55.675,12.458)","(55.686,12.51)",Rødovre,København,Region Hovedstaden,Region Hovedstaden
+"(55.675,12.458)",0.0032072482229855625,228396.0737687099,"(55.675,12.458)","(55.675,12.458)",Rødovre,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.676,12.458) → (55.683,12.52)",3.8991070838735,3124.3668367314863,"(55.676,12.458)","(55.683,12.52)",Rødovre,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.676,12.458) → (55.671,12.415)",2.8066880108611,528.5716377692023,"(55.676,12.458)","(55.671,12.415)",Rødovre,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.676,12.458)",0.006850966782469767,171363.0902205393,"(55.676,12.458)","(55.676,12.458)",Rødovre,Rødovre,Region Hovedstaden,Region Hovedstaden
+"(55.677,12.458) → (55.686,12.533)",4.7800987395515,3123.830343436641,"(55.677,12.458)","(55.686,12.533)",Rødovre,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.678,12.458) → (55.686,12.517)",3.7553270132138996,3125.001236811162,"(55.678,12.458)","(55.686,12.517)",Rødovre,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.678,12.458) → (55.688,12.515)",3.6779603034942,3123.9235687057558,"(55.678,12.458)","(55.688,12.515)",Rødovre,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.678,12.458) → (55.671,12.415)",2.8802496468631,528.3735895184262,"(55.678,12.458)","(55.671,12.415)",Rødovre,Glostrup,Region Hovedstaden,Region Hovedstaden
+"(55.625,12.615)",0.013099186913734774,255948.4186779191,"(55.625,12.615)","(55.625,12.615)",Tårnby,Tårnby,Region Hovedstaden,Region Hovedstaden
+"(55.625,12.615) → (55.625,12.616)",0.0065570174701792,63974.38448872964,"(55.625,12.615)","(55.625,12.616)",Tårnby,Tårnby,Region Hovedstaden,Region Hovedstaden
+"(55.625,12.616) → (55.626,12.616)",0.024493562354957997,63937.800521640536,"(55.625,12.616)","(55.626,12.616)",Tårnby,Tårnby,Region Hovedstaden,Region Hovedstaden
+"(55.626,12.616) → (55.626,12.617)",0.015872722913833997,63984.62666640632,"(55.626,12.616)","(55.626,12.617)",Tårnby,Tårnby,Region Hovedstaden,Region Hovedstaden
+"(55.627,12.614) → (55.662,12.577)",4.5359656911087995,5096.396617707308,"(55.627,12.614)","(55.662,12.577)",Tårnby,København,Region Hovedstaden,Region Hovedstaden
+"(55.627,12.615) → (55.66,12.58)",4.2598211145902996,5094.673065763558,"(55.627,12.615)","(55.66,12.58)",Tårnby,København,Region Hovedstaden,Region Hovedstaden
+"(55.628,12.616) → (55.662,12.584)",4.260961960248101,5094.521028667527,"(55.628,12.616)","(55.662,12.584)",Tårnby,København,Region Hovedstaden,Region Hovedstaden
+"(55.628,12.617) → (55.661,12.589)",4.0146260428798,5095.395972589521,"(55.628,12.617)","(55.661,12.589)",Tårnby,København,Region Hovedstaden,Region Hovedstaden
+"(55.629,12.614) → (55.668,12.572)",5.1126219532789,5096.430588490889,"(55.629,12.614)","(55.668,12.572)",Tårnby,København,Region Hovedstaden,Region Hovedstaden
+"(55.629,12.617) → (55.661,12.586)",4.0349784342018,5091.759659823709,"(55.629,12.617)","(55.661,12.586)",Tårnby,København,Region Hovedstaden,Region Hovedstaden
+"(55.629,12.621) → (55.663,12.578)",4.65710928499,5095.488713263118,"(55.629,12.621)","(55.663,12.578)",Tårnby,København,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.371) → (55.665,12.354)",5.6118584995396,264.1867947592131,"(55.616,12.371)","(55.665,12.354)",Vallensbæk,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.371) → (55.675,12.546)",12.862886201305999,1038.3336096767339,"(55.616,12.371)","(55.675,12.546)",Vallensbæk,Frederiksberg,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.371) → (55.651,12.283)",6.8049198749878,232.14294902025776,"(55.616,12.371)","(55.651,12.283)",Vallensbæk,Høje-Taastrup,Region Hovedstaden,Region Hovedstaden
+"(55.616,12.371) → (55.682,12.561)",14.029285353896,1039.094054351484,"(55.616,12.371)","(55.682,12.561)",Vallensbæk,København,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.371) → (55.665,12.349)",3.0824160601638995,196.38877259455057,"(55.64,12.371)","(55.665,12.349)",Vallensbæk,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.371) → (55.665,12.35)",3.036475843941,196.4273398555725,"(55.64,12.371)","(55.665,12.35)",Vallensbæk,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.371) → (55.665,12.371)",2.75699673679585,785.3932297484322,"(55.64,12.371)","(55.665,12.371)",Vallensbæk,Albertslund,Region Hovedstaden,Region Hovedstaden
+"(55.64,12.371)",0.0,33690.237765395934,"(55.64,12.371)","(55.64,12.371)",Vallensbæk,Vallensbæk,Region Hovedstaden,Region Hovedstaden
+"(56.159,10.168)",0.0070766821773908,253359.12575807582,"(56.159,10.168)","(56.159,10.168)",Aarhus,Aarhus,Region Midtjylland,Region Midtjylland
+"(56.159,10.168) → (56.16,10.168)",0.0052987860963466,253309.38030236386,"(56.159,10.168)","(56.16,10.168)",Aarhus,Aarhus,Region Midtjylland,Region Midtjylland
+"(56.16,10.168)",0.009696090045839849,1012981.9236777774,"(56.16,10.168)","(56.16,10.168)",Aarhus,Aarhus,Region Midtjylland,Region Midtjylland
+"(56.16,10.169)",0.012240533140808998,253360.81456070935,"(56.16,10.169)","(56.16,10.169)",Aarhus,Aarhus,Region Midtjylland,Region Midtjylland
+"(56.3,9.958)",0.0038416206334021,49423.02682570064,"(56.3,9.958)","(56.3,9.958)",Favrskov,Favrskov,Region Midtjylland,Region Midtjylland
+"(56.301,9.959)",0.014721799750508002,49386.857359229114,"(56.301,9.959)","(56.301,9.959)",Favrskov,Favrskov,Region Midtjylland,Region Midtjylland
+"(56.301,9.96)",0.0052576192823881,49415.1155593787,"(56.301,9.96)","(56.301,9.96)",Favrskov,Favrskov,Region Midtjylland,Region Midtjylland
+"(56.301,9.961)",0.0073917344981224,98835.76819509378,"(56.301,9.961)","(56.301,9.961)",Favrskov,Favrskov,Region Midtjylland,Region Midtjylland
+"(56.302,9.959)",0.0090877697961747,49431.83292619962,"(56.302,9.959)","(56.302,9.959)",Favrskov,Favrskov,Region Midtjylland,Region Midtjylland
+"(56.303,9.957)",0.010463783188761998,49432.16242137519,"(56.303,9.957)","(56.303,9.957)",Favrskov,Favrskov,Region Midtjylland,Region Midtjylland
+"(55.735,9.858) → (55.863,9.851)",14.199398286115999,349.935454730053,"(55.735,9.858)","(55.863,9.851)",Hedensted,Horsens,Region Midtjylland,Region Midtjylland
+"(55.764,9.855) → (55.851,9.833)",9.710428716111199,349.8689984649038,"(55.764,9.855)","(55.851,9.833)",Hedensted,Horsens,Region Midtjylland,Region Midtjylland
+"(55.769,9.813) → (55.858,9.848)",10.128221629573,349.67935995986227,"(55.769,9.813)","(55.858,9.848)",Hedensted,Horsens,Region Midtjylland,Region Midtjylland
+"(55.77,9.734) → (55.857,9.855)",12.222648028178,349.99780556083834,"(55.77,9.734)","(55.857,9.855)",Hedensted,Horsens,Region Midtjylland,Region Midtjylland
+"(55.785,9.749) → (55.785,9.748)",0.0057277226870049,56603.21653401762,"(55.785,9.749)","(55.785,9.748)",Hedensted,Hedensted,Region Midtjylland,Region Midtjylland
+"(55.786,9.746)",0.0074746082097403,56592.10285183695,"(55.786,9.746)","(55.786,9.746)",Hedensted,Hedensted,Region Midtjylland,Region Midtjylland
+"(55.787,9.742)",0.0038391222661779,56603.5938311087,"(55.787,9.742)","(55.787,9.742)",Hedensted,Hedensted,Region Midtjylland,Region Midtjylland
+"(55.787,9.743)",0.007910693666312845,113166.4591469084,"(55.787,9.743)","(55.787,9.743)",Hedensted,Hedensted,Region Midtjylland,Region Midtjylland
+"(55.788,9.736)",0.0036911357092032,56551.71608167201,"(55.788,9.736)","(55.788,9.736)",Hedensted,Hedensted,Region Midtjylland,Region Midtjylland
+"(55.788,9.737)",0.0058145196831797,56593.13287772051,"(55.788,9.737)","(55.788,9.737)",Hedensted,Hedensted,Region Midtjylland,Region Midtjylland
+"(56.147,8.931)",0.01849573662432,110884.67171183952,"(56.147,8.931)","(56.147,8.931)",Herning,Herning,Region Midtjylland,Region Midtjylland
+"(56.147,8.932)",0.015896123265797,110906.44748863544,"(56.147,8.932)","(56.147,8.932)",Herning,Herning,Region Midtjylland,Region Midtjylland
+"(56.148,8.929)",0.012684887039154,110886.68991007209,"(56.148,8.929)","(56.148,8.929)",Herning,Herning,Region Midtjylland,Region Midtjylland
+"(56.148,8.929) → (56.148,8.93)",0.0038755304039244,110868.94000295833,"(56.148,8.929)","(56.148,8.93)",Herning,Herning,Region Midtjylland,Region Midtjylland
+"(56.148,8.93)",0.006399294818243449,221712.72597838932,"(56.148,8.93)","(56.148,8.93)",Herning,Herning,Region Midtjylland,Region Midtjylland
+"(56.148,8.932)",0.0067235678590026,110865.63141152167,"(56.148,8.932)","(56.148,8.932)",Herning,Herning,Region Midtjylland,Region Midtjylland
+"(56.37,8.608)",0.007803474192159,71019.04346046963,"(56.37,8.608)","(56.37,8.608)",Holstebro,Holstebro,Region Midtjylland,Region Midtjylland
+"(56.37,8.609) → (56.37,8.608)",0.019970024626391997,70967.06928818062,"(56.37,8.609)","(56.37,8.608)",Holstebro,Holstebro,Region Midtjylland,Region Midtjylland
+"(56.37,8.61)",0.016972387211769,71017.75087514575,"(56.37,8.61)","(56.37,8.61)",Holstebro,Holstebro,Region Midtjylland,Region Midtjylland
+"(56.371,8.604)",0.0052312522607666,71031.69749795421,"(56.371,8.604)","(56.371,8.604)",Holstebro,Holstebro,Region Midtjylland,Region Midtjylland
+"(56.371,8.605) → (56.37,8.605)",0.0051965715930831,71007.67526627288,"(56.371,8.605)","(56.37,8.605)",Holstebro,Holstebro,Region Midtjylland,Region Midtjylland
+"(56.371,8.611)",0.011247340658658,71032.17097021395,"(56.371,8.611)","(56.371,8.611)",Holstebro,Holstebro,Region Midtjylland,Region Midtjylland
+"(56.372,8.61)",0.0051255444574846,71005.55622927012,"(56.372,8.61)","(56.372,8.61)",Holstebro,Holstebro,Region Midtjylland,Region Midtjylland
+"(55.855,9.851) → (55.797,9.778)",7.8705259607647005,278.46716204349485,"(55.855,9.851)","(55.797,9.778)",Horsens,Hedensted,Region Midtjylland,Region Midtjylland
+"(55.873,9.827) → (55.768,9.814)",11.620358706456999,278.47547241034164,"(55.873,9.827)","(55.768,9.814)",Horsens,Hedensted,Region Midtjylland,Region Midtjylland
+"(55.88,9.824)",0.012968032695161003,110684.22189749926,"(55.88,9.824)","(55.88,9.824)",Horsens,Horsens,Region Midtjylland,Region Midtjylland
+"(55.88,9.825)",0.007685178528072275,443061.8628662381,"(55.88,9.825)","(55.88,9.825)",Horsens,Horsens,Region Midtjylland,Region Midtjylland
+"(55.88,9.826)",0.012595164613311,110785.0196785429,"(55.88,9.826)","(55.88,9.826)",Horsens,Horsens,Region Midtjylland,Region Midtjylland
+"(55.88,9.826) → (55.881,9.826)",0.013895736339423998,110744.24828960527,"(55.88,9.826)","(55.881,9.826)",Horsens,Horsens,Region Midtjylland,Region Midtjylland
+"(56.061,9.199)",0.011877966279891001,51390.521066070636,"(56.061,9.199)","(56.061,9.199)",Ikast-Brande,Ikast-Brande,Region Midtjylland,Region Midtjylland
+"(56.061,9.203)",0.006844917216878,51400.02034307,"(56.061,9.203)","(56.061,9.203)",Ikast-Brande,Ikast-Brande,Region Midtjylland,Region Midtjylland
+"(56.063,9.202)",0.012345891911967999,102771.88058863176,"(56.063,9.202)","(56.063,9.202)",Ikast-Brande,Ikast-Brande,Region Midtjylland,Region Midtjylland
+"(56.064,9.2)",0.024545799601046,51380.76148884588,"(56.064,9.2)","(56.064,9.2)",Ikast-Brande,Ikast-Brande,Region Midtjylland,Region Midtjylland
+"(56.064,9.201)",0.020150082765089002,51352.91171981977,"(56.064,9.201)","(56.064,9.201)",Ikast-Brande,Ikast-Brande,Region Midtjylland,Region Midtjylland
+"(56.066,9.204)",0.0067635764450958,51399.67773093454,"(56.066,9.204)","(56.066,9.204)",Ikast-Brande,Ikast-Brande,Region Midtjylland,Region Midtjylland
+"(56.094,9.154) → (56.148,8.987)",11.964352892364,357.07049562645557,"(56.094,9.154)","(56.148,8.987)",Ikast-Brande,Herning,Region Midtjylland,Region Midtjylland
+"(56.549,8.279)",0.022500829388167002,22410.723155417192,"(56.549,8.279)","(56.549,8.279)",Lemvig,Lemvig,Region Midtjylland,Region Midtjylland
+"(56.55,8.277)",0.035752992970629,22402.326177217055,"(56.55,8.277)","(56.55,8.277)",Lemvig,Lemvig,Region Midtjylland,Region Midtjylland
+"(56.551,8.275)",0.0035650649456429994,22406.581412562067,"(56.551,8.275)","(56.551,8.275)",Lemvig,Lemvig,Region Midtjylland,Region Midtjylland
+"(56.551,8.276)",0.025293084929591,22406.173600560087,"(56.551,8.276)","(56.551,8.276)",Lemvig,Lemvig,Region Midtjylland,Region Midtjylland
+"(56.552,8.272)",0.020083422125223,22402.99473557556,"(56.552,8.272)","(56.552,8.272)",Lemvig,Lemvig,Region Midtjylland,Region Midtjylland
+"(56.552,8.274)",0.0056775687653184,22390.18350763404,"(56.552,8.274)","(56.552,8.274)",Lemvig,Lemvig,Region Midtjylland,Region Midtjylland
+"(56.554,8.271)",0.0065120951540307,22410.57377443123,"(56.554,8.271)","(56.554,8.271)",Lemvig,Lemvig,Region Midtjylland,Region Midtjylland
+"(56.441,10.666)",0.007024614163973001,44191.84885448097,"(56.441,10.666)","(56.441,10.666)",Norddjurs,Norddjurs,Region Midtjylland,Region Midtjylland
+"(56.442,10.663)",0.0074830538852779,44183.456377567854,"(56.442,10.663)","(56.442,10.663)",Norddjurs,Norddjurs,Region Midtjylland,Region Midtjylland
+"(56.442,10.664)",0.0033777576363694,44159.5077435026,"(56.442,10.664)","(56.442,10.664)",Norddjurs,Norddjurs,Region Midtjylland,Region Midtjylland
+"(56.442,10.665)",0.012811588998548,44200.017493457075,"(56.442,10.665)","(56.442,10.665)",Norddjurs,Norddjurs,Region Midtjylland,Region Midtjylland
+"(56.442,10.671)",0.023350657491214,44191.04453873014,"(56.442,10.671)","(56.442,10.671)",Norddjurs,Norddjurs,Region Midtjylland,Region Midtjylland
+"(56.444,10.664)",0.014631048017270002,44184.774955774206,"(56.444,10.664)","(56.444,10.664)",Norddjurs,Norddjurs,Region Midtjylland,Region Midtjylland
+"(56.445,10.668)",0.019626986370703998,44199.72287368301,"(56.445,10.668)","(56.445,10.668)",Norddjurs,Norddjurs,Region Midtjylland,Region Midtjylland
+"(55.963,10.149)",0.00543265129617145,43803.11217775566,"(55.963,10.149)","(55.963,10.149)",Odder,Odder,Region Midtjylland,Region Midtjylland
+"(55.963,10.15) → (55.963,10.149)",0.0068146634006285,21883.505251365663,"(55.963,10.15)","(55.963,10.149)",Odder,Odder,Region Midtjylland,Region Midtjylland
+"(55.963,10.15) → (55.963,10.151)",0.0019677583295198,21895.37313862505,"(55.963,10.15)","(55.963,10.151)",Odder,Odder,Region Midtjylland,Region Midtjylland
+"(55.963,10.151)",0.036122615449937,21899.13349677052,"(55.963,10.151)","(55.963,10.151)",Odder,Odder,Region Midtjylland,Region Midtjylland
+"(55.963,10.152)",0.018913361031837,21896.02656785417,"(55.963,10.152)","(55.963,10.152)",Odder,Odder,Region Midtjylland,Region Midtjylland
+"(55.963,10.154)",0.019522759162343,21903.43409698593,"(55.963,10.154)","(55.963,10.154)",Odder,Odder,Region Midtjylland,Region Midtjylland
+"(56.479,10.039)",0.0047051521337042,127665.07979595829,"(56.479,10.039)","(56.479,10.039)",Randers,Randers,Region Midtjylland,Region Midtjylland
+"(56.479,10.04) → (56.478,10.04)",0.008434969123025,127738.12727396941,"(56.479,10.04)","(56.478,10.04)",Randers,Randers,Region Midtjylland,Region Midtjylland
+"(56.479,10.04)",0.009100777876579433,383297.0239668796,"(56.479,10.04)","(56.479,10.04)",Randers,Randers,Region Midtjylland,Region Midtjylland
+"(56.479,10.041)",0.011524647349825501,255515.65695139824,"(56.479,10.041)","(56.479,10.041)",Randers,Randers,Region Midtjylland,Region Midtjylland
+"(56.017,8.427)",0.0049011863692421,64656.29237629855,"(56.017,8.427)","(56.017,8.427)",Ringkøbing-Skjern,Ringkøbing-Skjern,Region Midtjylland,Region Midtjylland
+"(56.019,8.426)",0.010751730348347,64678.16590517124,"(56.019,8.426)","(56.019,8.426)",Ringkøbing-Skjern,Ringkøbing-Skjern,Region Midtjylland,Region Midtjylland
+"(56.02,8.435)",0.0026196739564565,64619.31845788883,"(56.02,8.435)","(56.02,8.435)",Ringkøbing-Skjern,Ringkøbing-Skjern,Region Midtjylland,Region Midtjylland
+"(56.021,8.439)",0.012274286481302,64665.46675795111,"(56.021,8.439)","(56.021,8.439)",Ringkøbing-Skjern,Ringkøbing-Skjern,Region Midtjylland,Region Midtjylland
+"(56.021,8.448)",0.0040351000178517,64666.6437261353,"(56.021,8.448)","(56.021,8.448)",Ringkøbing-Skjern,Ringkøbing-Skjern,Region Midtjylland,Region Midtjylland
+"(56.022,8.443)",0.0079092651357509,64678.59702702874,"(56.022,8.443)","(56.022,8.443)",Ringkøbing-Skjern,Ringkøbing-Skjern,Region Midtjylland,Region Midtjylland
+"(56.022,8.446)",0.0053918538346101,64654.3628795858,"(56.022,8.446)","(56.022,8.446)",Ringkøbing-Skjern,Ringkøbing-Skjern,Region Midtjylland,Region Midtjylland
+"(55.849,10.591)",0.025796695860578,3839.261642631645,"(55.849,10.591)","(55.849,10.591)",Samsø,Samsø,Region Midtjylland,Region Midtjylland
+"(55.849,10.592)",0.0,3838.5776921919078,"(55.849,10.592)","(55.849,10.592)",Samsø,Samsø,Region Midtjylland,Region Midtjylland
+"(55.849,10.593)",0.0,3839.2872337965705,"(55.849,10.593)","(55.849,10.593)",Samsø,Samsø,Region Midtjylland,Region Midtjylland
+"(55.851,10.59)",0.0,3838.5078279843974,"(55.851,10.59)","(55.851,10.59)",Samsø,Samsø,Region Midtjylland,Region Midtjylland
+"(55.853,10.59)",0.031169086769972997,3835.768489355632,"(55.853,10.59)","(55.853,10.59)",Samsø,Samsø,Region Midtjylland,Region Midtjylland
+"(55.854,10.59)",0.0,3837.9632415527853,"(55.854,10.59)","(55.854,10.59)",Samsø,Samsø,Region Midtjylland,Region Midtjylland
+"(55.858,10.59)",0.0,3837.848707650731,"(55.858,10.59)","(55.858,10.59)",Samsø,Samsø,Region Midtjylland,Region Midtjylland
+"(56.192,9.549)",0.0092852857972177,99744.79538888723,"(56.192,9.549)","(56.192,9.549)",Silkeborg,Silkeborg,Region Midtjylland,Region Midtjylland
+"(56.192,9.55)",0.00643936453588095,199511.51362594694,"(56.192,9.55)","(56.192,9.55)",Silkeborg,Silkeborg,Region Midtjylland,Region Midtjylland
+"(56.192,9.551)",0.00635035745584145,199543.44301352708,"(56.192,9.551)","(56.192,9.551)",Silkeborg,Silkeborg,Region Midtjylland,Region Midtjylland
+"(56.193,9.55) → (56.193,9.549)",0.011265482256771002,99690.7309991693,"(56.193,9.55)","(56.193,9.549)",Silkeborg,Silkeborg,Region Midtjylland,Region Midtjylland
+"(56.193,9.55)",0.026033802555994,99782.18234887664,"(56.193,9.55)","(56.193,9.55)",Silkeborg,Silkeborg,Region Midtjylland,Region Midtjylland
+"(56.083,9.917)",0.0039197877008842,57288.390318308535,"(56.083,9.917)","(56.083,9.917)",Skanderborg,Skanderborg,Region Midtjylland,Region Midtjylland
+"(56.083,9.919)",0.0043076278041448,57278.55317725426,"(56.083,9.919)","(56.083,9.919)",Skanderborg,Skanderborg,Region Midtjylland,Region Midtjylland
+"(56.083,9.919) → (56.083,9.92)",0.018530753632868997,57280.26255578874,"(56.083,9.919)","(56.083,9.92)",Skanderborg,Skanderborg,Region Midtjylland,Region Midtjylland
+"(56.084,9.916)",0.009385575846932,57299.6407389601,"(56.084,9.916)","(56.084,9.916)",Skanderborg,Skanderborg,Region Midtjylland,Region Midtjylland
+"(56.084,9.918)",0.0087741209948044,57300.02267816947,"(56.084,9.918)","(56.084,9.918)",Skanderborg,Skanderborg,Region Midtjylland,Region Midtjylland
+"(56.084,9.919)",0.012651150777933998,57247.50664485745,"(56.084,9.919)","(56.084,9.919)",Skanderborg,Skanderborg,Region Midtjylland,Region Midtjylland
+"(56.084,9.92)",0.0083276780094884,57289.43301723439,"(56.084,9.92)","(56.084,9.92)",Skanderborg,Skanderborg,Region Midtjylland,Region Midtjylland
+"(56.608,9.001)",0.0071020220722096,55496.906504229424,"(56.608,9.001)","(56.608,9.001)",Skive,Skive,Region Midtjylland,Region Midtjylland
+"(56.609,8.999)",0.025039666093157005,55486.36708307689,"(56.609,8.999)","(56.609,8.999)",Skive,Skive,Region Midtjylland,Region Midtjylland
+"(56.609,8.999) → (56.609,9.0)",0.017500688864827,55507.164825736094,"(56.609,8.999)","(56.609,9.0)",Skive,Skive,Region Midtjylland,Region Midtjylland
+"(56.609,9.0)",0.007250970363329,55456.29196424673,"(56.609,9.0)","(56.609,9.0)",Skive,Skive,Region Midtjylland,Region Midtjylland
+"(56.61,8.995)",0.02292644479872,55506.794837005604,"(56.61,8.995)","(56.61,8.995)",Skive,Skive,Region Midtjylland,Region Midtjylland
+"(56.61,8.999) → (56.61,8.998)",0.015009394740606002,55495.896430263725,"(56.61,8.999)","(56.61,8.998)",Skive,Skive,Region Midtjylland,Region Midtjylland
+"(56.61,9.0)",0.010093611070920999,55488.022976942695,"(56.61,9.0)","(56.61,9.0)",Skive,Skive,Region Midtjylland,Region Midtjylland
+"(56.506,8.567)",0.011501806660750001,16418.40021274269,"(56.506,8.567)","(56.506,8.567)",Struer,Struer,Region Midtjylland,Region Midtjylland
+"(56.507,8.565) → (56.507,8.564)",0.010253111863008002,16421.43507069454,"(56.507,8.565)","(56.507,8.564)",Struer,Struer,Region Midtjylland,Region Midtjylland
+"(56.508,8.564)",0.0074078471745992,16406.384664239253,"(56.508,8.564)","(56.508,8.564)",Struer,Struer,Region Midtjylland,Region Midtjylland
+"(56.508,8.566)",0.0079856591113594,16415.282193281917,"(56.508,8.566)","(56.508,8.566)",Struer,Struer,Region Midtjylland,Region Midtjylland
+"(56.51,8.564)",0.005112764894526766,49255.1990795835,"(56.51,8.564)","(56.51,8.564)",Struer,Struer,Region Midtjylland,Region Midtjylland
+"(56.292,10.517) → (56.293,10.517)",0.017720191435721,45913.99783969527,"(56.292,10.517)","(56.293,10.517)",Syddjurs,Syddjurs,Region Midtjylland,Region Midtjylland
+"(56.293,10.514)",0.0080528038635682,45898.47017060708,"(56.293,10.514)","(56.293,10.514)",Syddjurs,Syddjurs,Region Midtjylland,Region Midtjylland
+"(56.297,10.508)",0.0064427367896929,45914.30388622206,"(56.297,10.508)","(56.297,10.508)",Syddjurs,Syddjurs,Region Midtjylland,Region Midtjylland
+"(56.297,10.511)",0.0036995094513842,45904.98291773713,"(56.297,10.511)","(56.297,10.511)",Syddjurs,Syddjurs,Region Midtjylland,Region Midtjylland
+"(56.298,10.506)",0.00655645383038245,91778.04140462805,"(56.298,10.506)","(56.298,10.506)",Syddjurs,Syddjurs,Region Midtjylland,Region Midtjylland
+"(56.298,10.507)",0.007363199979933999,45897.10045168167,"(56.298,10.507)","(56.298,10.507)",Syddjurs,Syddjurs,Region Midtjylland,Region Midtjylland
+"(56.445,9.416)",0.027643733631136,114334.99742065997,"(56.445,9.416)","(56.445,9.416)",Viborg,Viborg,Region Midtjylland,Region Midtjylland
+"(56.446,9.417) → (56.446,9.418)",0.011082465280174,114314.62905844813,"(56.446,9.417)","(56.446,9.418)",Viborg,Viborg,Region Midtjylland,Region Midtjylland
+"(56.446,9.418)",0.012131839114948,114335.75953745435,"(56.446,9.418)","(56.446,9.418)",Viborg,Viborg,Region Midtjylland,Region Midtjylland
+"(56.446,9.419)",0.008568782250642549,228523.88925112714,"(56.446,9.419)","(56.446,9.419)",Viborg,Viborg,Region Midtjylland,Region Midtjylland
+"(56.447,9.417)",0.0086160710836832,114296.33043262408,"(56.447,9.417)","(56.447,9.417)",Viborg,Viborg,Region Midtjylland,Region Midtjylland
+"(56.447,9.418) → (56.447,9.419)",0.017721976684175,114312.5484698535,"(56.447,9.418)","(56.447,9.419)",Viborg,Viborg,Region Midtjylland,Region Midtjylland
+"(57.035,9.951)",0.005165749230625199,1293226.811161573,"(57.035,9.951)","(57.035,9.951)",Aalborg,Aalborg,Region Nordjylland,Region Nordjylland
+"(57.035,9.954)",0.0078198198430279,517373.5411485963,"(57.035,9.954)","(57.035,9.954)",Aalborg,Aalborg,Region Nordjylland,Region Nordjylland
+"(57.233,10.018) → (57.037,9.922)",22.451088840603,217.85577693072588,"(57.233,10.018)","(57.037,9.922)",Brønderslev,Aalborg,Region Nordjylland,Region Nordjylland
+"(57.233,10.09) → (57.233,10.089)",0.020082274880806,46600.408540432545,"(57.233,10.09)","(57.233,10.089)",Brønderslev,Brønderslev,Region Nordjylland,Region Nordjylland
+"(57.233,10.09)",0.014823142338875649,93235.44045024883,"(57.233,10.09)","(57.233,10.09)",Brønderslev,Brønderslev,Region Nordjylland,Region Nordjylland
+"(57.233,10.092) → (57.232,10.092)",0.006446791936076001,46609.26010807532,"(57.233,10.092)","(57.232,10.092)",Brønderslev,Brønderslev,Region Nordjylland,Region Nordjylland
+"(57.233,10.093)",0.010489451116567,46575.14985261308,"(57.233,10.093)","(57.233,10.093)",Brønderslev,Brønderslev,Region Nordjylland,Region Nordjylland
+"(57.234,10.089)",0.0038184163173955,46608.411794121246,"(57.234,10.089)","(57.234,10.089)",Brønderslev,Brønderslev,Region Nordjylland,Region Nordjylland
+"(57.234,10.09)",0.011337655232703001,46601.7992483614,"(57.234,10.09)","(57.234,10.09)",Brønderslev,Brønderslev,Region Nordjylland,Region Nordjylland
+"(57.243,9.998) → (57.047,9.921)",22.354943454668998,217.78210021834408,"(57.243,9.998)","(57.047,9.921)",Brønderslev,Aalborg,Region Nordjylland,Region Nordjylland
+"(57.458,10.496) → (57.457,10.496)",0.012475633177765,76078.8244742705,"(57.458,10.496)","(57.457,10.496)",Frederikshavn,Frederikshavn,Region Nordjylland,Region Nordjylland
+"(57.46,10.497)",0.0038566511100884,76023.14738066148,"(57.46,10.497)","(57.46,10.497)",Frederikshavn,Frederikshavn,Region Nordjylland,Region Nordjylland
+"(57.462,10.497)",0.022708255029313996,76064.37633972695,"(57.462,10.497)","(57.462,10.497)",Frederikshavn,Frederikshavn,Region Nordjylland,Region Nordjylland
+"(57.463,10.499)",0.015540507382643,76092.88725885557,"(57.463,10.499)","(57.463,10.499)",Frederikshavn,Frederikshavn,Region Nordjylland,Region Nordjylland
+"(57.467,10.499)",0.011839076745307901,152169.81985204222,"(57.467,10.499)","(57.467,10.499)",Frederikshavn,Frederikshavn,Region Nordjylland,Region Nordjylland
+"(57.47,10.499)",0.033666058688337996,76066.64634839409,"(57.47,10.499)","(57.47,10.499)",Frederikshavn,Frederikshavn,Region Nordjylland,Region Nordjylland
+"(57.461,10.015)",0.023645070645403,159989.0293468906,"(57.461,10.015)","(57.461,10.015)",Hjørring,Hjørring,Region Nordjylland,Region Nordjylland
+"(57.461,10.018)",0.017446436159158,160048.64519420973,"(57.461,10.018)","(57.461,10.018)",Hjørring,Hjørring,Region Nordjylland,Region Nordjylland
+"(57.462,10.014)",0.0051408118551777,80011.71554087393,"(57.462,10.014)","(57.462,10.014)",Hjørring,Hjørring,Region Nordjylland,Region Nordjylland
+"(57.462,10.018)",0.028418214294766,80024.52526484916,"(57.462,10.018)","(57.462,10.018)",Hjørring,Hjørring,Region Nordjylland,Region Nordjylland
+"(57.463,10.013) → (57.462,10.013)",0.027160117693161002,80038.78388187701,"(57.463,10.013)","(57.462,10.013)",Hjørring,Hjørring,Region Nordjylland,Region Nordjylland
+"(57.159,9.579)",0.015258988468621,54086.45237547054,"(57.159,9.579)","(57.159,9.579)",Jammerbugt,Jammerbugt,Region Nordjylland,Region Nordjylland
+"(57.161,9.576)",0.022447402038891003,54076.180813754065,"(57.161,9.576)","(57.161,9.576)",Jammerbugt,Jammerbugt,Region Nordjylland,Region Nordjylland
+"(57.162,9.577)",0.012216147803453998,54046.870054204424,"(57.162,9.577)","(57.162,9.577)",Jammerbugt,Jammerbugt,Region Nordjylland,Region Nordjylland
+"(57.162,9.579)",0.0085532681353999,54096.44998168991,"(57.162,9.579)","(57.162,9.579)",Jammerbugt,Jammerbugt,Region Nordjylland,Region Nordjylland
+"(57.165,9.572) → (57.166,9.572)",0.012923823816378001,54077.79462306981,"(57.165,9.572)","(57.166,9.572)",Jammerbugt,Jammerbugt,Region Nordjylland,Region Nordjylland
+"(57.166,9.576)",0.0040686561316824,54085.46797253923,"(57.166,9.576)","(57.166,9.576)",Jammerbugt,Jammerbugt,Region Nordjylland,Region Nordjylland
+"(57.17,9.572)",0.0072688388077651,54096.08939622467,"(57.17,9.572)","(57.17,9.572)",Jammerbugt,Jammerbugt,Region Nordjylland,Region Nordjylland
+"(57.283,11.007) → (57.283,11.003)",0.28055600968565003,1931.7513813391247,"(57.283,11.007)","(57.283,11.003)",Læso,Læso,Region Nordjylland,Region Nordjylland
+"(57.284,10.996) → (57.284,10.995)",0.062386652912303005,1930.3727932478112,"(57.284,10.996)","(57.284,10.995)",Læso,Læso,Region Nordjylland,Region Nordjylland
+"(57.284,11.004)",0.0,1932.14362184553,"(57.284,11.004)","(57.284,11.004)",Læso,Læso,Region Nordjylland,Region Nordjylland
+"(57.285,11.007)",0.0,1931.419675199112,"(57.285,11.007)","(57.285,11.007)",Læso,Læso,Region Nordjylland,Region Nordjylland
+"(57.286,11.009)",0.0,1931.4773150512158,"(57.286,11.009)","(57.286,11.009)",Læso,Læso,Region Nordjylland,Region Nordjylland
+"(57.287,11.0)",0.0,1932.130742942995,"(57.287,11.0)","(57.287,11.0)",Læso,Læso,Region Nordjylland,Region Nordjylland
+"(57.288,11.017)",0.0,1931.7865409077415,"(57.288,11.017)","(57.288,11.017)",Læso,Læso,Region Nordjylland,Region Nordjylland
+"(56.686,9.927) → (56.686,9.926)",0.012047085617301001,45500.82025954285,"(56.686,9.927)","(56.686,9.926)",Mariagerfjord,Mariagerfjord,Region Nordjylland,Region Nordjylland
+"(56.686,9.927)",0.0090422528007578,45509.46296463801,"(56.686,9.927)","(56.686,9.927)",Mariagerfjord,Mariagerfjord,Region Nordjylland,Region Nordjylland
+"(56.687,9.93)",0.0027012284640794,45476.157578453516,"(56.687,9.93)","(56.687,9.93)",Mariagerfjord,Mariagerfjord,Region Nordjylland,Region Nordjylland
+"(56.687,9.933)",0.018851427136402,45517.875157895156,"(56.687,9.933)","(56.687,9.933)",Mariagerfjord,Mariagerfjord,Region Nordjylland,Region Nordjylland
+"(56.688,9.934)",0.026490681486489,45508.63466759177,"(56.688,9.934)","(56.688,9.934)",Mariagerfjord,Mariagerfjord,Region Nordjylland,Region Nordjylland
+"(56.69,9.944)",0.012127464128099,45502.17815217698,"(56.69,9.944)","(56.69,9.944)",Mariagerfjord,Mariagerfjord,Region Nordjylland,Region Nordjylland
+"(56.691,9.949)",0.0086288679628884,45517.57175380494,"(56.691,9.949)","(56.691,9.949)",Mariagerfjord,Mariagerfjord,Region Nordjylland,Region Nordjylland
+"(56.806,8.753) → (56.806,8.754)",0.016513691272499,14484.294763702,"(56.806,8.753)","(56.806,8.754)",Morsø,Morsø,Region Nordjylland,Region Nordjylland
+"(56.806,8.756)",0.0263601756258,14489.291448849011,"(56.806,8.756)","(56.806,8.756)",Morsø,Morsø,Region Nordjylland,Region Nordjylland
+"(56.806,8.757)",0.012676439118863002,14486.350007565303,"(56.806,8.757)","(56.806,8.757)",Morsø,Morsø,Region Nordjylland,Region Nordjylland
+"(56.807,8.756) → (56.807,8.757)",0.012582142579836,14486.613671834948,"(56.807,8.756)","(56.807,8.757)",Morsø,Morsø,Region Nordjylland,Region Nordjylland
+"(56.807,8.757)",0.0,14483.862518082804,"(56.807,8.757)","(56.807,8.757)",Morsø,Morsø,Region Nordjylland,Region Nordjylland
+"(56.807,8.758)",0.0,14476.01187099144,"(56.807,8.758)","(56.807,8.758)",Morsø,Morsø,Region Nordjylland,Region Nordjylland
+"(56.81,8.754) → (56.809,8.754)",0.02425892283986,14489.194868982868,"(56.81,8.754)","(56.809,8.754)",Morsø,Morsø,Region Nordjylland,Region Nordjylland
+"(56.837,9.821) → (56.838,9.821)",0.020408594907034,33383.12822725781,"(56.837,9.821)","(56.838,9.821)",Rebild,Rebild,Region Nordjylland,Region Nordjylland
+"(56.838,9.824)",0.0077218119569514,33377.78450723441,"(56.838,9.824)","(56.838,9.824)",Rebild,Rebild,Region Nordjylland,Region Nordjylland
+"(56.838,9.826)",0.0040684508386449,33389.076369268136,"(56.838,9.826)","(56.838,9.826)",Rebild,Rebild,Region Nordjylland,Region Nordjylland
+"(56.839,9.824)",0.0077644534690148,33376.78843518761,"(56.839,9.824)","(56.839,9.824)",Rebild,Rebild,Region Nordjylland,Region Nordjylland
+"(56.839,9.827)",0.014077744063094,33358.697308824005,"(56.839,9.827)","(56.839,9.827)",Rebild,Rebild,Region Nordjylland,Region Nordjylland
+"(56.84,9.828) → (56.84,9.827)",0.014455932190437,33382.52063611733,"(56.84,9.828)","(56.84,9.827)",Rebild,Rebild,Region Nordjylland,Region Nordjylland
+"(56.84,9.829)",0.004634462629163,33389.29892908292,"(56.84,9.829)","(56.84,9.829)",Rebild,Rebild,Region Nordjylland,Region Nordjylland
+"(56.929,8.6) → (56.929,8.599)",0.01562599815413,50100.48870608598,"(56.929,8.6)","(56.929,8.599)",Thisted,Thisted,Region Nordjylland,Region Nordjylland
+"(56.93,8.601) → (56.93,8.602)",0.018087649030149,50127.65925965014,"(56.93,8.601)","(56.93,8.602)",Thisted,Thisted,Region Nordjylland,Region Nordjylland
+"(56.93,8.603)",0.0076807228307422,50137.18081494565,"(56.93,8.603)","(56.93,8.603)",Thisted,Thisted,Region Nordjylland,Region Nordjylland
+"(56.931,8.595)",0.025540806497787005,50129.15523222573,"(56.931,8.595)","(56.931,8.595)",Thisted,Thisted,Region Nordjylland,Region Nordjylland
+"(56.931,8.601) → (56.931,8.6)",0.06866893561088201,50146.114162038066,"(56.931,8.601)","(56.931,8.6)",Thisted,Thisted,Region Nordjylland,Region Nordjylland
+"(56.931,8.602)",0.014299954857292001,50136.26829091062,"(56.931,8.602)","(56.931,8.602)",Thisted,Thisted,Region Nordjylland,Region Nordjylland
+"(56.931,8.604)",0.0085489292716941,50146.448418360604,"(56.931,8.604)","(56.931,8.604)",Thisted,Thisted,Region Nordjylland,Region Nordjylland
+"(56.816,9.387)",0.010471355336626999,53024.667542467,"(56.816,9.387)","(56.816,9.387)",Vesthimmerland,Vesthimmerland,Region Nordjylland,Region Nordjylland
+"(56.816,9.39)",0.00080739318772502,53015.22139160303,"(56.816,9.39)","(56.816,9.39)",Vesthimmerland,Vesthimmerland,Region Nordjylland,Region Nordjylland
+"(56.816,9.39) → (56.816,9.391)",0.012762640680345,52976.423033919134,"(56.816,9.39)","(56.816,9.391)",Vesthimmerland,Vesthimmerland,Region Nordjylland,Region Nordjylland
+"(56.816,9.391)",0.0026344449237069,53005.15326743293,"(56.816,9.391)","(56.816,9.391)",Vesthimmerland,Vesthimmerland,Region Nordjylland,Region Nordjylland
+"(56.817,9.386)",0.0093368134424031,53006.73511379927,"(56.817,9.386)","(56.817,9.386)",Vesthimmerland,Vesthimmerland,Region Nordjylland,Region Nordjylland
+"(56.817,9.387)",0.002592050771653,53014.25648565986,"(56.817,9.387)","(56.817,9.387)",Vesthimmerland,Vesthimmerland,Region Nordjylland,Region Nordjylland
+"(56.817,9.388)",0.0052386810658314,53025.0209862118,"(56.817,9.388)","(56.817,9.388)",Vesthimmerland,Vesthimmerland,Region Nordjylland,Region Nordjylland
+"(55.295,12.046)",0.010804008895298001,48261.94148773075,"(55.295,12.046)","(55.295,12.046)",Faxe,Faxe,Region Sjælland,Region Sjælland
+"(55.295,12.047)",0.013124584714328001,48278.26873032053,"(55.295,12.047)","(55.295,12.047)",Faxe,Faxe,Region Sjælland,Region Sjælland
+"(55.296,12.043)",0.01598774103815,96530.16937030025,"(55.296,12.043)","(55.296,12.043)",Faxe,Faxe,Region Sjælland,Region Sjælland
+"(55.296,12.044)",0.002023094421636,48234.34273405529,"(55.296,12.044)","(55.296,12.044)",Faxe,Faxe,Region Sjælland,Region Sjælland
+"(55.296,12.045)",0.010893076473701649,96547.38013502803,"(55.296,12.045)","(55.296,12.045)",Faxe,Faxe,Region Sjælland,Region Sjælland
+"(55.582,12.295) → (55.665,12.55)",18.542393563085998,485.6158740519796,"(55.582,12.295)","(55.665,12.55)",Greve,København,Region Sjælland,Region Hovedstaden
+"(55.589,12.28)",0.006667360919828,140727.21212925995,"(55.589,12.28)","(55.589,12.28)",Greve,Greve,Region Sjælland,Region Sjælland
+"(55.589,12.281)",0.009706812578087901,187702.62056737795,"(55.589,12.281)","(55.589,12.281)",Greve,Greve,Region Sjælland,Region Sjælland
+"(55.591,12.306) → (55.616,12.335)",3.3020145415595,514.0932222341444,"(55.591,12.306)","(55.616,12.335)",Greve,Greve,Region Sjælland,Region Sjælland
+"(55.591,12.31) → (55.616,12.339)",3.3343921626579,513.8145697369405,"(55.591,12.31)","(55.616,12.339)",Greve,Ishøj,Region Sjælland,Region Hovedstaden
+"(55.591,12.31) → (55.616,12.346)",3.5832165251117,514.181513702096,"(55.591,12.31)","(55.616,12.346)",Greve,Ishøj,Region Sjælland,Region Hovedstaden
+"(55.591,12.312) → (55.673,12.532)",16.576120099338,485.26931586266596,"(55.591,12.312)","(55.673,12.532)",Greve,Frederiksberg,Region Sjælland,Region Hovedstaden
+"(55.591,12.313) → (55.69,12.56)",18.978963467836,485.71447795007776,"(55.591,12.313)","(55.69,12.56)",Greve,København,Region Sjælland,Region Hovedstaden
+"(55.594,12.31) → (55.616,12.337)",2.9398949363385998,514.2859178294941,"(55.594,12.31)","(55.616,12.337)",Greve,Ishøj,Region Sjælland,Region Hovedstaden
+"(55.594,12.314) → (55.616,12.343)",2.9859954834617,514.1908722564044,"(55.594,12.314)","(55.616,12.343)",Greve,Ishøj,Region Sjælland,Region Hovedstaden
+"(55.595,12.313) → (55.616,12.345)",3.0862571027654,514.1085644498615,"(55.595,12.313)","(55.616,12.345)",Greve,Ishøj,Region Sjælland,Region Hovedstaden
+"(55.597,12.311) → (55.616,12.347)",3.1257224550542997,514.2824898036808,"(55.597,12.311)","(55.616,12.347)",Greve,Ishøj,Region Sjælland,Region Hovedstaden
+"(55.616,12.334) → (55.594,12.313)",2.7395106315574997,439.2047033856788,"(55.616,12.334)","(55.594,12.313)",Greve,Greve,Region Sjælland,Region Sjælland
+"(54.775,11.865)",0.016016585878473998,80104.54069834403,"(54.775,11.865)","(54.775,11.865)",Guldborgsund,Guldborgsund,Region Sjælland,Region Sjælland
+"(54.776,11.863) → (54.776,11.864)",0.032714372439933,80131.64044253601,"(54.776,11.863)","(54.776,11.864)",Guldborgsund,Guldborgsund,Region Sjælland,Region Sjælland
+"(54.778,11.86) → (54.778,11.859)",0.02031217207343,80102.15018935762,"(54.778,11.86)","(54.778,11.859)",Guldborgsund,Guldborgsund,Region Sjælland,Region Sjælland
+"(54.778,11.861)",0.0058995310121969,80058.73264713703,"(54.778,11.861)","(54.778,11.861)",Guldborgsund,Guldborgsund,Region Sjælland,Region Sjælland
+"(54.778,11.862)",0.017933767170919997,80115.90710370784,"(54.778,11.862)","(54.778,11.862)",Guldborgsund,Guldborgsund,Region Sjælland,Region Sjælland
+"(54.779,11.859)",0.026814481029476003,80132.17457180805,"(54.779,11.859)","(54.779,11.859)",Guldborgsund,Guldborgsund,Region Sjælland,Region Sjælland
+"(54.779,11.86)",0.008150542680644,80117.365283451,"(54.779,11.86)","(54.779,11.86)",Guldborgsund,Guldborgsund,Region Sjælland,Region Sjælland
+"(55.686,11.646)",0.023255682752011005,85971.38114319743,"(55.686,11.646)","(55.686,11.646)",Holbæk,Holbæk,Region Sjælland,Region Sjælland
+"(55.686,11.647)",0.0043946983215401,171912.4933933454,"(55.686,11.647)","(55.686,11.647)",Holbæk,Holbæk,Region Sjælland,Region Sjælland
+"(55.686,11.648)",0.016369625952448997,85973.94680914663,"(55.686,11.648)","(55.686,11.648)",Holbæk,Holbæk,Region Sjælland,Region Sjælland
+"(55.687,11.648) → (55.687,11.647)",0.017787971689578998,86003.03220112804,"(55.687,11.648)","(55.687,11.647)",Holbæk,Holbæk,Region Sjælland,Region Sjælland
+"(55.687,11.648)",0.00735075253847165,171989.75151883485,"(55.687,11.648)","(55.687,11.648)",Holbæk,Holbæk,Region Sjælland,Region Sjælland
+"(55.633,11.196)",0.0068471314222522,61824.31084894018,"(55.633,11.196)","(55.633,11.196)",Kalundborg,Kalundborg,Region Sjælland,Region Sjælland
+"(55.634,11.196) → (55.635,11.196)",0.016844436335344,61823.18561276452,"(55.634,11.196)","(55.635,11.196)",Kalundborg,Kalundborg,Region Sjælland,Region Sjælland
+"(55.635,11.194) → (55.634,11.195)",0.021505059023307998,61779.065697398524,"(55.635,11.194)","(55.634,11.195)",Kalundborg,Kalundborg,Region Sjælland,Region Sjælland
+"(55.635,11.194)",0.010507955283200001,61812.569790013724,"(55.635,11.194)","(55.635,11.194)",Kalundborg,Kalundborg,Region Sjælland,Region Sjælland
+"(55.635,11.195)",0.0031495539908072,61835.73875902682,"(55.635,11.195)","(55.635,11.195)",Kalundborg,Kalundborg,Region Sjælland,Region Sjælland
+"(55.636,11.194)",0.0087368508999849,61835.32658653423,"(55.636,11.194)","(55.636,11.194)",Kalundborg,Kalundborg,Region Sjælland,Region Sjælland
+"(55.636,11.195)",0.024913968974435003,61814.41447836738,"(55.636,11.195)","(55.636,11.195)",Kalundborg,Kalundborg,Region Sjælland,Region Sjælland
+"(55.459,12.124)",0.014404609392338999,68990.31045738711,"(55.459,12.124)","(55.459,12.124)",Køge,Køge,Region Sjælland,Region Sjælland
+"(55.459,12.124) → (55.46,12.124)",0.033533636311276004,69053.59875856436,"(55.459,12.124)","(55.46,12.124)",Køge,Køge,Region Sjælland,Region Sjælland
+"(55.459,12.125)",0.007636351467447299,138070.6222827476,"(55.459,12.125)","(55.459,12.125)",Køge,Køge,Region Sjælland,Region Sjælland
+"(55.459,12.125) → (55.46,12.125)",0.014774365909476,69039.58032937518,"(55.459,12.125)","(55.46,12.125)",Køge,Køge,Region Sjælland,Region Sjælland
+"(55.459,12.126)",0.01660163849465,69053.13847468172,"(55.459,12.126)","(55.459,12.126)",Køge,Køge,Region Sjælland,Region Sjælland
+"(55.46,12.126)",0.015616399037529,69027.7253603971,"(55.46,12.126)","(55.46,12.126)",Køge,Køge,Region Sjælland,Region Sjælland
+"(55.636,11.909)",0.0065001938626809,27996.66006083445,"(55.636,11.909)","(55.636,11.909)",Lejre,Lejre,Region Sjælland,Region Sjælland
+"(55.636,11.91)",0.014486155158855001,27997.49557233204,"(55.636,11.91)","(55.636,11.91)",Lejre,Lejre,Region Sjælland,Region Sjælland
+"(55.636,11.911)",0.0072525560561781,55988.63905205542,"(55.636,11.911)","(55.636,11.911)",Lejre,Lejre,Region Sjælland,Region Sjælland
+"(55.637,11.909)",0.00891140684372475,56008.94517552214,"(55.637,11.909)","(55.637,11.909)",Lejre,Lejre,Region Sjælland,Region Sjælland
+"(55.637,11.911)",0.0045048966286542,28001.46826702665,"(55.637,11.911)","(55.637,11.911)",Lejre,Lejre,Region Sjælland,Region Sjælland
+"(54.791,11.296)",0.012510252865654,56841.12815698781,"(54.791,11.296)","(54.791,11.296)",Lolland,Lolland,Region Sjælland,Region Sjælland
+"(54.791,11.296) → (54.792,11.295)",0.018323517468687,56808.62336654048,"(54.791,11.296)","(54.792,11.295)",Lolland,Lolland,Region Sjælland,Region Sjælland
+"(54.791,11.3)",0.0099145135566408,56860.73679002344,"(54.791,11.3)","(54.791,11.3)",Lolland,Lolland,Region Sjælland,Region Sjælland
+"(54.792,11.296)",0.01016855726533,56849.19360868799,"(54.792,11.296)","(54.792,11.296)",Lolland,Lolland,Region Sjælland,Region Sjælland
+"(54.792,11.297) → (54.792,11.296)",0.011937140242546999,56860.35777891945,"(54.792,11.297)","(54.792,11.296)",Lolland,Lolland,Region Sjælland,Region Sjælland
+"(54.792,11.297)",0.0023907199984872,56850.228313848704,"(54.792,11.297)","(54.792,11.297)",Lolland,Lolland,Region Sjælland,Region Sjælland
+"(54.792,11.299) → (54.793,11.299)",0.015392060623423002,56839.43188326259,"(54.792,11.299)","(54.793,11.299)",Lolland,Lolland,Region Sjælland,Region Sjælland
+"(55.24,11.75)",0.0080357607299065,107392.18380831028,"(55.24,11.75)","(55.24,11.75)",Næstved,Næstved,Region Sjælland,Region Sjælland
+"(55.24,11.752)",0.011379293385068998,107371.09803487519,"(55.24,11.752)","(55.24,11.752)",Næstved,Næstved,Region Sjælland,Region Sjælland
+"(55.24,11.753)",0.01338542511533,107355.86481255094,"(55.24,11.753)","(55.24,11.753)",Næstved,Næstved,Region Sjælland,Region Sjælland
+"(55.241,11.752)",0.015297912990268699,214647.13405951753,"(55.241,11.752)","(55.241,11.752)",Næstved,Næstved,Region Sjælland,Region Sjælland
+"(55.241,11.755)",0.014463564687401,107373.05228298667,"(55.241,11.755)","(55.241,11.755)",Næstved,Næstved,Region Sjælland,Region Sjælland
+"(55.242,11.752) → (55.241,11.752)",0.014307040887286002,107392.89964675617,"(55.242,11.752)","(55.241,11.752)",Næstved,Næstved,Region Sjælland,Region Sjælland
+"(55.863,11.561)",0.009064533466808002,44798.879745339225,"(55.863,11.561)","(55.863,11.561)",Odsherred,Odsherred,Region Sjælland,Region Sjælland
+"(55.864,11.562) → (55.863,11.562)",0.015779432836256,44790.371987149825,"(55.864,11.562)","(55.863,11.562)",Odsherred,Odsherred,Region Sjælland,Region Sjælland
+"(55.864,11.562)",0.0095236046742613,44807.16059089467,"(55.864,11.562)","(55.864,11.562)",Odsherred,Odsherred,Region Sjælland,Region Sjælland
+"(55.865,11.562)",0.024082591508653998,44766.09438833094,"(55.865,11.562)","(55.865,11.562)",Odsherred,Odsherred,Region Sjælland,Region Sjælland
+"(55.865,11.563) → (55.866,11.563)",0.015397429206766003,44798.06438129512,"(55.865,11.563)","(55.866,11.563)",Odsherred,Odsherred,Region Sjælland,Region Sjælland
+"(55.868,11.565)",0.0081228490001779,44791.70867769418,"(55.868,11.565)","(55.868,11.565)",Odsherred,Odsherred,Region Sjælland,Region Sjælland
+"(55.869,11.566)",0.022170409832555,44806.86192414568,"(55.869,11.566)","(55.869,11.566)",Odsherred,Odsherred,Region Sjælland,Region Sjælland
+"(55.448,11.808)",0.004785739912818938,180509.85889437515,"(55.448,11.808)","(55.448,11.808)",Ringsted,Ringsted,Region Sjælland,Region Sjælland
+"(55.448,11.808) → (55.448,11.809)",0.015874157680545,45135.43129263137,"(55.448,11.808)","(55.448,11.809)",Ringsted,Ringsted,Region Sjælland,Region Sjælland
+"(55.448,11.809) → (55.448,11.808)",0.020227695441562,45094.3648078851,"(55.448,11.809)","(55.448,11.808)",Ringsted,Ringsted,Region Sjælland,Region Sjælland
+"(55.448,11.809)",0.0089699109869746,45118.820434688314,"(55.448,11.809)","(55.448,11.809)",Ringsted,Ringsted,Region Sjælland,Region Sjælland
+"(55.64,12.092) → (55.657,12.59)",31.303201359488,507.1396774452963,"(55.64,12.092)","(55.657,12.59)",Roskilde,København,Region Sjælland,Region Hovedstaden
+"(55.64,12.101) → (55.64,12.277)",11.031476207114,192.85593367638032,"(55.64,12.101)","(55.64,12.277)",Roskilde,Høje-Taastrup,Region Sjælland,Region Hovedstaden
+"(55.652,12.093)",0.0007444057843420401,83142.89004910155,"(55.652,12.093)","(55.652,12.093)",Roskilde,Roskilde,Region Sjælland,Region Sjælland
+"(55.652,12.093) → (55.652,12.094)",0.012993677116771999,83127.5243481187,"(55.652,12.093)","(55.652,12.094)",Roskilde,Roskilde,Region Sjælland,Region Sjælland
+"(55.652,12.093) → (55.653,12.093)",0.015029606360113001,83066.6887741387,"(55.652,12.093)","(55.653,12.093)",Roskilde,Roskilde,Region Sjælland,Region Sjælland
+"(55.652,12.094)",0.0076342851027232,83126.01138183886,"(55.652,12.094)","(55.652,12.094)",Roskilde,Roskilde,Region Sjælland,Region Sjælland
+"(55.653,12.093)",0.025166602056942,83114.21791939427,"(55.653,12.093)","(55.653,12.093)",Roskilde,Roskilde,Region Sjælland,Region Sjælland
+"(55.653,12.093) → (55.653,12.094)",0.016926047534352,83142.33585159505,"(55.653,12.093)","(55.653,12.094)",Roskilde,Roskilde,Region Sjælland,Region Sjælland
+"(55.653,12.094)",0.0086497541026537,83111.73759452002,"(55.653,12.094)","(55.653,12.094)",Roskilde,Roskilde,Region Sjælland,Region Sjælland
+"(55.367,11.309)",0.035217598936904,95667.89500624068,"(55.367,11.309)","(55.367,11.309)",Slagelse,Slagelse,Region Sjælland,Region Sjælland
+"(55.367,11.309) → (55.368,11.309)",0.030399529946555003,95667.2573220222,"(55.367,11.309)","(55.368,11.309)",Slagelse,Slagelse,Region Sjælland,Region Sjælland
+"(55.367,11.31) → (55.366,11.31)",0.0087214151490538,95634.90358276694,"(55.367,11.31)","(55.366,11.31)",Slagelse,Slagelse,Region Sjælland,Region Sjælland
+"(55.367,11.311)",0.033457238561723,95632.04961101407,"(55.367,11.311)","(55.367,11.311)",Slagelse,Slagelse,Region Sjælland,Region Sjælland
+"(55.368,11.31)",0.0182618547907075,191228.68810473243,"(55.368,11.31)","(55.368,11.31)",Slagelse,Slagelse,Region Sjælland,Region Sjælland
+"(55.368,11.31) → (55.368,11.311)",0.021513173528031997,95650.21454952988,"(55.368,11.31)","(55.368,11.311)",Slagelse,Slagelse,Region Sjælland,Region Sjælland
+"(55.53,12.163) → (55.53,12.164)",0.022430388385697,20499.871468563386,"(55.53,12.163)","(55.53,12.164)",Solrød,Solrød,Region Sjælland,Region Sjælland
+"(55.53,12.164)",0.019716834419387,40992.33516642559,"(55.53,12.164)","(55.53,12.164)",Solrød,Solrød,Region Sjælland,Region Sjælland
+"(55.53,12.165)",0.0077967264398401005,40977.43914612361,"(55.53,12.165)","(55.53,12.165)",Solrød,Solrød,Region Sjælland,Region Sjælland
+"(55.53,12.166)",0.0083873645682077,20492.938610709756,"(55.53,12.166)","(55.53,12.166)",Solrød,Solrød,Region Sjælland,Region Sjælland
+"(55.531,12.164)",0.0088574330398841,20495.84644895855,"(55.531,12.164)","(55.531,12.164)",Solrød,Solrød,Region Sjælland,Region Sjælland
+"(55.489,11.54)",0.018764431829304002,35661.27945294938,"(55.489,11.54)","(55.489,11.54)",Sorø,Sorø,Region Sjælland,Region Sjælland
+"(55.489,11.542)",0.009662152633961333,106951.38276712794,"(55.489,11.542)","(55.489,11.542)",Sorø,Sorø,Region Sjælland,Region Sjælland
+"(55.489,11.543)",0.023805709916141,35667.871259466374,"(55.489,11.543)","(55.489,11.543)",Sorø,Sorø,Region Sjælland,Region Sjælland
+"(55.49,11.542) → (55.489,11.543)",0.042533712816466,35654.507017030555,"(55.49,11.542)","(55.489,11.543)",Sorø,Sorø,Region Sjælland,Region Sjælland
+"(55.49,11.544)",0.019694408621616002,35667.63351159278,"(55.49,11.544)","(55.49,11.544)",Sorø,Sorø,Region Sjælland,Region Sjælland
+"(55.343,12.298)",0.019906295598937,27528.97803227422,"(55.343,12.298)","(55.343,12.298)",Stevns,Stevns,Region Sjælland,Region Sjælland
+"(55.343,12.299)",0.020907926295497,27514.056578066306,"(55.343,12.299)","(55.343,12.299)",Stevns,Stevns,Region Sjælland,Region Sjælland
+"(55.343,12.3)",0.0016138375726695,27534.20705534121,"(55.343,12.3)","(55.343,12.3)",Stevns,Stevns,Region Sjælland,Region Sjælland
+"(55.343,12.301)",0.016956999987661998,27533.70591775599,"(55.343,12.301)","(55.343,12.301)",Stevns,Stevns,Region Sjælland,Region Sjælland
+"(55.344,12.299)",0.020849718277171997,55069.096200389664,"(55.344,12.299)","(55.344,12.299)",Stevns,Stevns,Region Sjælland,Region Sjælland
+"(55.344,12.299) → (55.344,12.3)",0.019957650292488,27539.113047751267,"(55.344,12.299)","(55.344,12.3)",Stevns,Stevns,Region Sjælland,Region Sjælland
+"(55.027,12.034)",0.014672357859485001,52746.097860490016,"(55.027,12.034)","(55.027,12.034)",Vordingborg,Vordingborg,Region Sjælland,Region Sjælland
+"(55.028,12.028) → (55.028,12.027)",0.018759440098430998,52746.449447387495,"(55.028,12.028)","(55.028,12.027)",Vordingborg,Vordingborg,Region Sjælland,Region Sjælland
+"(55.029,12.024)",0.017658145695568003,52736.70133579748,"(55.029,12.024)","(55.029,12.024)",Vordingborg,Vordingborg,Region Sjælland,Region Sjælland
+"(55.029,12.028) → (55.029,12.029)",0.025548467875251002,52726.68610538944,"(55.029,12.028)","(55.029,12.029)",Vordingborg,Vordingborg,Region Sjælland,Region Sjælland
+"(55.029,12.029)",0.013885572187675,52698.10680864496,"(55.029,12.029)","(55.029,12.029)",Vordingborg,Vordingborg,Region Sjælland,Region Sjælland
+"(55.029,12.03)",0.006096404419625,52735.74149907123,"(55.029,12.03)","(55.029,12.03)",Vordingborg,Vordingborg,Region Sjælland,Region Sjælland
+"(55.029,12.034)",0.014146085309911998,52728.259641388926,"(55.029,12.034)","(55.029,12.034)",Vordingborg,Vordingborg,Region Sjælland,Region Sjælland
+"(54.998,9.36)",0.0081761013474489,77507.50058212376,"(54.998,9.36)","(54.998,9.36)",Aabenraa,Aabenraa,Region Syddanmark,Region Syddanmark
+"(54.998,9.361)",0.0080526399897075,77564.2647719001,"(54.998,9.361)","(54.998,9.361)",Aabenraa,Aabenraa,Region Syddanmark,Region Syddanmark
+"(54.999,9.361)",0.0055609900363731,77549.53453729225,"(54.999,9.361)","(54.999,9.361)",Aabenraa,Aabenraa,Region Syddanmark,Region Syddanmark
+"(54.999,9.362)",0.0052160476378101,77551.8488679159,"(54.999,9.362)","(54.999,9.362)",Aabenraa,Aabenraa,Region Syddanmark,Region Syddanmark
+"(55.0,9.361)",0.011405440413568002,77562.85305997868,"(55.0,9.361)","(55.0,9.361)",Aabenraa,Aabenraa,Region Syddanmark,Region Syddanmark
+"(55.0,9.362)",0.010067485286934,77578.08502441357,"(55.0,9.362)","(55.0,9.362)",Aabenraa,Aabenraa,Region Syddanmark,Region Syddanmark
+"(55.001,9.36)",0.006029281386194,77578.6021325852,"(55.001,9.36)","(55.001,9.36)",Aabenraa,Aabenraa,Region Syddanmark,Region Syddanmark
+"(55.304,10.065) → (55.304,10.066)",0.038221079120492996,48992.54996615898,"(55.304,10.065)","(55.304,10.066)",Assens,Assens,Region Syddanmark,Region Syddanmark
+"(55.304,10.066) → (55.304,10.067)",0.0087341366262718,48992.876533229166,"(55.304,10.066)","(55.304,10.067)",Assens,Assens,Region Syddanmark,Region Syddanmark
+"(55.304,10.069)",0.013372536641926001,48982.93059003718,"(55.304,10.069)","(55.304,10.069)",Assens,Assens,Region Syddanmark,Region Syddanmark
+"(55.304,10.07) → (55.304,10.069)",0.031455224293720004,48975.98116057778,"(55.304,10.07)","(55.304,10.069)",Assens,Assens,Region Syddanmark,Region Syddanmark
+"(55.305,10.069)",0.010815248123708,48974.51960144439,"(55.305,10.069)","(55.305,10.069)",Assens,Assens,Region Syddanmark,Region Syddanmark
+"(55.305,10.071) → (55.305,10.07)",0.0081292947770647,48947.97408091215,"(55.305,10.071)","(55.305,10.07)",Assens,Assens,Region Syddanmark,Region Syddanmark
+"(55.306,10.071)",0.0045202148835324,48983.82212231497,"(55.306,10.071)","(55.306,10.071)",Assens,Assens,Region Syddanmark,Region Syddanmark
+"(55.742,8.983) → (55.741,8.983)",0.018009121949543,35760.610136989526,"(55.742,8.983)","(55.741,8.983)",Billund,Billund,Region Syddanmark,Region Syddanmark
+"(55.743,8.983)",0.031785688937473,35755.53661781502,"(55.743,8.983)","(55.743,8.983)",Billund,Billund,Region Syddanmark,Region Syddanmark
+"(55.743,8.984)",0.014225036645081998,35767.87129904433,"(55.743,8.984)","(55.743,8.984)",Billund,Billund,Region Syddanmark,Region Syddanmark
+"(55.744,8.982)",0.015943287942568,35735.08969385735,"(55.744,8.982)","(55.744,8.982)",Billund,Billund,Region Syddanmark,Region Syddanmark
+"(55.744,8.983)",0.023915251783094997,71528.89389605384,"(55.744,8.983)","(55.744,8.983)",Billund,Billund,Region Syddanmark,Region Syddanmark
+"(55.744,8.985) → (55.744,8.986)",0.0029634047411948,35754.469588020525,"(55.744,8.985)","(55.744,8.986)",Billund,Billund,Region Syddanmark,Region Syddanmark
+"(55.465,8.539)",0.0106275734016308,443428.02962467173,"(55.465,8.539)","(55.465,8.539)",Esbjerg,Esbjerg,Region Syddanmark,Region Syddanmark
+"(55.466,8.537)",0.022644789307795,147805.760959615,"(55.466,8.537)","(55.466,8.537)",Esbjerg,Esbjerg,Region Syddanmark,Region Syddanmark
+"(55.466,8.538)",0.016351868037902,147835.77279606997,"(55.466,8.538)","(55.466,8.538)",Esbjerg,Esbjerg,Region Syddanmark,Region Syddanmark
+"(55.466,8.539) → (55.465,8.54)",0.027545285140282,147780.38084139008,"(55.466,8.539)","(55.465,8.54)",Esbjerg,Esbjerg,Region Syddanmark,Region Syddanmark
+"(55.466,8.54)",0.0031082461874887,147700.27985896467,"(55.466,8.54)","(55.466,8.54)",Esbjerg,Esbjerg,Region Syddanmark,Region Syddanmark
+"(55.473,8.448) → (55.597,8.514)",14.434018036998,207.07150512563865,"(55.473,8.448)","(55.597,8.514)",Esbjerg,Varde,Region Syddanmark,Region Syddanmark
+"(55.204,10.381)",0.0047450783239085,58817.4883651168,"(55.204,10.381)","(55.204,10.381)",Faaborg-Midtfyn,Faaborg-Midtfyn,Region Syddanmark,Region Syddanmark
+"(55.204,10.383)",0.012757112990165001,58795.8422012092,"(55.204,10.383)","(55.204,10.383)",Faaborg-Midtfyn,Faaborg-Midtfyn,Region Syddanmark,Region Syddanmark
+"(55.205,10.38)",0.0073746149946037,58797.596860588674,"(55.205,10.38)","(55.205,10.38)",Faaborg-Midtfyn,Faaborg-Midtfyn,Region Syddanmark,Region Syddanmark
+"(55.205,10.382)",0.008985616344179333,176376.92342602927,"(55.205,10.382)","(55.205,10.382)",Faaborg-Midtfyn,Faaborg-Midtfyn,Region Syddanmark,Region Syddanmark
+"(55.207,10.383)",0.0010757011389454,58817.88042176347,"(55.207,10.383)","(55.207,10.383)",Faaborg-Midtfyn,Faaborg-Midtfyn,Region Syddanmark,Region Syddanmark
+"(55.413,8.4)",0.0,2032.1436614234872,"(55.413,8.4)","(55.413,8.4)",Fanø,Fanø,Region Syddanmark,Region Syddanmark
+"(55.414,8.399)",0.0,2031.7680994020423,"(55.414,8.399)","(55.414,8.399)",Fanø,Fanø,Region Syddanmark,Region Syddanmark
+"(55.415,8.398)",0.0,2031.4428692498,"(55.415,8.398)","(55.415,8.398)",Fanø,Fanø,Region Syddanmark,Region Syddanmark
+"(55.416,8.397)",0.0,4061.663427996856,"(55.416,8.397)","(55.416,8.397)",Fanø,Fanø,Region Syddanmark,Region Syddanmark
+"(55.416,8.398)",0.052998487611549,2032.1301159603775,"(55.416,8.398)","(55.416,8.398)",Fanø,Fanø,Region Syddanmark,Region Syddanmark
+"(55.42,8.394)",0.0,2031.7311201145321,"(55.42,8.394)","(55.42,8.394)",Fanø,Fanø,Region Syddanmark,Region Syddanmark
+"(55.567,9.711)",0.01537440709748115,91620.78768949724,"(55.567,9.711)","(55.567,9.711)",Fredericia,Fredericia,Region Syddanmark,Region Syddanmark
+"(55.568,9.712)",0.013086169739768224,183322.26275343163,"(55.568,9.712)","(55.568,9.712)",Fredericia,Fredericia,Region Syddanmark,Region Syddanmark
+"(55.568,9.713) → (55.568,9.714)",0.024009220705683,45838.99830993224,"(55.568,9.713)","(55.568,9.714)",Fredericia,Fredericia,Region Syddanmark,Region Syddanmark
+"(55.25,9.388)",0.016503884553787998,73496.8924127882,"(55.25,9.388)","(55.25,9.388)",Haderslev,Haderslev,Region Syddanmark,Region Syddanmark
+"(55.25,9.389)",0.0030931992491239,73550.71935234318,"(55.25,9.389)","(55.25,9.389)",Haderslev,Haderslev,Region Syddanmark,Region Syddanmark
+"(55.25,9.391)",0.0097403177009556,73536.75133040908,"(55.25,9.391)","(55.25,9.391)",Haderslev,Haderslev,Region Syddanmark,Region Syddanmark
+"(55.25,9.392)",0.012323756591633001,73549.38068913732,"(55.25,9.392)","(55.25,9.392)",Haderslev,Haderslev,Region Syddanmark,Region Syddanmark
+"(55.25,9.394)",0.013182235658876001,73564.31482952723,"(55.25,9.394)","(55.25,9.394)",Haderslev,Haderslev,Region Syddanmark,Region Syddanmark
+"(55.25,9.395)",0.014745753885232001,73538.94590651561,"(55.25,9.395)","(55.25,9.395)",Haderslev,Haderslev,Region Syddanmark,Region Syddanmark
+"(55.25,9.397)",0.020614926633516998,73563.82447900152,"(55.25,9.397)","(55.25,9.397)",Haderslev,Haderslev,Region Syddanmark,Region Syddanmark
+"(55.437,10.599)",0.0057182527206537,23199.292340624022,"(55.437,10.599)","(55.437,10.599)",Kerteminde,Kerteminde,Region Syddanmark,Region Syddanmark
+"(55.438,10.6)",0.018244860585055,23182.314302645154,"(55.438,10.6)","(55.438,10.6)",Kerteminde,Kerteminde,Region Syddanmark,Region Syddanmark
+"(55.438,10.601)",0.020920318121873,23194.8865614947,"(55.438,10.601)","(55.438,10.601)",Kerteminde,Kerteminde,Region Syddanmark,Region Syddanmark
+"(55.439,10.601)",0.0026270262063179,23203.580612070997,"(55.439,10.601)","(55.439,10.601)",Kerteminde,Kerteminde,Region Syddanmark,Region Syddanmark
+"(55.439,10.602)",0.027170176759335,23198.87010085082,"(55.439,10.602)","(55.439,10.602)",Kerteminde,Kerteminde,Region Syddanmark,Region Syddanmark
+"(55.44,10.601)",0.011663967850371,23195.578772435765,"(55.44,10.601)","(55.44,10.601)",Kerteminde,Kerteminde,Region Syddanmark,Region Syddanmark
+"(55.441,10.604) → (55.441,10.603)",0.018621719721744,23203.425946211904,"(55.441,10.604)","(55.441,10.603)",Kerteminde,Kerteminde,Region Syddanmark,Region Syddanmark
+"(55.475,9.455) → (55.476,9.455)",0.020352922008057,104102.91871727425,"(55.475,9.455)","(55.476,9.455)",Kolding,Kolding,Region Syddanmark,Region Syddanmark
+"(55.477,9.453)",0.022005856374595997,104008.20064765333,"(55.477,9.453)","(55.477,9.453)",Kolding,Kolding,Region Syddanmark,Region Syddanmark
+"(55.477,9.454) → (55.477,9.453)",0.0062487355604467,104084.37316251341,"(55.477,9.454)","(55.477,9.453)",Kolding,Kolding,Region Syddanmark,Region Syddanmark
+"(55.477,9.454)",0.011536591293488,208147.08526253802,"(55.477,9.454)","(55.477,9.454)",Kolding,Kolding,Region Syddanmark,Region Syddanmark
+"(55.477,9.455)",0.011412581448927001,208171.32474972872,"(55.477,9.455)","(55.477,9.455)",Kolding,Kolding,Region Syddanmark,Region Syddanmark
+"(55.482,9.404) → (55.476,9.185)",13.863453279149,239.203290403755,"(55.482,9.404)","(55.476,9.185)",Kolding,Vejen,Region Syddanmark,Region Syddanmark
+"(54.918,10.763)",0.0,10055.288168569687,"(54.918,10.763)","(54.918,10.763)",Langeland,Langeland,Region Syddanmark,Region Syddanmark
+"(54.919,10.765)",0.012173623144086002,10047.929363744615,"(54.919,10.765)","(54.919,10.765)",Langeland,Langeland,Region Syddanmark,Region Syddanmark
+"(54.921,10.767)",0.023905034578994996,10053.678593686182,"(54.921,10.767)","(54.921,10.767)",Langeland,Langeland,Region Syddanmark,Region Syddanmark
+"(54.922,10.766)",0.0,10053.37856813438,"(54.922,10.766)","(54.922,10.766)",Langeland,Langeland,Region Syddanmark,Region Syddanmark
+"(54.924,10.768)",0.0,10057.079800605314,"(54.924,10.768)","(54.924,10.768)",Langeland,Langeland,Region Syddanmark,Region Syddanmark
+"(54.927,10.77)",0.0,10057.146837554552,"(54.927,10.77)","(54.927,10.77)",Langeland,Langeland,Region Syddanmark,Region Syddanmark
+"(54.927,10.771)",0.0,10055.10515684099,"(54.927,10.771)","(54.927,10.771)",Langeland,Langeland,Region Syddanmark,Region Syddanmark
+"(55.479,9.832)",0.0042179698393279,43680.43372998431,"(55.479,9.832)","(55.479,9.832)",Middelfart,Middelfart,Region Syddanmark,Region Syddanmark
+"(55.479,9.834)",0.0058804595736441,87354.16199932557,"(55.479,9.834)","(55.479,9.834)",Middelfart,Middelfart,Region Syddanmark,Region Syddanmark
+"(55.479,9.837)",0.0060048758834532,43649.26133049995,"(55.479,9.837)","(55.479,9.837)",Middelfart,Middelfart,Region Syddanmark,Region Syddanmark
+"(55.48,9.833)",0.025324822430277002,43689.303005612506,"(55.48,9.833)","(55.48,9.833)",Middelfart,Middelfart,Region Syddanmark,Region Syddanmark
+"(55.48,9.834)",0.017398470568313,43689.01179005852,"(55.48,9.834)","(55.48,9.834)",Middelfart,Middelfart,Region Syddanmark,Region Syddanmark
+"(55.48,9.835)",0.019524986666999998,43674.23658968858,"(55.48,9.835)","(55.48,9.835)",Middelfart,Middelfart,Region Syddanmark,Region Syddanmark
+"(55.52,10.254) → (55.52,10.253)",0.0089474471539618,36518.26424004339,"(55.52,10.254)","(55.52,10.253)",Nordfyns,Nordfyns,Region Syddanmark,Region Syddanmark
+"(55.521,10.251)",0.027783620547346004,36491.53892152563,"(55.521,10.251)","(55.521,10.251)",Nordfyns,Nordfyns,Region Syddanmark,Region Syddanmark
+"(55.522,10.25) → (55.522,10.251)",0.027967391596808,36525.01445584887,"(55.522,10.25)","(55.522,10.251)",Nordfyns,Nordfyns,Region Syddanmark,Region Syddanmark
+"(55.522,10.251)",0.015663504199429,36511.329054087466,"(55.522,10.251)","(55.522,10.251)",Nordfyns,Nordfyns,Region Syddanmark,Region Syddanmark
+"(55.523,10.259)",6.4516111806262e-06,36512.41867103287,"(55.523,10.259)","(55.523,10.259)",Nordfyns,Nordfyns,Region Syddanmark,Region Syddanmark
+"(55.524,10.252)",0.0089607804105191,36517.59958771762,"(55.524,10.252)","(55.524,10.252)",Nordfyns,Nordfyns,Region Syddanmark,Region Syddanmark
+"(55.527,10.251)",0.0048790586519873,36524.77099459891,"(55.527,10.251)","(55.527,10.251)",Nordfyns,Nordfyns,Region Syddanmark,Region Syddanmark
+"(55.316,10.73)",0.0078897882589715,38960.41204334179,"(55.316,10.73)","(55.316,10.73)",Nyborg,Nyborg,Region Syddanmark,Region Syddanmark
+"(55.317,10.729)",0.029216260760566,38967.81242315375,"(55.317,10.729)","(55.317,10.729)",Nyborg,Nyborg,Region Syddanmark,Region Syddanmark
+"(55.317,10.73) → (55.316,10.73)",0.034473626020699,38974.75563352478,"(55.317,10.73)","(55.316,10.73)",Nyborg,Nyborg,Region Syddanmark,Region Syddanmark
+"(55.317,10.73) → (55.317,10.729)",0.0025336508347156,38939.29444124466,"(55.317,10.73)","(55.317,10.729)",Nyborg,Nyborg,Region Syddanmark,Region Syddanmark
+"(55.317,10.73)",0.0034285656492822,38961.57474889818,"(55.317,10.73)","(55.317,10.73)",Nyborg,Nyborg,Region Syddanmark,Region Syddanmark
+"(55.317,10.731)",0.0086332851661121,38975.01542550881,"(55.317,10.731)","(55.317,10.731)",Nyborg,Nyborg,Region Syddanmark,Region Syddanmark
+"(55.318,10.729) → (55.317,10.729)",0.023579189716305002,38967.103187715096,"(55.318,10.729)","(55.317,10.729)",Nyborg,Nyborg,Region Syddanmark,Region Syddanmark
+"(55.329,10.789) → (55.392,10.371)",27.285128848023,189.2148665167337,"(55.329,10.789)","(55.392,10.371)",Nyborg,Odense,Region Syddanmark,Region Syddanmark
+"(55.375,10.422) → (55.375,10.554)",8.329586469345,253.56983872264814,"(55.375,10.422)","(55.375,10.554)",Odense,Kerteminde,Region Syddanmark,Region Syddanmark
+"(55.393,10.385)",0.0068684638823752675,690128.3544009656,"(55.393,10.385)","(55.393,10.385)",Odense,Odense,Region Syddanmark,Region Syddanmark
+"(55.393,10.385) → (55.393,10.386)",0.0045761212967192,230049.30179785608,"(55.393,10.385)","(55.393,10.386)",Odense,Odense,Region Syddanmark,Region Syddanmark
+"(55.393,10.386)",0.014954041986855432,690255.6973998818,"(55.393,10.386)","(55.393,10.386)",Odense,Odense,Region Syddanmark,Region Syddanmark
+"(55.078,10.609)",0.0094165591565361,57578.665382878615,"(55.078,10.609)","(55.078,10.609)",Svendborg,Svendborg,Region Syddanmark,Region Syddanmark
+"(55.078,10.61)",0.011056701318802,57536.52734033448,"(55.078,10.61)","(55.078,10.61)",Svendborg,Svendborg,Region Syddanmark,Region Syddanmark
+"(55.079,10.612)",0.0076327141876977,57569.448623291784,"(55.079,10.612)","(55.079,10.612)",Svendborg,Svendborg,Region Syddanmark,Region Syddanmark
+"(55.079,10.613) → (55.079,10.612)",0.0306143223249565,115157.03912170953,"(55.079,10.613)","(55.079,10.612)",Svendborg,Svendborg,Region Syddanmark,Region Syddanmark
+"(55.079,10.613)",0.016519280183397,57588.92463947467,"(55.079,10.613)","(55.079,10.613)",Svendborg,Svendborg,Region Syddanmark,Region Syddanmark
+"(55.08,10.613)",0.032541236002391005,57577.617419765964,"(55.08,10.613)","(55.08,10.613)",Svendborg,Svendborg,Region Syddanmark,Region Syddanmark
+"(54.947,9.786)",0.012469216377839,67713.86115748463,"(54.947,9.786)","(54.947,9.786)",Sønderborg,Sønderborg,Region Syddanmark,Region Syddanmark
+"(54.948,9.784)",0.017324361758537,67700.56597077598,"(54.948,9.784)","(54.948,9.784)",Sønderborg,Sønderborg,Region Syddanmark,Region Syddanmark
+"(54.948,9.785)",0.017840518610708,67688.94092749569,"(54.948,9.785)","(54.948,9.785)",Sønderborg,Sønderborg,Region Syddanmark,Region Syddanmark
+"(54.948,9.786)",0.0172163234601816,135405.27350011514,"(54.948,9.786)","(54.948,9.786)",Sønderborg,Sønderborg,Region Syddanmark,Region Syddanmark
+"(54.948,9.787)",0.0041212381574353,67652.2516820305,"(54.948,9.787)","(54.948,9.787)",Sønderborg,Sønderborg,Region Syddanmark,Region Syddanmark
+"(54.949,9.785)",0.020024149752903002,67701.79818042657,"(54.949,9.785)","(54.949,9.785)",Sønderborg,Sønderborg,Region Syddanmark,Region Syddanmark
+"(55.062,8.874)",0.022912244289624,54438.96776320942,"(55.062,8.874)","(55.062,8.874)",Tønder,Tønder,Region Syddanmark,Region Syddanmark
+"(55.063,8.866) → (55.063,8.867)",0.038287672676026,54449.6586079647,"(55.063,8.866)","(55.063,8.867)",Tønder,Tønder,Region Syddanmark,Region Syddanmark
+"(55.063,8.876)",0.016977002384618,54450.021550197685,"(55.063,8.876)","(55.063,8.876)",Tønder,Tønder,Region Syddanmark,Region Syddanmark
+"(55.063,8.88)",0.0062069126105668,54429.61990404003,"(55.063,8.88)","(55.063,8.88)",Tønder,Tønder,Region Syddanmark,Region Syddanmark
+"(55.063,8.882)",0.0085937398335773,54439.95860014681,"(55.063,8.882)","(55.063,8.882)",Tønder,Tønder,Region Syddanmark,Region Syddanmark
+"(55.064,8.876)",0.0026061759451064,54400.11757089857,"(55.064,8.876)","(55.064,8.876)",Tønder,Tønder,Region Syddanmark,Region Syddanmark
+"(55.065,8.871) → (55.064,8.871)",0.027850524172482002,54431.24426112908,"(55.065,8.871)","(55.064,8.871)",Tønder,Tønder,Region Syddanmark,Region Syddanmark
+"(55.667,8.447)",0.012028703026885,70224.55970145678,"(55.667,8.447)","(55.667,8.447)",Varde,Varde,Region Syddanmark,Region Syddanmark
+"(55.667,8.469)",0.017367879801993998,70198.7154777082,"(55.667,8.469)","(55.667,8.469)",Varde,Varde,Region Syddanmark,Region Syddanmark
+"(55.667,8.479)",0.002807675930987,70212.04945262277,"(55.667,8.479)","(55.667,8.479)",Varde,Varde,Region Syddanmark,Region Syddanmark
+"(55.668,8.472)",0.020889395936203,70225.02779362044,"(55.668,8.472)","(55.668,8.472)",Varde,Varde,Region Syddanmark,Region Syddanmark
+"(55.669,8.465)",0.022358170735560005,70210.77155502996,"(55.669,8.465)","(55.669,8.465)",Varde,Varde,Region Syddanmark,Region Syddanmark
+"(55.669,8.466)",0.0021112214004195,70160.66586623236,"(55.669,8.466)","(55.669,8.466)",Varde,Varde,Region Syddanmark,Region Syddanmark
+"(55.67,8.454) → (55.67,8.455)",0.0090571000171338,70200.81043595573,"(55.67,8.454)","(55.67,8.455)",Varde,Varde,Region Syddanmark,Region Syddanmark
+"(55.467,9.082) → (55.468,9.082)",0.014330771015931002,59568.75970726347,"(55.467,9.082)","(55.468,9.082)",Vejen,Vejen,Region Syddanmark,Region Syddanmark
+"(55.468,9.08)",0.010604375693251,59578.29655276463,"(55.468,9.08)","(55.468,9.08)",Vejen,Vejen,Region Syddanmark,Region Syddanmark
+"(55.468,9.082)",0.0077845063850709,59589.3092985077,"(55.468,9.082)","(55.468,9.082)",Vejen,Vejen,Region Syddanmark,Region Syddanmark
+"(55.468,9.083)",0.0086065853487919,59577.212195274114,"(55.468,9.083)","(55.468,9.083)",Vejen,Vejen,Region Syddanmark,Region Syddanmark
+"(55.469,9.081)",0.00074205172344606,59534.69511153369,"(55.469,9.081)","(55.469,9.081)",Vejen,Vejen,Region Syddanmark,Region Syddanmark
+"(55.469,9.083)",0.0031965094102581653,119155.89413438272,"(55.469,9.083)","(55.469,9.083)",Vejen,Vejen,Region Syddanmark,Region Syddanmark
+"(55.714,9.489)",0.00341651814218,129401.83971170298,"(55.714,9.489)","(55.714,9.489)",Vejle,Vejle,Region Syddanmark,Region Syddanmark
+"(55.715,9.489)",0.0056010576661237,129327.84083413477,"(55.715,9.489)","(55.715,9.489)",Vejle,Vejle,Region Syddanmark,Region Syddanmark
+"(55.715,9.49)",0.01039951669710705,258842.75784073505,"(55.715,9.49)","(55.715,9.49)",Vejle,Vejle,Region Syddanmark,Region Syddanmark
+"(55.715,9.529) → (55.491,9.47)",25.115585267462002,207.10465688105177,"(55.715,9.529)","(55.491,9.47)",Vejle,Kolding,Region Syddanmark,Region Syddanmark
+"(55.715,9.531) → (55.491,9.47)",25.132698864355998,207.06532562208594,"(55.715,9.531)","(55.491,9.47)",Vejle,Kolding,Region Syddanmark,Region Syddanmark
+"(55.716,9.487)",0.015206458808018249,258892.09676850296,"(55.716,9.487)","(55.716,9.487)",Vejle,Vejle,Region Syddanmark,Region Syddanmark
+"(55.716,9.488) → (55.716,9.489)",0.0079349872471397,129397.97805469835,"(55.716,9.488)","(55.716,9.489)",Vejle,Vejle,Region Syddanmark,Region Syddanmark
+"(54.885,10.376)",0.0,3610.0484156335056,"(54.885,10.376)","(54.885,10.376)",Ærø,Ærø,Region Syddanmark,Region Syddanmark
+"(54.886,10.372)",0.0,3610.7157147612397,"(54.886,10.372)","(54.886,10.372)",Ærø,Ærø,Region Syddanmark,Region Syddanmark
+"(54.886,10.374)",0.031608553730049,3609.470546241736,"(54.886,10.374)","(54.886,10.374)",Ærø,Ærø,Region Syddanmark,Region Syddanmark
+"(54.887,10.37)",0.0,7217.389169144902,"(54.887,10.37)","(54.887,10.37)",Ærø,Ærø,Region Syddanmark,Region Syddanmark
+"(54.887,10.371)",0.0,3610.6916471633417,"(54.887,10.371)","(54.887,10.371)",Ærø,Ærø,Region Syddanmark,Region Syddanmark
+"(54.888,10.372) → (54.887,10.372)",0.03245955325131,3609.362831102222,"(54.888,10.372)","(54.887,10.372)",Ærø,Ærø,Region Syddanmark,Region Syddanmark
